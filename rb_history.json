@@ -25,6 +25,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Darion": [
@@ -37,6 +42,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-10-21 00:42:13"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Queen Shyeed": [
@@ -77,6 +87,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-21 05:19:44"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Tully": [
@@ -96,6 +111,11 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-21 05:19:44"
+    },
+    {
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Gorgolos": [
@@ -143,6 +163,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-21 05:19:44"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Gordon": [
@@ -197,6 +222,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-21 05:19:44"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Varka's Chief Horus": [
@@ -327,6 +357,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-21 00:42:13"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -353,6 +388,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-21 05:19:44"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Krokian Padisha Sobekk": [
@@ -372,6 +412,11 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-10-21 05:19:44"
+    },
+    {
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Plague Golem": [
@@ -405,6 +450,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-10-21 05:19:44"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Eilhalder von Hellmann": [
@@ -623,6 +673,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Lord Ishka": [
@@ -920,6 +975,11 @@
       "level": "45",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "45",
+      "state": "yes",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Evil Spirit Cyrion": [
@@ -1037,6 +1097,11 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Leto Chief Talkin": [
@@ -1223,6 +1288,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Soul Collector Acheron": [
@@ -1322,6 +1392,11 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Boss Akata": [
@@ -1329,6 +1404,11 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Cat's Eye Bandit": [
@@ -1343,6 +1423,11 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Ragraman": [
@@ -1364,6 +1449,11 @@
       "level": "29",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "29",
+      "state": "no",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Partisan Leader Talakin": [
@@ -1390,6 +1480,11 @@
       "level": "26",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "26",
+      "state": "no",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Tiger Hornet": [
@@ -1397,6 +1492,11 @@
       "level": "26",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "26",
+      "state": "no",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Betrayer of Urutu Freki": [
@@ -1411,6 +1511,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Mammon Collector Talos": [
@@ -1418,6 +1523,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Pan Dryad": [
@@ -1451,6 +1561,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Langk Matriarch Rashkos": [
@@ -1482,6 +1597,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-21 05:19:44"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Kuroboros' Priest": [
@@ -1489,6 +1609,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Lead Tracker Sharuk": [
@@ -1517,6 +1642,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Serpent Demon Bifrons": [
@@ -1524,6 +1654,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Sukar Wererat Chief": [
@@ -1550,6 +1685,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-10-21 00:42:13"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ],
   "Zombie Lord Ferkel": [
@@ -1557,6 +1697,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-10-21 10:18:09"
     }
   ]
 }
