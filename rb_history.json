@@ -230,6 +230,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-21 23:28:11"
     }
   ],
   "Ketra's Chief Brakki": [
@@ -572,6 +577,11 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-10-21 13:09:35"
+    },
+    {
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-10-21 23:28:11"
     }
   ],
   "Immortal Savior Mardil": [
@@ -650,6 +660,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-21 23:28:11"
     }
   ],
   "Shilen's Messenger Cabrio": [
