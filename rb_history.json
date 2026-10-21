@@ -66,6 +66,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-10-21 15:23:45"
     }
   ],
   "Gwindorr": [
@@ -85,6 +90,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-21 13:20:42"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-21 15:23:45"
     }
   ],
   "Last Titan Utenus": [
@@ -218,6 +228,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-21 11:13:51"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-21 15:23:45"
     }
   ],
   "Sailren": [
@@ -275,6 +290,11 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-10-21 15:23:45"
     }
   ],
   "Longhorn Golkonda": [
@@ -294,6 +314,11 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-10-21 05:19:44"
+    },
+    {
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-10-21 15:23:45"
     }
   ],
   "Hestia, Guardian Deity of the Hot Springs": [
@@ -670,6 +695,11 @@
       "level": "62",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "62",
+      "state": "yes",
+      "timestamp": "2026-10-21 15:23:45"
     }
   ],
   "Fairy Queen Timiniel": [
@@ -677,6 +707,11 @@
       "level": "61",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "61",
+      "state": "yes",
+      "timestamp": "2026-10-21 15:23:45"
     }
   ],
   "Ancient Drake": [
@@ -829,6 +864,11 @@
       "level": "55",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "55",
+      "state": "no",
+      "timestamp": "2026-10-21 15:23:45"
     }
   ],
   "Furious Thieles": [
@@ -1340,6 +1380,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-21 15:23:45"
     }
   ],
   "Guilotine, Warden of the Execution Grounds": [
@@ -1735,6 +1780,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-21 15:23:45"
     }
   ],
   "Malex Herald of Dagoniel": [
