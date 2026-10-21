@@ -32,6 +32,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-10-21 00:42:13"
     }
   ],
   "Queen Shyeed": [
@@ -179,6 +184,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-21 00:42:13"
     }
   ],
   "Varka's Commander Mos": [
@@ -277,6 +287,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-21 00:42:13"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -368,6 +383,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-21 00:42:13"
     }
   ],
   "Fafurion's Herald Lokness": [
@@ -417,6 +437,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-21 00:42:13"
     }
   ],
   "Spirit of Andras, the Betrayer": [
@@ -466,6 +491,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-10-21 00:42:13"
     }
   ],
   "Shilen's Priest Hisilrome": [
@@ -501,6 +531,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-21 00:42:13"
     }
   ],
   "Guardian of the Statue of Giant Karum": [
@@ -522,6 +557,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-21 00:42:13"
     }
   ],
   "The 3rd Underwater Guardian": [
@@ -746,6 +786,11 @@
       "level": "49",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "49",
+      "state": "no",
+      "timestamp": "2026-10-21 00:42:13"
     }
   ],
   "Ketra Commander Atis": [
@@ -928,6 +973,11 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-10-21 00:42:13"
     }
   ],
   "Shaman King Selu": [
@@ -942,6 +992,11 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-10-21 00:42:13"
     }
   ],
   "Wizard of Storm Teruk": [
@@ -1054,6 +1109,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-21 00:42:13"
     }
   ],
   "Remmel": [
@@ -1103,6 +1163,11 @@
       "level": "34",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "34",
+      "state": "yes",
+      "timestamp": "2026-10-21 00:42:13"
     }
   ],
   "Stakato Queen Zyrnna": [
@@ -1131,6 +1196,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-10-21 00:42:13"
     }
   ],
   "Captain of Queen's Royal Guards": [
@@ -1355,6 +1425,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-10-21 00:42:13"
     }
   ],
   "Zombie Lord Ferkel": [
