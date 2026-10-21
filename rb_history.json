@@ -64,6 +64,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-10-21 21:10:38"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-10-21 21:42:53"
     }
   ],
   "Water Spirit Lian": [
@@ -93,6 +98,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-21 20:05:00"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-21 21:42:53"
     }
   ],
   "Hekaton Prime": [
@@ -163,6 +173,11 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-21 21:10:38"
+    },
+    {
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-21 21:42:53"
     }
   ],
   "Hannibal": [
@@ -308,6 +323,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-21 21:10:38"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-21 21:42:53"
     }
   ],
   "Cherub Galaxia": [
@@ -654,6 +674,11 @@
       "level": "69",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "69",
+      "state": "no",
+      "timestamp": "2026-10-21 21:42:53"
     }
   ],
   "Kernon's Faithful Servant Kelone": [
@@ -864,6 +889,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-21 21:42:53"
     }
   ],
   "Abyss Brukunt": [
@@ -1550,6 +1580,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-21 21:42:53"
     }
   ],
   "Tasaba Patriarch Hellena": [
@@ -1950,6 +1985,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-10-21 15:23:45"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-10-21 21:42:53"
     }
   ],
   "Malex Herald of Dagoniel": [
