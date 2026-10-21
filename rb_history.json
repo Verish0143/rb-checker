@@ -30,6 +30,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-10-21 10:18:09"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-10-21 11:13:51"
     }
   ],
   "Darion": [
@@ -203,6 +208,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-21 11:13:51"
     }
   ],
   "Sailren": [
@@ -462,6 +472,11 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-10-21 11:13:51"
     }
   ],
   "Immortal Savior Mardil": [
@@ -590,6 +605,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-10-21 05:19:44"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-10-21 11:13:51"
     }
   ],
   "Fierce Tiger King Angel": [
@@ -678,6 +698,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-21 10:18:09"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-21 11:13:51"
     }
   ],
   "Lord Ishka": [
@@ -697,6 +722,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-21 00:42:13"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-21 11:13:51"
     }
   ],
   "The 3rd Underwater Guardian": [
@@ -1354,6 +1384,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-10-21 11:13:51"
     }
   ],
   "Vuku Grand Seer Gharmash": [
