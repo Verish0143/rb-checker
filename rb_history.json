@@ -477,6 +477,11 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-10-21 11:13:51"
+    },
+    {
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-10-21 13:09:35"
     }
   ],
   "Immortal Savior Mardil": [
@@ -586,6 +591,11 @@
       "level": "67",
       "state": "yes",
       "timestamp": "2026-10-21 05:19:44"
+    },
+    {
+      "level": "67",
+      "state": "no",
+      "timestamp": "2026-10-21 13:09:35"
     }
   ],
   "Demon's Agent Falston": [
@@ -674,6 +684,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-21 05:19:44"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-21 13:09:35"
     }
   ],
   "Ghost of the Well Lidia": [
@@ -755,6 +770,11 @@
       "level": "59",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "59",
+      "state": "no",
+      "timestamp": "2026-10-21 13:09:35"
     }
   ],
   "Eva's Guardian Millenu": [
@@ -956,6 +976,11 @@
       "level": "49",
       "state": "no",
       "timestamp": "2026-10-21 00:42:13"
+    },
+    {
+      "level": "49",
+      "state": "yes",
+      "timestamp": "2026-10-21 13:09:35"
     }
   ],
   "Ketra Commander Atis": [
@@ -1191,6 +1216,11 @@
       "level": "39",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "39",
+      "state": "no",
+      "timestamp": "2026-10-21 13:09:35"
     }
   ],
   "Nellis' Vengeful Spirit": [
@@ -1250,6 +1280,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-21 13:09:35"
     }
   ],
   "Chertuba of Great Soul": [
@@ -1271,6 +1306,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-21 13:09:35"
     }
   ],
   "Gargoyle Lord Sirocco": [
@@ -1311,6 +1351,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-21 13:09:35"
     }
   ],
   "Sejarr's Servitor": [
@@ -1413,6 +1458,11 @@
       "level": "32",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "32",
+      "state": "yes",
+      "timestamp": "2026-10-21 13:09:35"
     }
   ],
   "Apepi": [
