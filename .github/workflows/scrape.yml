@@ -2,7 +2,7 @@ name: RB Checker Scraper
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # každých 20 minut
+    - cron: "1,21,41 * * * *"   # každých 20 minut
   workflow_dispatch:
 
 jobs:
