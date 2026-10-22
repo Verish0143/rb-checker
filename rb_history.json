@@ -142,6 +142,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-22 01:52:11"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Tully": [
@@ -171,6 +176,11 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-22 01:52:11"
+    },
+    {
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Gorgolos": [
@@ -283,6 +293,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-21 15:23:45"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Sailren": [
@@ -307,6 +322,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-21 10:18:09"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Varka's Chief Horus": [
@@ -367,6 +387,11 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-10-22 01:52:11"
+    },
+    {
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Fire of Wrath Shuriel": [
@@ -391,6 +416,11 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Last Lesser Giant Glaki": [
@@ -429,6 +459,11 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-10-21 21:10:38"
+    },
+    {
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Bloody Empress Decarbia": [
@@ -453,6 +488,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-21 21:10:38"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Death Lord Shax": [
@@ -477,6 +517,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-21 10:18:09"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -532,6 +577,11 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-10-21 10:18:09"
+    },
+    {
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Plague Golem": [
@@ -602,6 +652,11 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-10-22 01:52:11"
+    },
+    {
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Immortal Savior Mardil": [
@@ -678,6 +733,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Roaring Skylancer": [
@@ -743,6 +803,11 @@
       "level": "66",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "66",
+      "state": "yes",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Enmity Ghost Ramdal": [
@@ -910,6 +975,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Taik High Prefect Arak": [
@@ -1246,6 +1316,11 @@
       "level": "47",
       "state": "no",
       "timestamp": "2026-10-21 13:20:42"
+    },
+    {
+      "level": "47",
+      "state": "yes",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Archon Suscepter": [
@@ -1380,6 +1455,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-21 05:19:44"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Icarus Sample 1": [
@@ -1392,6 +1472,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-21 10:18:09"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Leto Chief Talkin": [
@@ -1437,6 +1522,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-21 00:42:13"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Wizard of Storm Teruk": [
@@ -1482,6 +1572,11 @@
       "level": "38",
       "state": "yes",
       "timestamp": "2026-10-21 05:19:44"
+    },
+    {
+      "level": "38",
+      "state": "no",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Rayito the Looter": [
@@ -1508,6 +1603,11 @@
       "level": "36",
       "state": "yes",
       "timestamp": "2026-10-21 05:19:44"
+    },
+    {
+      "level": "36",
+      "state": "no",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Beleth's Eye": [
@@ -1520,6 +1620,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-21 13:09:35"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Chertuba of Great Soul": [
@@ -1539,6 +1644,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-22 01:52:11"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Flame Lord Shadar": [
@@ -1563,6 +1673,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-21 13:20:42"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Guillotine Warden": [
@@ -1575,6 +1690,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-21 15:23:45"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Guilotine, Warden of the Execution Grounds": [
@@ -1635,6 +1755,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-21 21:42:53"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Tasaba Patriarch Hellena": [
@@ -1647,6 +1772,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-21 20:05:00"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Breka Warlock Pastu": [
@@ -1683,6 +1813,11 @@
       "level": "34",
       "state": "yes",
       "timestamp": "2026-10-21 00:42:13"
+    },
+    {
+      "level": "34",
+      "state": "no",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Stakato Queen Zyrnna": [
@@ -1707,6 +1842,11 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-10-21 20:05:00"
+    },
+    {
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Nurka's Messenger": [
@@ -1841,6 +1981,11 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-10-21 20:05:00"
+    },
+    {
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Tirak": [
@@ -1872,6 +2017,11 @@
       "level": "26",
       "state": "no",
       "timestamp": "2026-10-21 10:18:09"
+    },
+    {
+      "level": "26",
+      "state": "yes",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Betrayer of Urutu Freki": [
@@ -1884,6 +2034,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-21 20:05:00"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Ikuntai": [
@@ -1925,6 +2080,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-22 01:52:11"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Princess Molrang": [
@@ -2062,6 +2222,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-21 10:18:09"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-22 07:27:11"
     }
   ],
   "Serpent Demon Bifrons": [
