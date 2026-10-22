@@ -479,6 +479,11 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-10-22 20:54:20"
+    },
+    {
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-10-22 23:43:40"
     }
   ],
   "Hestia, Guardian Deity of the Hot Springs": [
@@ -644,6 +649,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-22 21:46:15"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-22 23:43:40"
     }
   ],
   "Menacing Palatanos": [
@@ -787,6 +797,11 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-10-22 12:40:49"
+    },
+    {
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-10-22 23:43:40"
     }
   ],
   "Immortal Savior Mardil": [
@@ -1428,6 +1443,11 @@
       "level": "52",
       "state": "no",
       "timestamp": "2026-10-21 21:10:38"
+    },
+    {
+      "level": "52",
+      "state": "yes",
+      "timestamp": "2026-10-22 23:43:40"
     }
   ],
   "Deadman Ereve": [
@@ -2575,6 +2595,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-10-22 17:53:16"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-10-22 23:43:40"
     }
   ],
   "Malex Herald of Dagoniel": [
