@@ -52,6 +52,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-21 10:18:09"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-10-22 20:54:20"
     }
   ],
   "Queen Shyeed": [
@@ -241,6 +246,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-22 17:53:16"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-22 20:54:20"
     }
   ],
   "Ember": [
@@ -405,6 +415,11 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-10-21 15:23:45"
+    },
+    {
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-10-22 20:54:20"
     }
   ],
   "Longhorn Golkonda": [
@@ -439,6 +454,11 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-10-21 15:23:45"
+    },
+    {
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-10-22 20:54:20"
     }
   ],
   "Hestia, Guardian Deity of the Hot Springs": [
@@ -790,6 +810,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-22 20:54:20"
     }
   ],
   "Flame of Splendor Barakiel": [
@@ -996,6 +1021,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-21 00:42:13"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-10-22 20:54:20"
     }
   ],
   "Shilen's Priest Hisilrome": [
@@ -1630,6 +1660,11 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-10-22 07:27:11"
+    },
+    {
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-10-22 20:54:20"
     }
   ],
   "Icarus Sample 1": [
@@ -1967,6 +2002,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-22 07:27:11"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-22 20:54:20"
     }
   ],
   "Breka Warlock Pastu": [
@@ -2286,6 +2326,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-21 10:18:09"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-22 20:54:20"
     }
   ],
   "Mammon Collector Talos": [
@@ -2298,6 +2343,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-21 10:18:09"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-22 20:54:20"
     }
   ],
   "Pan Dryad": [
@@ -2422,6 +2472,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-22 17:53:16"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-10-22 20:54:20"
     }
   ],
   "Kuroboros' Priest": [
