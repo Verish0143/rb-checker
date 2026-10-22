@@ -120,6 +120,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-21 15:23:45"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-22 17:53:16"
     }
   ],
   "Last Titan Utenus": [
@@ -226,6 +231,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-22 17:53:16"
     }
   ],
   "Ember": [
@@ -453,6 +463,11 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-10-22 12:40:49"
+    },
+    {
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-10-22 17:53:16"
     }
   ],
   "Flamestone Giant": [
@@ -470,6 +485,11 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-10-22 13:12:17"
+    },
+    {
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-10-22 17:53:16"
     }
   ],
   "Gigantic Golem": [
@@ -482,6 +502,11 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-10-22 12:40:49"
+    },
+    {
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-10-22 17:53:16"
     }
   ],
   "Ocean Flame Ashakiel": [
@@ -932,6 +957,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-21 21:10:38"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-10-22 17:53:16"
     }
   ],
   "Gargoyle Lord Tiphon": [
@@ -1002,6 +1032,11 @@
       "level": "61",
       "state": "no",
       "timestamp": "2026-10-21 20:05:00"
+    },
+    {
+      "level": "61",
+      "state": "yes",
+      "timestamp": "2026-10-22 17:53:16"
     }
   ],
   "Ancient Drake": [
@@ -1114,6 +1149,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-21 21:42:53"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-22 17:53:16"
     }
   ],
   "Abyss Brukunt": [
@@ -1164,6 +1204,11 @@
       "level": "57",
       "state": "yes",
       "timestamp": "2026-10-22 12:40:49"
+    },
+    {
+      "level": "57",
+      "state": "no",
+      "timestamp": "2026-10-22 17:53:16"
     }
   ],
   "Harit Guardian Garangky": [
@@ -1460,6 +1505,11 @@
       "level": "45",
       "state": "no",
       "timestamp": "2026-10-21 20:05:00"
+    },
+    {
+      "level": "45",
+      "state": "yes",
+      "timestamp": "2026-10-22 17:53:16"
     }
   ],
   "Evil Spirit Cyrion": [
@@ -2011,6 +2061,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-10-21 05:19:44"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-10-22 17:53:16"
     }
   ],
   "Captain of Queen's Royal Guards": [
@@ -2083,6 +2138,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-10-21 10:18:09"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-10-22 17:53:16"
     }
   ],
   "Ragraman": [
@@ -2148,6 +2208,11 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-10-22 12:40:49"
+    },
+    {
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-10-22 17:53:16"
     }
   ],
   "Patriarch Kuroboros": [
@@ -2303,6 +2368,11 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-10-22 17:53:16"
     }
   ],
   "Unrequited Kael": [
@@ -2342,6 +2412,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-21 10:18:09"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-22 17:53:16"
     }
   ],
   "Kuroboros' Priest": [
@@ -2390,6 +2465,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-21 21:42:53"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-22 17:53:16"
     }
   ],
   "Malex Herald of Dagoniel": [
@@ -2497,6 +2577,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-10-21 10:18:09"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-10-22 17:53:16"
     }
   ]
 }
