@@ -255,6 +255,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-21 23:28:11"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Ketra's Chief Brakki": [
@@ -298,6 +303,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-22 07:27:11"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Sailren": [
@@ -327,6 +337,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-22 07:27:11"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Varka's Chief Horus": [
@@ -421,6 +436,11 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-10-22 07:27:11"
+    },
+    {
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Last Lesser Giant Glaki": [
@@ -428,6 +448,11 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Flamestone Giant": [
@@ -447,6 +472,11 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Ocean Flame Ashakiel": [
@@ -522,6 +552,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-22 07:27:11"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -582,6 +617,11 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-10-22 07:27:11"
+    },
+    {
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Plague Golem": [
@@ -594,6 +634,11 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-10-21 20:05:00"
+    },
+    {
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Doom Blade Tanatos": [
@@ -657,6 +702,11 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-10-22 07:27:11"
+    },
+    {
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Immortal Savior Mardil": [
@@ -664,6 +714,11 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Anakim's Nemesis Zakaron": [
@@ -714,6 +769,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-22 01:52:11"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Meanas Anor": [
@@ -726,6 +786,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-21 20:05:00"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Palibati Queen Themis": [
@@ -738,6 +803,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-22 07:27:11"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Roaring Skylancer": [
@@ -750,6 +820,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-21 23:28:11"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Shilen's Messenger Cabrio": [
@@ -779,6 +854,11 @@
       "level": "69",
       "state": "no",
       "timestamp": "2026-10-21 21:42:53"
+    },
+    {
+      "level": "69",
+      "state": "yes",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Kernon's Faithful Servant Kelone": [
@@ -808,6 +888,11 @@
       "level": "66",
       "state": "yes",
       "timestamp": "2026-10-22 07:27:11"
+    },
+    {
+      "level": "66",
+      "state": "no",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Enmity Ghost Ramdal": [
@@ -929,6 +1014,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-22 01:52:11"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Ghost of the Well Lidia": [
@@ -980,6 +1070,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-22 07:27:11"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Taik High Prefect Arak": [
@@ -1054,6 +1149,11 @@
       "level": "57",
       "state": "no",
       "timestamp": "2026-10-21 21:10:38"
+    },
+    {
+      "level": "57",
+      "state": "yes",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Harit Guardian Garangky": [
@@ -1491,6 +1591,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Road Scavenger Leader": [
@@ -1546,6 +1651,11 @@
       "level": "39",
       "state": "no",
       "timestamp": "2026-10-21 13:09:35"
+    },
+    {
+      "level": "39",
+      "state": "yes",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Nellis' Vengeful Spirit": [
@@ -1731,6 +1841,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-21 13:09:35"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Sejarr's Servitor": [
@@ -1743,6 +1858,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-21 10:18:09"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Soul Collector Acheron": [
@@ -1907,6 +2027,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-10-21 10:18:09"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Boss Akata": [
@@ -1919,6 +2044,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-10-21 10:18:09"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Cat's Eye Bandit": [
@@ -1964,6 +2094,11 @@
       "level": "29",
       "state": "no",
       "timestamp": "2026-10-21 10:18:09"
+    },
+    {
+      "level": "29",
+      "state": "yes",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Partisan Leader Talakin": [
@@ -1993,6 +2128,11 @@
       "level": "28",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "28",
+      "state": "yes",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Patriarch Kuroboros": [
@@ -2005,6 +2145,11 @@
       "level": "26",
       "state": "no",
       "timestamp": "2026-10-21 10:18:09"
+    },
+    {
+      "level": "26",
+      "state": "yes",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Tiger Hornet": [
@@ -2022,6 +2167,11 @@
       "level": "26",
       "state": "yes",
       "timestamp": "2026-10-22 07:27:11"
+    },
+    {
+      "level": "26",
+      "state": "no",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Betrayer of Urutu Freki": [
@@ -2097,6 +2247,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-21 21:10:38"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Soul Scavenger": [
@@ -2121,6 +2276,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-22 01:52:11"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Langk Matriarch Rashkos": [
@@ -2179,6 +2339,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-21 10:18:09"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Lead Tracker Sharuk": [
@@ -2227,6 +2392,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-10-22 07:27:11"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Serpent Demon Bifrons": [
@@ -2295,6 +2465,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-10-22 01:52:11"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-10-22 12:40:49"
     }
   ],
   "Zombie Lord Ferkel": [
