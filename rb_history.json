@@ -137,6 +137,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-21 10:18:09"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-22 01:52:11"
     }
   ],
   "Tully": [
@@ -161,6 +166,11 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-10-21 10:18:09"
+    },
+    {
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-10-22 01:52:11"
     }
   ],
   "Gorgolos": [
@@ -352,6 +362,11 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-10-22 01:52:11"
     }
   ],
   "Fire of Wrath Shuriel": [
@@ -582,6 +597,11 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-10-21 23:28:11"
+    },
+    {
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-10-22 01:52:11"
     }
   ],
   "Immortal Savior Mardil": [
@@ -634,6 +654,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-22 01:52:11"
     }
   ],
   "Meanas Anor": [
@@ -834,6 +859,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-21 13:09:35"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-22 01:52:11"
     }
   ],
   "Ghost of the Well Lidia": [
@@ -1504,6 +1534,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-22 01:52:11"
     }
   ],
   "Flame Lord Shadar": [
@@ -1885,6 +1920,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-21 05:19:44"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-22 01:52:11"
     }
   ],
   "Princess Molrang": [
@@ -1916,6 +1956,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-21 10:18:09"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-22 01:52:11"
     }
   ],
   "Langk Matriarch Rashkos": [
@@ -2080,6 +2125,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-10-21 10:18:09"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-10-22 01:52:11"
     }
   ],
   "Zombie Lord Ferkel": [
