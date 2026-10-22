@@ -57,6 +57,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-10-22 20:54:20"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-10-22 21:46:15"
     }
   ],
   "Queen Shyeed": [
@@ -135,6 +140,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-22 18:03:17"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-22 21:46:15"
     }
   ],
   "Last Titan Utenus": [
@@ -169,6 +179,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-22 21:46:15"
     }
   ],
   "Giant Marpanak": [
@@ -420,6 +435,11 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-10-22 20:54:20"
+    },
+    {
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-10-22 21:46:15"
     }
   ],
   "Longhorn Golkonda": [
@@ -619,6 +639,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-22 21:46:15"
     }
   ],
   "Menacing Palatanos": [
@@ -1033,6 +1058,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-10-22 21:46:15"
     }
   ],
   "Roaring Lord Kastor": [
@@ -2111,6 +2141,11 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-10-22 17:53:16"
+    },
+    {
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-10-22 21:46:15"
     }
   ],
   "Captain of Queen's Royal Guards": [
@@ -2147,6 +2182,11 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-10-22 12:40:49"
+    },
+    {
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-10-22 21:46:15"
     }
   ],
   "Boss Akata": [
@@ -2428,6 +2468,11 @@
       "level": "24",
       "state": "yes",
       "timestamp": "2026-10-22 17:53:16"
+    },
+    {
+      "level": "24",
+      "state": "no",
+      "timestamp": "2026-10-22 21:46:15"
     }
   ],
   "Unrequited Kael": [
@@ -2647,6 +2692,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-10-22 17:53:16"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-10-22 21:46:15"
     }
   ]
 }
