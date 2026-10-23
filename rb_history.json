@@ -40,6 +40,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-10-23 19:33:01"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-10-23 22:21:00"
     }
   ],
   "Darion": [
@@ -67,6 +72,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-22 21:46:15"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-10-23 22:21:00"
     }
   ],
   "Queen Shyeed": [
@@ -347,6 +357,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-23 22:21:00"
     }
   ],
   "Ketra's Commander Tayr": [
@@ -651,6 +666,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-23 19:33:01"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-23 22:21:00"
     }
   ],
   "Death Lord Ipos": [
@@ -673,6 +693,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-22 07:27:11"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-23 22:21:00"
     }
   ],
   "Death Lord Shax": [
@@ -741,6 +766,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-23 22:21:00"
     }
   ],
   "Storm Winged Naga": [
@@ -1344,6 +1374,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-22 12:40:49"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-23 22:21:00"
     }
   ],
   "Ghost of the Well Lidia": [
@@ -1432,6 +1467,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-21 11:13:51"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-23 22:21:00"
     }
   ],
   "The 3rd Underwater Guardian": [
