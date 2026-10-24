@@ -210,6 +210,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-24 01:08:35"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-24 14:40:51"
     }
   ],
   "Last Titan Utenus": [
@@ -503,6 +508,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-24 11:17:55"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-24 14:40:51"
     }
   ],
   "Sailren": [
@@ -647,6 +657,11 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-10-24 11:17:55"
+    },
+    {
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-10-24 14:40:51"
     }
   ],
   "Fire of Wrath Shuriel": [
@@ -958,6 +973,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-21 10:18:09"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-24 14:40:51"
     }
   ],
   "Krokian Padisha Sobekk": [
@@ -1066,6 +1086,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-10-23 10:31:41"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-10-24 14:40:51"
     }
   ],
   "Vanor Chief Kandra": [
@@ -1152,6 +1177,11 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-10-24 11:17:55"
+    },
+    {
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-10-24 14:40:51"
     }
   ],
   "Immortal Savior Mardil": [
@@ -1274,6 +1304,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-22 12:40:49"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-24 14:40:51"
     }
   ],
   "Meanas Anor": [
@@ -1301,6 +1336,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-23 10:31:41"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-24 14:40:51"
     }
   ],
   "Palibati Queen Themis": [
@@ -1612,6 +1652,11 @@
       "level": "61",
       "state": "no",
       "timestamp": "2026-10-23 10:31:41"
+    },
+    {
+      "level": "61",
+      "state": "yes",
+      "timestamp": "2026-10-24 14:40:51"
     }
   ],
   "Ancient Drake": [
@@ -1774,6 +1819,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-23 15:28:51"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-24 14:40:51"
     }
   ],
   "Abyss Brukunt": [
@@ -1943,6 +1993,11 @@
       "level": "55",
       "state": "no",
       "timestamp": "2026-10-23 15:28:51"
+    },
+    {
+      "level": "55",
+      "state": "yes",
+      "timestamp": "2026-10-24 14:40:51"
     }
   ],
   "Harit Hero Tamash": [
@@ -2195,6 +2250,11 @@
       "level": "45",
       "state": "no",
       "timestamp": "2026-10-23 15:28:51"
+    },
+    {
+      "level": "45",
+      "state": "yes",
+      "timestamp": "2026-10-24 14:40:51"
     }
   ],
   "Evil Spirit Cyrion": [
@@ -3177,6 +3237,11 @@
       "level": "26",
       "state": "no",
       "timestamp": "2026-10-23 15:28:51"
+    },
+    {
+      "level": "26",
+      "state": "yes",
+      "timestamp": "2026-10-24 14:40:51"
     }
   ],
   "Betrayer of Urutu Freki": [
