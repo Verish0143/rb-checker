@@ -77,6 +77,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-10-23 22:21:00"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-10-24 01:08:35"
     }
   ],
   "Queen Shyeed": [
@@ -121,6 +126,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-23 10:31:41"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-10-24 01:08:35"
     }
   ],
   "Gwindorr": [
@@ -180,6 +190,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-23 19:33:01"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-24 01:08:35"
     }
   ],
   "Last Titan Utenus": [
@@ -207,6 +222,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-22 07:27:11"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-24 01:08:35"
     }
   ],
   "Tully": [
@@ -251,6 +271,11 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-10-22 07:27:11"
+    },
+    {
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-10-24 01:08:35"
     }
   ],
   "Gorgolos": [
@@ -362,6 +387,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-23 22:21:00"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-24 01:08:35"
     }
   ],
   "Ketra's Commander Tayr": [
@@ -476,6 +506,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-24 01:08:35"
     }
   ],
   "Varka's Hero Shadith": [
@@ -493,6 +528,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-21 21:42:53"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-24 01:08:35"
     }
   ],
   "Cherub Galaxia": [
@@ -564,6 +604,11 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-10-23 15:28:51"
+    },
+    {
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-10-24 01:08:35"
     }
   ],
   "Hestia, Guardian Deity of the Hot Springs": [
@@ -620,6 +665,11 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-10-22 17:53:16"
+    },
+    {
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-10-24 01:08:35"
     }
   ],
   "Gigantic Golem": [
@@ -637,6 +687,11 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-10-22 17:53:16"
+    },
+    {
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-10-24 01:08:35"
     }
   ],
   "Ocean Flame Ashakiel": [
@@ -1166,6 +1221,11 @@
       "level": "67",
       "state": "no",
       "timestamp": "2026-10-21 13:09:35"
+    },
+    {
+      "level": "67",
+      "state": "yes",
+      "timestamp": "2026-10-24 01:08:35"
     }
   ],
   "Demon's Agent Falston": [
@@ -2578,6 +2638,11 @@
       "level": "32",
       "state": "no",
       "timestamp": "2026-10-23 10:31:41"
+    },
+    {
+      "level": "32",
+      "state": "yes",
+      "timestamp": "2026-10-24 01:08:35"
     }
   ],
   "Apepi": [
@@ -2878,6 +2943,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-23 10:31:41"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-24 01:08:35"
     }
   ],
   "Pan Dryad": [
@@ -2929,6 +2999,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-24 01:08:35"
     }
   ],
   "Zombie Lord Crowl": [
@@ -3000,6 +3075,11 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-10-21 21:10:38"
+    },
+    {
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-10-24 01:08:35"
     }
   ],
   "Greyclaw Kutus": [
@@ -3220,6 +3300,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-10-23 10:31:41"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-10-24 01:08:35"
     }
   ],
   "Zombie Lord Ferkel": [
