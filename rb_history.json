@@ -131,6 +131,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-10-24 01:08:35"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Gwindorr": [
@@ -153,6 +158,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Hekaton Prime": [
@@ -286,6 +296,11 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-24 01:08:35"
+    },
+    {
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Gorgolos": [
@@ -363,6 +378,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Gordon": [
@@ -395,6 +415,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Ketra's Chief Brakki": [
@@ -473,6 +498,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-23 19:33:01"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Sailren": [
@@ -590,6 +620,11 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Longhorn Golkonda": [
@@ -607,6 +642,11 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-10-22 07:27:11"
+    },
+    {
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Fire of Wrath Shuriel": [
@@ -732,6 +772,11 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-10-24 01:08:35"
+    },
+    {
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Ocean Flame Ashakiel": [
@@ -847,6 +892,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -869,6 +919,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Menacing Palatanos": [
@@ -915,6 +970,11 @@
       "level": "74",
       "state": "yes",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "74",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Death Lord Hallate": [
@@ -957,6 +1017,11 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Plague Golem": [
@@ -979,6 +1044,11 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Doom Blade Tanatos": [
@@ -1008,6 +1078,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Water Dragon Seer Sheshark": [
@@ -1072,6 +1147,11 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-10-23 00:32:06"
+    },
+    {
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Immortal Savior Mardil": [
@@ -1128,6 +1208,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Fafurion's Herald Lokness": [
@@ -1167,6 +1252,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Korim": [
@@ -1277,6 +1367,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Spirit of Andras, the Betrayer": [
@@ -1485,6 +1580,11 @@
       "level": "62",
       "state": "no",
       "timestamp": "2026-10-23 10:31:41"
+    },
+    {
+      "level": "62",
+      "state": "yes",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Fairy Queen Timiniel": [
@@ -1710,6 +1810,11 @@
       "level": "59",
       "state": "yes",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "59",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Eva's Guardian Millenu": [
@@ -1749,6 +1854,11 @@
       "level": "57",
       "state": "no",
       "timestamp": "2026-10-23 15:28:51"
+    },
+    {
+      "level": "57",
+      "state": "yes",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Harit Guardian Garangky": [
@@ -2251,6 +2361,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-23 15:28:51"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Road Scavenger Leader": [
@@ -2410,6 +2525,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-23 15:28:51"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Chertuba of Great Soul": [
@@ -2422,6 +2542,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-23 10:31:41"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Fire Lord Shadar": [
@@ -2444,6 +2569,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-23 10:31:41"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Flame Lord Shadar": [
@@ -2500,6 +2630,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-23 10:31:41"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Guilotine, Warden of the Execution Grounds": [
@@ -2724,6 +2859,11 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-10-21 11:13:51"
+    },
+    {
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Vuku Grand Seer Gharmash": [
@@ -2756,6 +2896,11 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Captain of Queen's Royal Guards": [
@@ -2812,6 +2957,11 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-10-23 15:28:51"
+    },
+    {
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Boss Akata": [
@@ -2846,6 +2996,11 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-10-23 10:31:41"
+    },
+    {
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Giant Wasteland Basilisk": [
@@ -2985,6 +3140,11 @@
       "level": "26",
       "state": "no",
       "timestamp": "2026-10-23 15:28:51"
+    },
+    {
+      "level": "26",
+      "state": "yes",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Tiger Hornet": [
@@ -3115,6 +3275,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Princess Molrang": [
@@ -3149,6 +3314,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-24 01:08:35"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Zombie Lord Crowl": [
@@ -3198,6 +3368,11 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-10-23 15:28:51"
+    },
+    {
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Unrequited Kael": [
@@ -3225,6 +3400,11 @@
       "level": "24",
       "state": "yes",
       "timestamp": "2026-10-24 01:08:35"
+    },
+    {
+      "level": "24",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Greyclaw Kutus": [
@@ -3286,6 +3466,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Tracker Leader Sharuk": [
@@ -3364,6 +3549,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-10-23 19:33:01"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Sukar Wererat Chief": [
@@ -3396,6 +3586,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Discarded Guardian": [
@@ -3470,6 +3665,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-10-24 01:08:35"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ],
   "Zombie Lord Ferkel": [
@@ -3492,6 +3692,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-10-22 21:46:15"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-10-24 11:17:55"
     }
   ]
 }
