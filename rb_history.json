@@ -87,6 +87,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-10-24 19:49:42"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-10-24 22:24:27"
     }
   ],
   "Queen Shyeed": [
@@ -467,6 +472,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-24 19:49:42"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-24 22:24:27"
     }
   ],
   "Ketra's Commander Tayr": [
@@ -1249,6 +1259,11 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-10-24 19:49:42"
+    },
+    {
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-10-24 22:24:27"
     }
   ],
   "Anakim's Nemesis Zakaron": [
@@ -1570,6 +1585,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-10-24 19:49:42"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-10-24 22:24:27"
     }
   ],
   "Fierce Tiger King Angel": [
@@ -1641,6 +1661,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-10-24 19:49:42"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-10-24 22:24:27"
     }
   ],
   "Shilen's Priest Hisilrome": [
@@ -1860,6 +1885,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-24 19:49:42"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-24 22:24:27"
     }
   ],
   "Taik High Prefect Arak": [
@@ -2103,6 +2133,11 @@
       "level": "55",
       "state": "yes",
       "timestamp": "2026-10-24 14:40:51"
+    },
+    {
+      "level": "55",
+      "state": "no",
+      "timestamp": "2026-10-24 22:24:27"
     }
   ],
   "Harit Hero Tamash": [
@@ -2151,6 +2186,11 @@
       "level": "55",
       "state": "yes",
       "timestamp": "2026-10-22 13:12:17"
+    },
+    {
+      "level": "55",
+      "state": "no",
+      "timestamp": "2026-10-24 22:24:27"
     }
   ],
   "Paniel the Unicorn": [
@@ -2543,6 +2583,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-21 00:42:13"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-24 22:24:27"
     }
   ],
   "Shaman King Selu": [
@@ -3276,6 +3321,11 @@
       "level": "28",
       "state": "no",
       "timestamp": "2026-10-23 15:28:51"
+    },
+    {
+      "level": "28",
+      "state": "yes",
+      "timestamp": "2026-10-24 22:24:27"
     }
   ],
   "Tirak": [
@@ -3389,6 +3439,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-23 10:31:41"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-24 22:24:27"
     }
   ],
   "Ikuntai": [
