@@ -99,6 +99,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-21 21:42:53"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-10-24 17:38:21"
     }
   ],
   "Water Spirit Lian": [
@@ -978,6 +983,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-24 14:40:51"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-24 17:38:21"
     }
   ],
   "Krokian Padisha Sobekk": [
@@ -1091,6 +1101,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-10-24 14:40:51"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-10-24 17:38:21"
     }
   ],
   "Vanor Chief Kandra": [
@@ -1309,6 +1324,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-24 14:40:51"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-24 17:38:21"
     }
   ],
   "Meanas Anor": [
@@ -1341,6 +1361,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-24 14:40:51"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-24 17:38:21"
     }
   ],
   "Palibati Queen Themis": [
@@ -1593,6 +1618,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-23 15:28:51"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-10-24 17:38:21"
     }
   ],
   "Roaring Lord Kastor": [
@@ -1909,6 +1939,11 @@
       "level": "57",
       "state": "yes",
       "timestamp": "2026-10-24 11:17:55"
+    },
+    {
+      "level": "57",
+      "state": "no",
+      "timestamp": "2026-10-24 17:38:21"
     }
   ],
   "Harit Guardian Garangky": [
@@ -1974,6 +2009,11 @@
       "level": "55",
       "state": "yes",
       "timestamp": "2026-10-23 05:23:39"
+    },
+    {
+      "level": "55",
+      "state": "no",
+      "timestamp": "2026-10-24 17:38:21"
     }
   ],
   "Furious Thieles": [
@@ -3044,6 +3084,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-10-23 10:31:41"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-10-24 17:38:21"
     }
   ],
   "Cat's Eye Bandit": [
@@ -3497,6 +3542,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-22 20:54:20"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-24 17:38:21"
     }
   ],
   "Kuroboros' Priest": [
@@ -3543,6 +3593,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-24 17:38:21"
     }
   ],
   "Kaysha Herald of Icarus": [
