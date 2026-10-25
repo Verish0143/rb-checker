@@ -411,6 +411,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-22 20:54:20"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-25 14:17:04"
     }
   ],
   "Ember": [
@@ -585,6 +590,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-25 09:57:59"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-25 14:17:04"
     }
   ],
   "Uruka": [
@@ -899,6 +909,11 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-10-25 09:57:59"
+    },
+    {
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-10-25 14:17:04"
     }
   ],
   "Bloody Empress Decarbia": [
@@ -916,6 +931,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-23 22:21:00"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-25 14:17:04"
     }
   ],
   "Death Lord Ipos": [
@@ -948,6 +968,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-25 14:17:04"
     }
   ],
   "Death Lord Shax": [
@@ -1056,6 +1081,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-25 14:17:04"
     }
   ],
   "Storm Winged Naga": [
@@ -1199,6 +1229,11 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-10-25 05:19:17"
+    },
+    {
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-10-25 14:17:04"
     }
   ],
   "Doom Blade Tanatos": [
@@ -1231,6 +1266,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-10-25 09:57:59"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-10-25 14:17:04"
     }
   ],
   "Vanor Chief Kandra": [
@@ -1270,6 +1310,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-10-25 05:19:17"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-10-25 14:17:04"
     }
   ],
   "Eilhalder von Hellmann": [
@@ -1327,6 +1372,11 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-10-24 14:40:51"
+    },
+    {
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-10-25 14:17:04"
     }
   ],
   "Immortal Savior Mardil": [
@@ -1403,6 +1453,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-25 05:19:17"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-25 14:17:04"
     }
   ],
   "Fafurion's Herald Lokness": [
@@ -1452,6 +1507,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-25 09:57:59"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-25 14:17:04"
     }
   ],
   "Korim": [
@@ -1521,6 +1581,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-25 09:57:59"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-25 14:17:04"
     }
   ],
   "Palibati Queen Themis": [
@@ -1597,6 +1662,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-25 05:19:17"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-25 14:17:04"
     }
   ],
   "Spirit of Andras, the Betrayer": [
@@ -1683,6 +1753,11 @@
       "level": "66",
       "state": "no",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "66",
+      "state": "yes",
+      "timestamp": "2026-10-25 14:17:04"
     }
   ],
   "Enmity Ghost Ramdal": [
@@ -1725,6 +1800,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-10-25 09:57:59"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-10-25 14:17:04"
     }
   ],
   "Fierce Tiger King Angel": [
@@ -1838,6 +1918,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-10-25 09:57:59"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-10-25 14:17:04"
     }
   ],
   "Roaring Lord Kastor": [
@@ -1875,6 +1960,11 @@
       "level": "62",
       "state": "no",
       "timestamp": "2026-10-24 19:49:42"
+    },
+    {
+      "level": "62",
+      "state": "yes",
+      "timestamp": "2026-10-25 14:17:04"
     }
   ],
   "Fairy Queen Timiniel": [
@@ -2104,6 +2194,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-25 00:31:51"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-25 14:17:04"
     }
   ],
   "Abyss Brukunt": [
@@ -2204,6 +2299,11 @@
       "level": "57",
       "state": "no",
       "timestamp": "2026-10-24 17:38:21"
+    },
+    {
+      "level": "57",
+      "state": "yes",
+      "timestamp": "2026-10-25 14:17:04"
     }
   ],
   "Harit Guardian Garangky": [
@@ -2289,6 +2389,11 @@
       "level": "55",
       "state": "no",
       "timestamp": "2026-10-24 17:38:21"
+    },
+    {
+      "level": "55",
+      "state": "yes",
+      "timestamp": "2026-10-25 14:17:04"
     }
   ],
   "Furious Thieles": [
@@ -2766,6 +2871,11 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-10-24 11:17:55"
+    },
+    {
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-10-25 14:17:04"
     }
   ],
   "Road Scavenger Leader": [
@@ -3436,6 +3546,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-10-24 11:17:55"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-10-25 14:17:04"
     }
   ],
   "Giant Wasteland Basilisk": [
@@ -3971,6 +4086,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-24 11:17:55"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-25 14:17:04"
     }
   ],
   "Tracker Leader Sharuk": [
@@ -4015,6 +4135,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-22 23:43:40"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-25 14:17:04"
     }
   ],
   "Malex Herald of Dagoniel": [
