@@ -124,6 +124,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-10-25 17:42:37"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-10-25 20:43:53"
     }
   ],
   "Water Spirit Lian": [
@@ -250,6 +255,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-25 09:57:59"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-25 20:43:53"
     }
   ],
   "Last Titan Utenus": [
@@ -588,6 +598,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-24 14:40:51"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-25 20:43:53"
     }
   ],
   "Sailren": [
@@ -720,6 +735,11 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-10-24 11:17:55"
+    },
+    {
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-10-25 20:43:53"
     }
   ],
   "Longhorn Golkonda": [
@@ -1318,6 +1338,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-10-25 17:42:37"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-10-25 20:43:53"
     }
   ],
   "Water Dragon Seer Sheshark": [
@@ -1407,6 +1432,11 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-10-25 14:17:04"
+    },
+    {
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-10-25 20:43:53"
     }
   ],
   "Immortal Savior Mardil": [
@@ -3090,6 +3120,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-24 11:17:55"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-25 20:43:53"
     }
   ],
   "Chertuba of Great Soul": [
@@ -3134,6 +3169,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-24 11:17:55"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-25 20:43:53"
     }
   ],
   "Flame Lord Shadar": [
@@ -3925,6 +3965,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-24 11:17:55"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-25 20:43:53"
     }
   ],
   "Princess Molrang": [
@@ -4033,6 +4078,11 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-10-25 09:57:59"
+    },
+    {
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-10-25 20:43:53"
     }
   ],
   "Unrequited Kael": [
@@ -4244,6 +4294,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-24 11:17:55"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-25 20:43:53"
     }
   ],
   "Sukar Wererat Chief": [
@@ -4291,6 +4346,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-25 09:57:59"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-25 20:43:53"
     }
   ],
   "Discarded Guardian": [
