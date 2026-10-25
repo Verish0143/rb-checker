@@ -119,6 +119,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-24 19:49:42"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-10-25 17:42:37"
     }
   ],
   "Water Spirit Lian": [
@@ -416,6 +421,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-25 14:17:04"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-25 17:42:37"
     }
   ],
   "Ember": [
@@ -936,6 +946,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-25 14:17:04"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-25 17:42:37"
     }
   ],
   "Death Lord Ipos": [
@@ -973,6 +988,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-25 14:17:04"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-25 17:42:37"
     }
   ],
   "Death Lord Shax": [
@@ -1086,6 +1106,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-25 14:17:04"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-25 17:42:37"
     }
   ],
   "Storm Winged Naga": [
@@ -1288,6 +1313,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-10-24 11:17:55"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-10-25 17:42:37"
     }
   ],
   "Water Dragon Seer Sheshark": [
@@ -1758,6 +1788,11 @@
       "level": "66",
       "state": "yes",
       "timestamp": "2026-10-25 14:17:04"
+    },
+    {
+      "level": "66",
+      "state": "no",
+      "timestamp": "2026-10-25 17:42:37"
     }
   ],
   "Enmity Ghost Ramdal": [
@@ -1965,6 +2000,11 @@
       "level": "62",
       "state": "yes",
       "timestamp": "2026-10-25 14:17:04"
+    },
+    {
+      "level": "62",
+      "state": "no",
+      "timestamp": "2026-10-25 17:42:37"
     }
   ],
   "Fairy Queen Timiniel": [
@@ -2304,6 +2344,11 @@
       "level": "57",
       "state": "yes",
       "timestamp": "2026-10-25 14:17:04"
+    },
+    {
+      "level": "57",
+      "state": "no",
+      "timestamp": "2026-10-25 17:42:37"
     }
   ],
   "Harit Guardian Garangky": [
@@ -3502,6 +3547,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-10-24 11:17:55"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-10-25 17:42:37"
     }
   ],
   "Boss Akata": [
@@ -3914,6 +3964,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-24 11:17:55"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-25 17:42:37"
     }
   ],
   "Zombie Lord Crowl": [
