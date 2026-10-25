@@ -388,6 +388,11 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-10-21 21:42:53"
+    },
+    {
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-10-25 23:09:29"
     }
   ],
   "Hannibal": [
@@ -917,6 +922,11 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-10-24 11:17:55"
+    },
+    {
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-10-25 23:09:29"
     }
   ],
   "Ocean Flame Ashakiel": [
@@ -1158,6 +1168,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-24 17:38:21"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-25 23:09:29"
     }
   ],
   "Krokian Padisha Sobekk": [
@@ -2423,6 +2438,11 @@
       "level": "56",
       "state": "no",
       "timestamp": "2026-10-25 09:57:59"
+    },
+    {
+      "level": "56",
+      "state": "yes",
+      "timestamp": "2026-10-25 23:09:29"
     }
   ],
   "Bandit Leader Barda": [
@@ -2498,6 +2518,11 @@
       "level": "55",
       "state": "no",
       "timestamp": "2026-10-24 22:24:27"
+    },
+    {
+      "level": "55",
+      "state": "yes",
+      "timestamp": "2026-10-25 23:09:29"
     }
   ],
   "Harit Hero Tamash": [
@@ -3761,6 +3786,11 @@
       "level": "28",
       "state": "no",
       "timestamp": "2026-10-25 09:57:59"
+    },
+    {
+      "level": "28",
+      "state": "yes",
+      "timestamp": "2026-10-25 23:09:29"
     }
   ],
   "Tirak": [
