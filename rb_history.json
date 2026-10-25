@@ -277,6 +277,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-25 00:31:51"
     }
   ],
   "Tully": [
@@ -331,6 +336,11 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-10-24 11:17:55"
+    },
+    {
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-10-25 00:31:51"
     }
   ],
   "Gorgolos": [
@@ -768,6 +778,11 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-10-22 17:53:16"
+    },
+    {
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-10-25 00:31:51"
     }
   ],
   "Flamestone Giant": [
@@ -800,6 +815,11 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-10-25 00:31:51"
     }
   ],
   "Gigantic Golem": [
@@ -1499,6 +1519,11 @@
       "level": "69",
       "state": "no",
       "timestamp": "2026-10-23 15:28:51"
+    },
+    {
+      "level": "69",
+      "state": "yes",
+      "timestamp": "2026-10-25 00:31:51"
     }
   ],
   "Kernon's Faithful Servant Kelone": [
@@ -1634,6 +1659,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-10-24 19:49:42"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-10-25 00:31:51"
     }
   ],
   "Rahha": [
@@ -1944,6 +1974,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-24 14:40:51"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-25 00:31:51"
     }
   ],
   "Abyss Brukunt": [
@@ -1961,6 +1996,11 @@
       "level": "59",
       "state": "yes",
       "timestamp": "2026-10-24 19:49:42"
+    },
+    {
+      "level": "59",
+      "state": "no",
+      "timestamp": "2026-10-25 00:31:51"
     }
   ],
   "Demon Kuri": [
@@ -3581,6 +3621,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-22 12:40:49"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-25 00:31:51"
     }
   ],
   "Langk Matriarch Rashkos": [
