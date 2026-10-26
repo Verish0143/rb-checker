@@ -421,6 +421,11 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-10-26 06:58:43"
+    },
+    {
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-10-26 23:57:20"
     }
   ],
   "Gorgolos": [
@@ -724,6 +729,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-21 00:42:13"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-26 23:57:20"
     }
   ],
   "Varka's Commander Mos": [
@@ -768,6 +778,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-26 23:57:20"
     }
   ],
   "Cherub Galaxia": [
@@ -1108,6 +1123,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-25 17:42:37"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-26 23:57:20"
     }
   ],
   "Death Lord Shax": [
@@ -1597,6 +1617,11 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-10-26 20:01:18"
+    },
+    {
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-10-26 23:57:20"
     }
   ],
   "Immortal Savior Mardil": [
@@ -2130,6 +2155,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-25 14:17:04"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-10-26 23:57:20"
     }
   ],
   "Fierce Tiger King Angel": [
@@ -2567,6 +2597,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-26 14:08:20"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-26 23:57:20"
     }
   ],
   "The 3rd Underwater Guardian": [
@@ -3550,6 +3585,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-25 20:43:53"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-26 23:57:20"
     }
   ],
   "Chertuba of Great Soul": [
@@ -3695,6 +3735,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-26 06:58:43"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-26 23:57:20"
     }
   ],
   "Guilotine, Warden of the Execution Grounds": [
@@ -3981,6 +4026,11 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-10-25 09:57:59"
+    },
+    {
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-10-26 23:57:20"
     }
   ],
   "Captain of Queen's Royal Guards": [
@@ -4263,6 +4313,11 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-10-26 20:01:18"
+    },
+    {
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-10-26 23:57:20"
     }
   ],
   "Patriarch Kuroboros": [
@@ -4541,6 +4596,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-25 00:31:51"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-26 23:57:20"
     }
   ],
   "Langk Matriarch Rashkos": [
@@ -4588,6 +4648,11 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-10-26 06:58:43"
+    },
+    {
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-10-26 23:57:20"
     }
   ],
   "Unrequited Kael": [
@@ -4625,6 +4690,11 @@
       "level": "24",
       "state": "yes",
       "timestamp": "2026-10-26 20:01:18"
+    },
+    {
+      "level": "24",
+      "state": "no",
+      "timestamp": "2026-10-26 23:57:20"
     }
   ],
   "Greyclaw Kutus": [
@@ -4667,6 +4737,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-26 14:08:20"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-10-26 23:57:20"
     }
   ],
   "Kuroboros' Priest": [
@@ -4721,6 +4796,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-26 06:58:43"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-26 23:57:20"
     }
   ],
   "Tracker Leader Sharuk": [
@@ -4743,6 +4823,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-26 20:01:18"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-10-26 23:57:20"
     }
   ],
   "Kaysha Herald of Icarus": [
@@ -4807,6 +4892,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-10-26 23:57:20"
     }
   ],
   "Serpent Demon Bifrons": [
@@ -4839,6 +4929,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-26 14:08:20"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-26 23:57:20"
     }
   ],
   "Sukar Wererat Chief": [
@@ -4896,6 +4991,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-26 06:58:43"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-26 23:57:20"
     }
   ],
   "Discarded Guardian": [
@@ -4990,6 +5090,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-10-26 14:08:20"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-10-26 23:57:20"
     }
   ],
   "Zombie Lord Ferkel": [
