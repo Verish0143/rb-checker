@@ -117,6 +117,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-10-27 10:22:11"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Queen Shyeed": [
@@ -634,6 +639,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-23 15:28:51"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Ketra's Hero Hekaton": [
@@ -646,6 +656,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-27 10:22:11"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Lilith": [
@@ -939,6 +954,11 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-10-24 01:08:35"
+    },
+    {
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Hestia, Guardian Deity of the Hot Springs": [
@@ -1732,6 +1752,11 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-10-27 10:22:11"
+    },
+    {
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Immortal Savior Mardil": [
@@ -2211,6 +2236,11 @@
       "level": "67",
       "state": "no",
       "timestamp": "2026-10-26 14:08:20"
+    },
+    {
+      "level": "67",
+      "state": "yes",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Demon's Agent Falston": [
@@ -2411,6 +2441,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-26 14:08:20"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Shilen's Priest Hisilrome": [
@@ -2557,6 +2592,11 @@
       "level": "61",
       "state": "no",
       "timestamp": "2026-10-26 14:08:20"
+    },
+    {
+      "level": "61",
+      "state": "yes",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Ancient Drake": [
@@ -3139,6 +3179,11 @@
       "level": "55",
       "state": "no",
       "timestamp": "2026-10-26 20:01:18"
+    },
+    {
+      "level": "55",
+      "state": "yes",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Zaken's Butcher Krantz": [
@@ -3385,6 +3430,11 @@
       "level": "45",
       "state": "yes",
       "timestamp": "2026-10-24 14:40:51"
+    },
+    {
+      "level": "45",
+      "state": "no",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Evil Spirit Cyrion": [
@@ -3427,6 +3477,11 @@
       "level": "45",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "45",
+      "state": "no",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Dread Avenger Kraven": [
@@ -3462,6 +3517,11 @@
       "level": "44",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "44",
+      "state": "no",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Crazy Mechanic Golem": [
@@ -3476,6 +3536,11 @@
       "level": "43",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "43",
+      "state": "no",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Retreat Spider Cletu": [
@@ -3532,6 +3597,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-23 05:23:39"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Leto Chief Talkin": [
@@ -3539,6 +3609,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Nakondas": [
@@ -3566,6 +3641,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-25 14:17:04"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Road Scavenger Leader": [
@@ -3600,6 +3680,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Water Couatle Ateka": [
@@ -3622,6 +3707,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-23 05:23:39"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Wizard of Storm Teruk": [
@@ -3629,6 +3719,11 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Leader of Cat Gang": [
@@ -3898,6 +3993,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-26 06:58:43"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Guillotine Warden": [
@@ -4003,6 +4103,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-23 15:28:51"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Soul Collector Acheron": [
@@ -4025,6 +4130,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-23 05:23:39"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Tasaba Patriarch Hellena": [
@@ -4047,6 +4157,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-22 20:54:20"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Breka Warlock Pastu": [
@@ -4071,6 +4186,11 @@
       "level": "34",
       "state": "yes",
       "timestamp": "2026-10-21 20:05:00"
+    },
+    {
+      "level": "34",
+      "state": "no",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Revenant of Sir Calibus": [
@@ -4147,6 +4267,11 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-10-23 19:33:01"
+    },
+    {
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Nurka's Messenger": [
@@ -4361,6 +4486,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-10-26 06:58:43"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Giant Wasteland Basilisk": [
@@ -5157,6 +5287,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-26 23:57:20"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-27 16:01:25"
     }
   ],
   "Serpent Demon Bifrons": [
