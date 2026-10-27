@@ -4,7 +4,11 @@ on:
   schedule:
     - cron: "1,21,41 * * * *"   # každých 20 minut
   workflow_dispatch:
-
+  
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+  
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -30,4 +34,5 @@ jobs:
         git config user.email "github-actions@github.com"
         git add rb_history.json
         git commit -m "Update RB history" || echo "No changes"
+        git pull --rebase
         git push
