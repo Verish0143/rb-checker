@@ -558,6 +558,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-24 11:17:55"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-27 20:48:31"
     }
   ],
   "Gordon": [
@@ -644,6 +649,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-27 16:01:25"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-27 20:48:31"
     }
   ],
   "Ketra's Hero Hekaton": [
@@ -917,6 +927,11 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-10-26 06:58:43"
+    },
+    {
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-10-27 20:48:31"
     }
   ],
   "Fire of Wrath Shuriel": [
@@ -959,6 +974,11 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-10-27 16:01:25"
+    },
+    {
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-10-27 20:48:31"
     }
   ],
   "Hestia, Guardian Deity of the Hot Springs": [
@@ -1757,6 +1777,11 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-10-27 16:01:25"
+    },
+    {
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-10-27 20:48:31"
     }
   ],
   "Immortal Savior Mardil": [
@@ -2199,6 +2224,11 @@
       "level": "69",
       "state": "no",
       "timestamp": "2026-10-26 20:01:18"
+    },
+    {
+      "level": "69",
+      "state": "yes",
+      "timestamp": "2026-10-27 20:48:31"
     }
   ],
   "Kernon's Faithful Servant Kelone": [
@@ -2241,6 +2271,11 @@
       "level": "67",
       "state": "yes",
       "timestamp": "2026-10-27 16:01:25"
+    },
+    {
+      "level": "67",
+      "state": "no",
+      "timestamp": "2026-10-27 20:48:31"
     }
   ],
   "Demon's Agent Falston": [
@@ -2340,6 +2375,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-10-26 23:57:20"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-10-27 20:48:31"
     }
   ],
   "Fierce Tiger King Angel": [
@@ -2446,6 +2486,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-10-27 16:01:25"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-10-27 20:48:31"
     }
   ],
   "Shilen's Priest Hisilrome": [
@@ -2545,6 +2590,11 @@
       "level": "62",
       "state": "yes",
       "timestamp": "2026-10-26 20:01:18"
+    },
+    {
+      "level": "62",
+      "state": "no",
+      "timestamp": "2026-10-27 20:48:31"
     }
   ],
   "Fairy Queen Timiniel": [
@@ -2597,6 +2647,11 @@
       "level": "61",
       "state": "yes",
       "timestamp": "2026-10-27 16:01:25"
+    },
+    {
+      "level": "61",
+      "state": "no",
+      "timestamp": "2026-10-27 20:48:31"
     }
   ],
   "Ancient Drake": [
@@ -2691,6 +2746,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-27 10:22:11"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-27 20:48:31"
     }
   ],
   "Guardian of the Statue of Giant Karum": [
@@ -3673,6 +3733,11 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-10-26 20:01:18"
+    },
+    {
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-10-27 20:48:31"
     }
   ],
   "Shaman King Selu": [
@@ -3758,6 +3823,11 @@
       "level": "39",
       "state": "no",
       "timestamp": "2026-10-26 20:01:18"
+    },
+    {
+      "level": "39",
+      "state": "yes",
+      "timestamp": "2026-10-27 20:48:31"
     }
   ],
   "Lizardmen Leader Hellion": [
@@ -3870,6 +3940,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-26 23:57:20"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-27 20:48:31"
     }
   ],
   "Chertuba of Great Soul": [
@@ -3961,6 +4036,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-27 10:22:11"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-27 20:48:31"
     }
   ],
   "Gargoyle Lord Sirocco": [
@@ -4491,6 +4571,11 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-10-27 16:01:25"
+    },
+    {
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-10-27 20:48:31"
     }
   ],
   "Giant Wasteland Basilisk": [
@@ -4784,6 +4869,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-26 14:08:20"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-27 20:48:31"
     }
   ],
   "Ikuntai": [
@@ -5181,6 +5271,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-27 10:22:11"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-27 20:48:31"
     }
   ],
   "Tracker Leader Sharuk": [
@@ -5208,6 +5303,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-26 23:57:20"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-27 20:48:31"
     }
   ],
   "Kaysha Herald of Icarus": [
@@ -5401,6 +5501,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-27 10:22:11"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-27 20:48:31"
     }
   ],
   "Discarded Guardian": [
@@ -5448,6 +5553,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-10-27 10:22:11"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-10-27 20:48:31"
     }
   ],
   "Madness Beast": [
