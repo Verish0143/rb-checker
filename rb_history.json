@@ -426,6 +426,11 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-26 23:57:20"
+    },
+    {
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-27 04:50:05"
     }
   ],
   "Gorgolos": [
@@ -453,6 +458,11 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-10-26 06:58:43"
+    },
+    {
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-10-27 04:50:05"
     }
   ],
   "Hannibal": [
@@ -467,6 +477,11 @@
       "level": "81",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "81",
+      "state": "no",
+      "timestamp": "2026-10-27 04:50:05"
     }
   ],
   "Anakim": [
@@ -734,6 +749,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-26 23:57:20"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-27 04:50:05"
     }
   ],
   "Varka's Commander Mos": [
@@ -783,6 +803,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-26 23:57:20"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-27 04:50:05"
     }
   ],
   "Cherub Galaxia": [
@@ -820,6 +845,11 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-10-25 20:43:53"
+    },
+    {
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-10-27 04:50:05"
     }
   ],
   "Longhorn Golkonda": [
@@ -1128,6 +1158,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-26 23:57:20"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-27 04:50:05"
     }
   ],
   "Death Lord Shax": [
@@ -1202,6 +1237,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-26 14:08:20"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-27 04:50:05"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -1293,6 +1333,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-26 06:58:43"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-27 04:50:05"
     }
   ],
   "Krokian Padisha Sobekk": [
@@ -1330,6 +1375,11 @@
       "level": "74",
       "state": "no",
       "timestamp": "2026-10-26 14:08:20"
+    },
+    {
+      "level": "74",
+      "state": "yes",
+      "timestamp": "2026-10-27 04:50:05"
     }
   ],
   "Death Lord Hallate": [
@@ -1397,6 +1447,11 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-10-26 14:08:20"
+    },
+    {
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-10-27 04:50:05"
     }
   ],
   "Plague Golem": [
@@ -1481,6 +1536,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-10-25 14:17:04"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-10-27 04:50:05"
     }
   ],
   "Vanor Chief Kandra": [
@@ -1622,6 +1682,11 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-10-26 23:57:20"
+    },
+    {
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-10-27 04:50:05"
     }
   ],
   "Immortal Savior Mardil": [
@@ -1787,6 +1852,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-26 14:08:20"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-27 04:50:05"
     }
   ],
   "Korim": [
@@ -1824,6 +1894,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-26 14:08:20"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-27 04:50:05"
     }
   ],
   "Meanas Anor": [
@@ -1881,6 +1956,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-26 14:08:20"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-27 04:50:05"
     }
   ],
   "Palibati Queen Themis": [
@@ -1982,6 +2062,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-26 14:08:20"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-27 04:50:05"
     }
   ],
   "Spirit of Andras, the Betrayer": [
@@ -4281,6 +4366,11 @@
       "level": "28",
       "state": "no",
       "timestamp": "2026-10-26 06:58:43"
+    },
+    {
+      "level": "28",
+      "state": "yes",
+      "timestamp": "2026-10-27 04:50:05"
     }
   ],
   "Tirak": [
@@ -4520,6 +4610,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-26 06:58:43"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-27 04:50:05"
     }
   ],
   "Princess Molrang": [
@@ -4865,6 +4960,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-26 14:08:20"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-27 04:50:05"
     }
   ],
   "Malex Herald of Dagoniel": [
@@ -5033,6 +5133,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-10-26 14:08:20"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-10-27 04:50:05"
     }
   ],
   "Madness Beast": [
@@ -5127,6 +5232,11 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-10-26 06:58:43"
+    },
+    {
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-10-27 04:50:05"
     }
   ]
 }
