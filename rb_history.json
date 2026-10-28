@@ -55,6 +55,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-26 14:08:20"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Darion": [
@@ -122,6 +127,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-27 16:01:25"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Queen Shyeed": [
@@ -478,6 +488,11 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-10-27 10:22:11"
+    },
+    {
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Hannibal": [
@@ -497,6 +512,11 @@
       "level": "81",
       "state": "no",
       "timestamp": "2026-10-27 04:50:05"
+    },
+    {
+      "level": "81",
+      "state": "yes",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Anakim": [
@@ -637,6 +657,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-28 00:24:38"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Ketra's Commander Tayr": [
@@ -821,6 +846,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Varka's Hero Shadith": [
@@ -1095,6 +1125,11 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-10-26 14:08:20"
+    },
+    {
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Gigantic Golem": [
@@ -1428,6 +1463,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-28 00:24:38"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Krokian Padisha Sobekk": [
@@ -1646,6 +1686,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-10-27 10:22:11"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Vanor Chief Kandra": [
@@ -1678,6 +1723,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-10-28 00:24:38"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Water Dragon Seer Sheshark": [
@@ -1817,6 +1867,11 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-10-28 00:24:38"
+    },
+    {
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Immortal Savior Mardil": [
@@ -2264,6 +2319,11 @@
       "level": "69",
       "state": "yes",
       "timestamp": "2026-10-27 20:48:31"
+    },
+    {
+      "level": "69",
+      "state": "no",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Kernon's Faithful Servant Kelone": [
@@ -2363,6 +2423,11 @@
       "level": "66",
       "state": "yes",
       "timestamp": "2026-10-28 00:24:38"
+    },
+    {
+      "level": "66",
+      "state": "no",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Enmity Ghost Ramdal": [
@@ -2447,6 +2512,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-10-28 00:24:38"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Gargoyle Lord Tiphon": [
@@ -2583,6 +2653,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-26 14:08:20"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Roaring Lord Kastor": [
@@ -2744,6 +2819,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-26 14:08:20"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Ghost of the Well Lidia": [
@@ -2944,6 +3024,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-25 14:17:04"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Abyss Brukunt": [
@@ -3005,6 +3090,11 @@
       "level": "59",
       "state": "yes",
       "timestamp": "2026-10-28 00:24:38"
+    },
+    {
+      "level": "59",
+      "state": "no",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Eva's Guardian Millenu": [
@@ -3017,6 +3107,11 @@
       "level": "58",
       "state": "no",
       "timestamp": "2026-10-27 10:22:11"
+    },
+    {
+      "level": "58",
+      "state": "yes",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Timak Seer Ragoth": [
@@ -3106,6 +3201,11 @@
       "level": "56",
       "state": "yes",
       "timestamp": "2026-10-26 06:58:43"
+    },
+    {
+      "level": "56",
+      "state": "no",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Refugee Applicant Leo": [
@@ -3133,6 +3233,11 @@
       "level": "56",
       "state": "yes",
       "timestamp": "2026-10-25 23:09:29"
+    },
+    {
+      "level": "56",
+      "state": "no",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Bandit Leader Barda": [
@@ -3511,6 +3616,11 @@
       "level": "47",
       "state": "no",
       "timestamp": "2026-10-28 00:24:38"
+    },
+    {
+      "level": "47",
+      "state": "yes",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Archon Suscepter": [
@@ -3555,6 +3665,11 @@
       "level": "45",
       "state": "no",
       "timestamp": "2026-10-27 16:01:25"
+    },
+    {
+      "level": "45",
+      "state": "yes",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Evil Spirit Cyrion": [
@@ -3642,6 +3757,11 @@
       "level": "44",
       "state": "no",
       "timestamp": "2026-10-27 16:01:25"
+    },
+    {
+      "level": "44",
+      "state": "yes",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Crazy Mechanic Golem": [
@@ -3771,6 +3891,11 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-10-27 16:01:25"
+    },
+    {
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Road Scavenger Leader": [
@@ -3842,6 +3967,11 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-10-27 16:01:25"
+    },
+    {
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Wizard of Storm Teruk": [
@@ -3876,6 +4006,11 @@
       "level": "39",
       "state": "no",
       "timestamp": "2026-10-26 20:01:18"
+    },
+    {
+      "level": "39",
+      "state": "yes",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Nellis' Vengeful Spirit": [
@@ -3905,6 +4040,11 @@
       "level": "38",
       "state": "no",
       "timestamp": "2026-10-27 10:22:11"
+    },
+    {
+      "level": "38",
+      "state": "yes",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Premo Prime": [
@@ -4010,6 +4150,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-27 20:48:31"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Chertuba of Great Soul": [
@@ -4180,6 +4325,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-26 23:57:20"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Guilotine, Warden of the Execution Grounds": [
@@ -4253,6 +4403,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-27 16:01:25"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Soul Collector Acheron": [
@@ -4336,6 +4491,11 @@
       "level": "34",
       "state": "no",
       "timestamp": "2026-10-27 16:01:25"
+    },
+    {
+      "level": "34",
+      "state": "yes",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Revenant of Sir Calibus": [
@@ -4538,6 +4698,11 @@
       "level": "32",
       "state": "yes",
       "timestamp": "2026-10-28 00:24:38"
+    },
+    {
+      "level": "32",
+      "state": "no",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Apepi": [
@@ -4796,6 +4961,11 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-10-28 00:24:38"
+    },
+    {
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Tirak": [
@@ -4865,6 +5035,11 @@
       "level": "26",
       "state": "no",
       "timestamp": "2026-10-26 20:01:18"
+    },
+    {
+      "level": "26",
+      "state": "yes",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Tiger Hornet": [
@@ -4954,6 +5129,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-27 20:48:31"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Ikuntai": [
@@ -4976,6 +5156,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-27 10:22:11"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Mammon Collector Talos": [
@@ -5003,6 +5188,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-24 01:08:35"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Pan Dryad": [
@@ -5055,6 +5245,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-27 10:22:11"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Princess Molrang": [
@@ -5235,6 +5430,11 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-10-26 23:57:20"
+    },
+    {
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Greyclaw Kutus": [
@@ -5393,6 +5593,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-27 20:48:31"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Kaysha Herald of Icarus": [
@@ -5524,6 +5729,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-27 10:22:11"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-28 13:17:47"
     }
   ],
   "Sukar Wererat Chief": [
