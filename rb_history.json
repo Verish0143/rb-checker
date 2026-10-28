@@ -563,6 +563,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-27 20:48:31"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-28 00:24:38"
     }
   ],
   "Gordon": [
@@ -627,6 +632,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-24 22:24:27"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-28 00:24:38"
     }
   ],
   "Ketra's Commander Tayr": [
@@ -890,6 +900,11 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-10-27 04:50:05"
+    },
+    {
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-10-28 00:24:38"
     }
   ],
   "Longhorn Golkonda": [
@@ -932,6 +947,11 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-10-27 20:48:31"
+    },
+    {
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-10-28 00:24:38"
     }
   ],
   "Fire of Wrath Shuriel": [
@@ -1403,6 +1423,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-27 10:22:11"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-28 00:24:38"
     }
   ],
   "Krokian Padisha Sobekk": [
@@ -1648,6 +1673,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-10-25 20:43:53"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-10-28 00:24:38"
     }
   ],
   "Water Dragon Seer Sheshark": [
@@ -1782,6 +1812,11 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-10-27 20:48:31"
+    },
+    {
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-10-28 00:24:38"
     }
   ],
   "Immortal Savior Mardil": [
@@ -2323,6 +2358,11 @@
       "level": "66",
       "state": "no",
       "timestamp": "2026-10-26 14:08:20"
+    },
+    {
+      "level": "66",
+      "state": "yes",
+      "timestamp": "2026-10-28 00:24:38"
     }
   ],
   "Enmity Ghost Ramdal": [
@@ -2402,6 +2442,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-26 20:01:18"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-10-28 00:24:38"
     }
   ],
   "Gargoyle Lord Tiphon": [
@@ -2955,6 +3000,11 @@
       "level": "59",
       "state": "no",
       "timestamp": "2026-10-24 11:17:55"
+    },
+    {
+      "level": "59",
+      "state": "yes",
+      "timestamp": "2026-10-28 00:24:38"
     }
   ],
   "Eva's Guardian Millenu": [
@@ -3354,6 +3404,11 @@
       "level": "50",
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33"
+    },
+    {
+      "level": "50",
+      "state": "no",
+      "timestamp": "2026-10-28 00:24:38"
     }
   ],
   "Carnamakos": [
@@ -3451,6 +3506,11 @@
       "level": "47",
       "state": "yes",
       "timestamp": "2026-10-22 07:27:11"
+    },
+    {
+      "level": "47",
+      "state": "no",
+      "timestamp": "2026-10-28 00:24:38"
     }
   ],
   "Archon Suscepter": [
@@ -3635,6 +3695,11 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-10-26 20:01:18"
+    },
+    {
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-10-28 00:24:38"
     }
   ],
   "Icarus Sample 1": [
@@ -4389,6 +4454,11 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-10-27 10:22:11"
+    },
+    {
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-10-28 00:24:38"
     }
   ],
   "Vuku Grand Seer Gharmash": [
@@ -4463,6 +4533,11 @@
       "level": "32",
       "state": "no",
       "timestamp": "2026-10-27 10:22:11"
+    },
+    {
+      "level": "32",
+      "state": "yes",
+      "timestamp": "2026-10-28 00:24:38"
     }
   ],
   "Apepi": [
@@ -4716,6 +4791,11 @@
       "level": "28",
       "state": "no",
       "timestamp": "2026-10-27 10:22:11"
+    },
+    {
+      "level": "28",
+      "state": "yes",
+      "timestamp": "2026-10-28 00:24:38"
     }
   ],
   "Tirak": [
@@ -5276,6 +5356,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-27 20:48:31"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-10-28 00:24:38"
     }
   ],
   "Tracker Leader Sharuk": [
@@ -5355,6 +5440,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-27 10:22:11"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-28 00:24:38"
     }
   ],
   "Malex Herald of Dagoniel": [
@@ -5506,6 +5596,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-10-27 20:48:31"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-10-28 00:24:38"
     }
   ],
   "Discarded Guardian": [
