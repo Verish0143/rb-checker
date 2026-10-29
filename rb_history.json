@@ -370,6 +370,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-29 10:41:18"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-29 16:20:17"
     }
   ],
   "Last Titan Utenus": [
@@ -745,6 +750,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-29 13:20:21"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-29 16:20:17"
     }
   ],
   "Ketra's Chief Brakki": [
@@ -3663,6 +3673,11 @@
       "level": "56",
       "state": "no",
       "timestamp": "2026-10-28 13:17:47"
+    },
+    {
+      "level": "56",
+      "state": "yes",
+      "timestamp": "2026-10-29 16:20:17"
     }
   ],
   "Bandit Leader Barda": [
@@ -6070,6 +6085,11 @@
       "level": "24",
       "state": "yes",
       "timestamp": "2026-10-29 13:40:23"
+    },
+    {
+      "level": "24",
+      "state": "no",
+      "timestamp": "2026-10-29 16:20:17"
     }
   ],
   "Greyclaw Kutus": [
