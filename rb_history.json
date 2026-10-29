@@ -1016,6 +1016,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-28 18:56:54"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-29 19:00:16"
     }
   ],
   "Varka's Hero Shadith": [
@@ -4680,6 +4685,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-29 12:40:23"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-29 19:00:16"
     }
   ],
   "Chertuba of Great Soul": [
