@@ -278,6 +278,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-29 21:40:17"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-29 22:20:17"
     }
   ],
   "Hekaton Prime": [
@@ -2016,6 +2021,11 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-10-29 21:40:17"
+    },
+    {
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-10-29 22:20:17"
     }
   ],
   "Vanor Chief Kandra": [
