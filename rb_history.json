@@ -375,6 +375,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-29 16:20:17"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-29 17:00:23"
     }
   ],
   "Last Titan Utenus": [
@@ -5546,6 +5551,11 @@
       "level": "28",
       "state": "no",
       "timestamp": "2026-10-28 13:17:47"
+    },
+    {
+      "level": "28",
+      "state": "yes",
+      "timestamp": "2026-10-29 17:00:23"
     }
   ],
   "Tirak": [
