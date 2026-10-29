@@ -437,6 +437,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-29 08:54:48"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-29 13:40:23"
     }
   ],
   "Tully": [
@@ -895,6 +900,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-29 12:40:23"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-29 13:40:23"
     }
   ],
   "Uruka": [
@@ -6015,6 +6025,11 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-10-28 23:06:45"
+    },
+    {
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-10-29 13:40:23"
     }
   ],
   "Greyclaw Kutus": [
@@ -6062,6 +6077,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-26 23:57:20"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-29 13:40:23"
     }
   ],
   "Kuroboros' Priest": [
