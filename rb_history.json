@@ -462,6 +462,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-29 19:20:18"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-29 21:20:18"
     }
   ],
   "Tully": [
@@ -618,6 +623,11 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-29 19:40:16"
+    },
+    {
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-29 21:20:18"
     }
   ],
   "Hannibal": [
@@ -977,6 +987,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-29 17:20:17"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-29 21:20:18"
     }
   ],
   "Varka's Chief Horus": [
@@ -1031,6 +1046,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-29 19:00:16"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-29 21:20:18"
     }
   ],
   "Varka's Hero Shadith": [
@@ -1251,6 +1271,11 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-10-22 12:40:49"
+    },
+    {
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-10-29 21:20:18"
     }
   ],
   "Last Lesser Giant Glaki": [
@@ -2182,6 +2207,11 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-10-29 20:00:18"
+    },
+    {
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-10-29 21:20:18"
     }
   ],
   "Immortal Savior Mardil": [
@@ -2560,6 +2590,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-29 18:40:16"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-29 21:20:18"
     }
   ],
   "Shilen's Messenger Cabrio": [
@@ -4546,6 +4581,11 @@
       "level": "39",
       "state": "no",
       "timestamp": "2026-10-28 18:56:54"
+    },
+    {
+      "level": "39",
+      "state": "yes",
+      "timestamp": "2026-10-29 21:20:18"
     }
   ],
   "Nellis' Vengeful Spirit": [
