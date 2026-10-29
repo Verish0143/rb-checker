@@ -392,6 +392,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-26 06:58:43"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-29 02:32:35"
     }
   ],
   "Tully": [
@@ -523,6 +528,11 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-10-28 18:56:54"
+    },
+    {
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-10-29 02:32:35"
     }
   ],
   "Hannibal": [
@@ -1407,6 +1417,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-27 10:22:11"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-29 02:32:35"
     }
   ],
   "Last Lesser Giant Olkuth": [
@@ -1434,6 +1449,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-24 11:17:55"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-29 02:32:35"
     }
   ],
   "Menacing Palatanos": [
@@ -1518,6 +1538,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-28 13:17:47"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-29 02:32:35"
     }
   ],
   "Krokian Padisha Sobekk": [
@@ -1642,6 +1667,11 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-10-27 10:22:11"
+    },
+    {
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-10-29 02:32:35"
     }
   ],
   "Plague Golem": [
@@ -2253,6 +2283,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-26 14:08:20"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-29 02:32:35"
     }
   ],
   "Roaring Skylancer": [
@@ -2379,6 +2414,11 @@
       "level": "69",
       "state": "no",
       "timestamp": "2026-10-28 13:17:47"
+    },
+    {
+      "level": "69",
+      "state": "yes",
+      "timestamp": "2026-10-29 02:32:35"
     }
   ],
   "Kernon's Faithful Servant Kelone": [
@@ -2426,6 +2466,11 @@
       "level": "67",
       "state": "no",
       "timestamp": "2026-10-27 20:48:31"
+    },
+    {
+      "level": "67",
+      "state": "yes",
+      "timestamp": "2026-10-29 02:32:35"
     }
   ],
   "Demon's Agent Falston": [
@@ -2666,6 +2711,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-27 20:48:31"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-10-29 02:32:35"
     }
   ],
   "Shilen's Priest Hisilrome": [
@@ -3886,6 +3936,11 @@
       "level": "43",
       "state": "no",
       "timestamp": "2026-10-27 16:01:25"
+    },
+    {
+      "level": "43",
+      "state": "yes",
+      "timestamp": "2026-10-29 02:32:35"
     }
   ],
   "Retreat Spider Cletu": [
@@ -3969,6 +4024,11 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-10-27 16:01:25"
+    },
+    {
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-10-29 02:32:35"
     }
   ],
   "Nakondas": [
@@ -4991,6 +5051,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-10-27 20:48:31"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-10-29 02:32:35"
     }
   ],
   "Giant Wasteland Basilisk": [
@@ -5309,6 +5374,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-28 13:17:47"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-29 02:32:35"
     }
   ],
   "Ikuntai": [
@@ -5521,6 +5591,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-26 23:57:20"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-29 02:32:35"
     }
   ],
   "Langk Matriarch Rashkos": [
@@ -6006,6 +6081,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-28 00:24:38"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-29 02:32:35"
     }
   ],
   "Discarded Guardian": [
