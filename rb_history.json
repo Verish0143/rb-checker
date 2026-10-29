@@ -521,6 +521,11 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-10-27 04:50:05"
+    },
+    {
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-10-29 11:20:25"
     }
   ],
   "Gorgolos": [
@@ -1087,6 +1092,11 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-10-28 00:24:38"
+    },
+    {
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-10-29 11:20:25"
     }
   ],
   "Fire of Wrath Shuriel": [
@@ -1188,6 +1198,11 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-10-29 11:00:26"
+    },
+    {
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-10-29 11:20:25"
     }
   ],
   "Flamestone Giant": [
@@ -1556,6 +1571,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-29 11:00:26"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-29 11:20:25"
     }
   ],
   "Storm Winged Naga": [
@@ -1670,6 +1690,11 @@
       "level": "74",
       "state": "no",
       "timestamp": "2026-10-27 10:22:11"
+    },
+    {
+      "level": "74",
+      "state": "yes",
+      "timestamp": "2026-10-29 11:20:25"
     }
   ],
   "Death Lord Hallate": [
