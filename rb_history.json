@@ -487,6 +487,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-29 22:40:17"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-29 23:00:17"
     }
   ],
   "Tully": [
@@ -648,6 +653,11 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-10-29 21:20:18"
+    },
+    {
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-10-29 23:00:17"
     }
   ],
   "Hannibal": [
@@ -3262,6 +3272,11 @@
       "level": "61",
       "state": "no",
       "timestamp": "2026-10-29 10:41:18"
+    },
+    {
+      "level": "61",
+      "state": "yes",
+      "timestamp": "2026-10-29 23:00:17"
     }
   ],
   "Ancient Drake": [
@@ -3559,6 +3574,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-28 13:17:47"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-29 23:00:17"
     }
   ],
   "Abyss Brukunt": [
