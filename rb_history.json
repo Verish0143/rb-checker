@@ -350,6 +350,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-29 09:21:15"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-29 09:41:17"
     }
   ],
   "Last Titan Utenus": [
@@ -2838,6 +2843,11 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-28 18:56:54"
+    },
+    {
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-10-29 09:41:17"
     }
   ],
   "Roaring Lord Kastor": [
