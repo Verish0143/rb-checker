@@ -2103,6 +2103,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-26 14:08:20"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-29 09:01:20"
     }
   ],
   "Fafurion's Herald Lokness": [
@@ -5153,6 +5158,11 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-10-24 06:01:16"
+    },
+    {
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-10-29 09:01:20"
     }
   ],
   "Ragraman": [
@@ -5676,6 +5686,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-29 02:32:35"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-29 09:01:20"
     }
   ],
   "Langk Matriarch Rashkos": [
@@ -6042,6 +6057,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-10-27 16:01:25"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-10-29 09:01:20"
     }
   ],
   "Serpent Demon Bifrons": [
@@ -6089,6 +6109,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-10-28 13:17:47"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-10-29 09:01:20"
     }
   ],
   "Sukar Wererat Chief": [
@@ -6337,6 +6362,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-10-27 04:50:05"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-10-29 09:01:20"
     }
   ]
 }
