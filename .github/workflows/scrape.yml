@@ -2,28 +2,25 @@ name: RB Checker Scraper
 
 on:
   schedule:
-    - cron: "1,21,41 * * * *"   # každých 20 minut
+    - cron: "1,21,41 * * * *"   # záloha, hlavní spouštění chodí z NASu přes workflow_dispatch
   workflow_dispatch:
-  
+
 concurrency:
   group: scrape
   cancel-in-progress: false
-  
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repo
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: "3.10"
-
+    # Krok "Set up Python" vynechán: ubuntu-latest má Python 3 s pipem
+    # předinstalovaný, actions/setup-python stál 6 s navíc.
     - name: Install dependencies
-      run: pip install beautifulsoup4 requests
+      run: pip install --quiet beautifulsoup4 requests
 
     - name: Run scraper
       run: python scraper.py
