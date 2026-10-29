@@ -241,6 +241,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-10-29 10:41:18"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-10-29 11:00:26"
     }
   ],
   "Gwindorr": [
@@ -1178,6 +1183,11 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-10-25 05:19:17"
+    },
+    {
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-10-29 11:00:26"
     }
   ],
   "Flamestone Giant": [
@@ -1541,6 +1551,11 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-25 17:42:37"
+    },
+    {
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-29 11:00:26"
     }
   ],
   "Storm Winged Naga": [
@@ -1883,6 +1898,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-10-28 13:17:47"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-10-29 11:00:26"
     }
   ],
   "Water Dragon Seer Sheshark": [
@@ -2878,6 +2898,11 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-10-29 09:41:17"
+    },
+    {
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-10-29 11:00:26"
     }
   ],
   "Roaring Lord Kastor": [
@@ -3158,6 +3183,11 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-28 18:56:54"
+    },
+    {
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-29 11:00:26"
     }
   ],
   "Lord Ishka": [
@@ -3365,6 +3395,11 @@
       "level": "59",
       "state": "yes",
       "timestamp": "2026-10-29 10:41:18"
+    },
+    {
+      "level": "59",
+      "state": "no",
+      "timestamp": "2026-10-29 11:00:26"
     }
   ],
   "Eva's Guardian Millenu": [
@@ -5843,6 +5878,11 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-10-27 10:22:11"
+    },
+    {
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-10-29 11:00:26"
     }
   ],
   "Unrequited Kael": [
@@ -6068,6 +6108,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-29 10:41:18"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-10-29 11:00:26"
     }
   ],
   "Kaysha Herald of Icarus": [
