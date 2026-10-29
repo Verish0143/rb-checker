@@ -390,6 +390,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-29 17:00:23"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-29 22:40:17"
     }
   ],
   "Last Titan Utenus": [
@@ -477,6 +482,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-29 21:20:18"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-29 22:40:17"
     }
   ],
   "Tully": [
@@ -5464,6 +5474,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-10-29 10:41:18"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-10-29 22:40:17"
     }
   ],
   "Cat's Eye Bandit": [
@@ -5511,6 +5526,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-10-29 08:54:48"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-10-29 22:40:17"
     }
   ],
   "Giant Wasteland Basilisk": [
