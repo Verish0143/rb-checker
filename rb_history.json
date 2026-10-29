@@ -2535,6 +2535,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-22 12:40:49"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-29 18:40:16"
     }
   ],
   "Shilen's Messenger Cabrio": [
@@ -4786,6 +4791,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-27 20:48:31"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-29 18:40:16"
     }
   ],
   "Gargoyle Lord Sirocco": [
@@ -5174,6 +5184,11 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-10-28 00:24:38"
+    },
+    {
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-10-29 18:40:16"
     }
   ],
   "Vuku Grand Seer Gharmash": [
@@ -5566,6 +5581,11 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-10-29 17:00:23"
+    },
+    {
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-10-29 18:40:16"
     }
   ],
   "Tirak": [
@@ -5818,6 +5838,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-28 13:17:47"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-29 18:40:16"
     }
   ],
   "Pan Dryad": [
