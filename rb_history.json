@@ -345,6 +345,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-29 08:54:48"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-29 09:21:15"
     }
   ],
   "Last Titan Utenus": [
@@ -2108,6 +2113,11 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-29 09:01:20"
+    },
+    {
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-29 09:21:15"
     }
   ],
   "Fafurion's Herald Lokness": [
@@ -6020,6 +6030,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-10-28 00:24:38"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-10-29 09:21:15"
     }
   ],
   "Malex Herald of Dagoniel": [
@@ -6253,6 +6268,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-10-27 20:48:31"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-10-29 09:21:15"
     }
   ],
   "Madness Beast": [
@@ -6325,6 +6345,11 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-10-28 18:56:54"
+    },
+    {
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-10-29 09:21:15"
     }
   ],
   "Zombie Lord Ferkel": [
