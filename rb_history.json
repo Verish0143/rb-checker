@@ -783,6 +783,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-28 00:24:38"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-30 03:20:17"
     }
   ],
   "Gordon": [
@@ -2438,6 +2443,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-29 09:21:15"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-30 03:20:17"
     }
   ],
   "Fafurion's Herald Lokness": [
@@ -3434,6 +3444,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-29 10:41:18"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-30 03:20:17"
     }
   ],
   "Ghost of the Well Lidia": [
