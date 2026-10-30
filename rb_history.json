@@ -194,6 +194,11 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-10-30 04:00:14"
+    },
+    {
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-10-30 07:00:18"
     }
   ],
   "Water Spirit Lian": [
@@ -693,6 +698,11 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-10-30 00:20:19"
+    },
+    {
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-10-30 07:00:18"
     }
   ],
   "Hannibal": [
@@ -803,6 +813,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-30 03:20:17"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-30 07:00:18"
     }
   ],
   "Gordon": [
@@ -1965,6 +1980,11 @@
       "level": "74",
       "state": "no",
       "timestamp": "2026-10-29 15:40:17"
+    },
+    {
+      "level": "74",
+      "state": "yes",
+      "timestamp": "2026-10-30 07:00:18"
     }
   ],
   "Death Lord Hallate": [
