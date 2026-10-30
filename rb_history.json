@@ -1765,6 +1765,12 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-10-30 21:40:15"
+    },
+    {
+      "name": "Fire of Wrath Shuriel",
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-10-30 23:40:18"
     }
   ],
   "25293": [
@@ -2695,6 +2701,12 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-10-30 11:00:21"
+    },
+    {
+      "name": "Vanor Chief Kandra",
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-10-30 23:40:18"
     }
   ],
   "25199": [
