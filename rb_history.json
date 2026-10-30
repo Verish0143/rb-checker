@@ -1251,6 +1251,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-30 18:00:17"
+    },
+    {
+      "name": "Ketra's Commander Tayr",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-30 18:40:17"
     }
   ],
   "25283": [
@@ -3685,6 +3691,12 @@
       "state": "yes",
       "timestamp": "2026-10-29 15:00:16",
       "name": "Enmity Ghost Ramdal"
+    },
+    {
+      "name": "Enmity Ghost Ramdal",
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-10-30 18:40:17"
     }
   ],
   "25125": [
@@ -4105,6 +4117,12 @@
       "state": "yes",
       "timestamp": "2026-10-29 23:00:17",
       "name": "Fairy Queen Timiniel"
+    },
+    {
+      "name": "Fairy Queen Timiniel",
+      "level": "61",
+      "state": "no",
+      "timestamp": "2026-10-30 18:40:17"
     }
   ],
   "25766": [
@@ -8149,6 +8167,12 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Doom Blade Tanatos",
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-10-30 18:40:17"
     }
   ],
   "25248": [
