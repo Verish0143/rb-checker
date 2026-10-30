@@ -2837,6 +2837,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-10-30 16:00:19"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-10-30 17:00:17"
     }
   ],
   "25447": [
@@ -6799,6 +6805,12 @@
       "state": "no",
       "timestamp": "2026-10-29 10:41:18",
       "name": "Elf Renoa"
+    },
+    {
+      "name": "Elf Renoa",
+      "level": "29",
+      "state": "yes",
+      "timestamp": "2026-10-30 17:00:17"
     }
   ],
   "25272": [
