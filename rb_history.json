@@ -2181,6 +2181,12 @@
       "state": "no",
       "timestamp": "2026-10-29 11:20:25",
       "name": "Menacing Palatanos"
+    },
+    {
+      "name": "Menacing Palatanos",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-30 18:20:15"
     }
   ],
   "25229": [
@@ -3111,6 +3117,12 @@
       "state": "no",
       "timestamp": "2026-10-27 10:22:11",
       "name": "Flame of Splendor Barakiel"
+    },
+    {
+      "name": "Flame of Splendor Barakiel",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-30 18:20:15"
     }
   ],
   "25092": [
@@ -3273,6 +3285,12 @@
       "state": "no",
       "timestamp": "2026-10-29 21:20:18",
       "name": "Roaring Skylancer"
+    },
+    {
+      "name": "Roaring Skylancer",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-30 18:20:15"
     }
   ],
   "25035": [
@@ -3433,6 +3451,12 @@
       "state": "yes",
       "timestamp": "2026-10-30 08:00:15",
       "name": "Spirit of Andras, the Betrayer"
+    },
+    {
+      "name": "Spirit of Andras, the Betrayer",
+      "level": "69",
+      "state": "no",
+      "timestamp": "2026-10-30 18:20:15"
     }
   ],
   "25263": [
@@ -4241,6 +4265,12 @@
       "state": "yes",
       "timestamp": "2026-10-30 04:40:16",
       "name": "Ghost of the Well Lidia"
+    },
+    {
+      "name": "Ghost of the Well Lidia",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-30 18:20:15"
     }
   ],
   "25179": [
@@ -4347,6 +4377,12 @@
       "state": "yes",
       "timestamp": "2026-10-30 09:00:15",
       "name": "Lord Ishka"
+    },
+    {
+      "name": "Lord Ishka",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-30 18:20:15"
     }
   ],
   "25256": [
@@ -7057,6 +7093,12 @@
       "state": "no",
       "timestamp": "2026-10-29 10:41:18",
       "name": "Patriarch Kuroboros"
+    },
+    {
+      "name": "Patriarch Kuroboros",
+      "level": "26",
+      "state": "yes",
+      "timestamp": "2026-10-30 18:20:15"
     }
   ],
   "25360": [
