@@ -7253,6 +7253,12 @@
       "level": "24",
       "state": "yes",
       "timestamp": "2026-10-30 13:40:19"
+    },
+    {
+      "name": "Langk Matriarch Rashkos",
+      "level": "24",
+      "state": "no",
+      "timestamp": "2026-10-30 14:20:20"
     }
   ],
   "25060": [
@@ -7333,6 +7339,12 @@
       "level": "24",
       "state": "yes",
       "timestamp": "2026-10-30 13:40:19"
+    },
+    {
+      "name": "Unrequited Kael",
+      "level": "24",
+      "state": "no",
+      "timestamp": "2026-10-30 14:20:20"
     }
   ],
   "25366": [
@@ -7513,6 +7525,12 @@
       "state": "no",
       "timestamp": "2026-10-29 11:00:26",
       "name": "Tracker Leader Sharuk"
+    },
+    {
+      "name": "Tracker Leader Sharuk",
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-30 14:20:20"
     }
   ],
   "25380": [
@@ -8141,6 +8159,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-30 10:40:18"
+    },
+    {
+      "name": "Betrayer of Urutu Freki",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-30 14:20:20"
     }
   ],
   "25426": [
