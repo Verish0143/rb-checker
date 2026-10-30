@@ -1857,6 +1857,12 @@
       "state": "no",
       "timestamp": "2026-10-26 14:08:20",
       "name": "Gigantic Golem"
+    },
+    {
+      "name": "Gigantic Golem",
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-10-30 12:40:15"
     }
   ],
   "25205": [
@@ -7853,6 +7859,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-30 12:40:15"
     }
   ],
   "25309": [
@@ -7933,6 +7945,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-30 12:20:18"
+    },
+    {
+      "name": "Meanas Anor",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-30 12:40:15"
     }
   ],
   "25763": [
@@ -8185,6 +8203,12 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Zombie Lord Ferkel",
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-10-30 12:40:15"
     }
   ]
 }
