@@ -1559,6 +1559,12 @@
       "state": "yes",
       "timestamp": "2026-10-30 07:40:16",
       "name": "Longhorn Golkonda"
+    },
+    {
+      "name": "Longhorn Golkonda",
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-10-30 10:40:18"
     }
   ],
   "25143": [
@@ -2511,6 +2517,12 @@
       "state": "yes",
       "timestamp": "2026-10-30 08:00:15",
       "name": "Water Dragon Seer Sheshark"
+    },
+    {
+      "name": "Water Dragon Seer Sheshark",
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-10-30 10:40:18"
     }
   ],
   "25328": [
@@ -7973,6 +7985,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Betrayer of Urutu Freki",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-30 10:40:18"
     }
   ],
   "25426": [
