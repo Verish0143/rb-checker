@@ -2771,6 +2771,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-10-30 12:00:14"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-10-30 12:20:18"
     }
   ],
   "25447": [
@@ -7817,6 +7823,12 @@
       "state": "no",
       "timestamp": "2026-10-29 09:21:15",
       "name": "Madness Beast"
+    },
+    {
+      "name": "Madness Beast",
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-10-30 12:20:18"
     }
   ],
   "25787": [
@@ -7915,6 +7927,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Meanas Anor",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-30 12:20:18"
     }
   ],
   "25763": [
@@ -8137,6 +8155,12 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Sukar Wererat Chief",
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-30 12:20:18"
     }
   ],
   "25741": [
