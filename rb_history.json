@@ -142,6 +142,11 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-29 08:54:48"
+    },
+    {
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-10-30 09:00:15"
     }
   ],
   "Queen Shyeed": [
@@ -2452,6 +2457,11 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-10-30 08:00:15"
+    },
+    {
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-10-30 09:00:15"
     }
   ],
   "Immortal Savior Mardil": [
@@ -3725,6 +3735,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-29 10:41:18"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-30 09:00:15"
     }
   ],
   "Taik High Prefect Arak": [
@@ -6724,6 +6739,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-30 00:00:16"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-10-30 09:00:15"
     }
   ],
   "Lead Tracker Sharuk": [
@@ -6776,6 +6796,11 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-30 08:20:17"
+    },
+    {
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-10-30 09:00:15"
     }
   ],
   "Tracker Leader Sharuk": [
@@ -6984,6 +7009,11 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-10-30 02:20:16"
+    },
+    {
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-10-30 09:00:15"
     }
   ],
   "Sukar Wererat Chief": [
