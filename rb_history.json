@@ -765,6 +765,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-30 10:00:16"
+    },
+    {
+      "name": "Giant Marpanak",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-30 10:20:17"
     }
   ],
   "25681": [
@@ -949,6 +955,12 @@
       "state": "no",
       "timestamp": "2026-10-29 08:54:48",
       "name": "Andreas Van Halter"
+    },
+    {
+      "name": "Andreas Van Halter",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-30 10:20:17"
     }
   ],
   "25319": [
@@ -2337,6 +2349,12 @@
       "state": "yes",
       "timestamp": "2026-10-30 02:00:16",
       "name": "Death Lord Hallate"
+    },
+    {
+      "name": "Death Lord Hallate",
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-10-30 10:20:17"
     }
   ],
   "25523": [
@@ -2843,6 +2861,12 @@
       "state": "yes",
       "timestamp": "2026-10-30 03:20:17",
       "name": "Beast Lord Behemoth"
+    },
+    {
+      "name": "Beast Lord Behemoth",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-30 10:20:17"
     }
   ],
   "25198": [
@@ -5341,6 +5365,12 @@
       "state": "no",
       "timestamp": "2026-10-29 14:00:24",
       "name": "Water Couatle Ateka"
+    },
+    {
+      "name": "Water Couatle Ateka",
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-10-30 10:20:17"
     }
   ],
   "25064": [
