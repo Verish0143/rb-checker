@@ -1499,6 +1499,11 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-10-25 14:17:04"
+    },
+    {
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-10-30 01:20:18"
     }
   ],
   "Bloody Empress Decarbia": [
@@ -4681,6 +4686,11 @@
       "level": "39",
       "state": "yes",
       "timestamp": "2026-10-29 21:20:18"
+    },
+    {
+      "level": "39",
+      "state": "no",
+      "timestamp": "2026-10-30 01:20:18"
     }
   ],
   "Nellis' Vengeful Spirit": [
