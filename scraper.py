@@ -5,9 +5,21 @@ import json
 from datetime import datetime
 import os
 import re
+import time
 
 URL = "https://www.lineage2.cz/vault/global/rb-checker"
 HISTORY_FILE = "rb_history.json"
+
+# Bez User-Agentu se requests hlásí jako "python-requests" a web ho může odmítat.
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) "
+        "Gecko/20100101 Firefox/140.0"
+    )
+}
+
+# Pauzy mezi opakováními (s), když web vrátí 5xx nebo neodpoví.
+RETRY_DELAYS = [10, 30, 60]
 
 
 def load_history():
@@ -22,11 +34,37 @@ def save_history(history):
         json.dump(history, f, ensure_ascii=False, indent=2)
 
 
-def scrape():
-    response = requests.get(URL, timeout=30)
-    response.raise_for_status()
+def fetch():
+    # Web občas vrací 503. Zkusíme to znovu, a když nevyjde ani poslední
+    # pokus, vrátíme None - další běh za 20 minut to dožene.
+    for attempt, delay in enumerate([0] + RETRY_DELAYS, start=1):
+        if delay:
+            time.sleep(delay)
 
-    soup = BeautifulSoup(response.text, "html.parser")
+        try:
+            response = requests.get(URL, headers=HEADERS, timeout=30)
+        except (requests.ConnectionError, requests.Timeout) as e:
+            print(f"Pokus {attempt}: web neodpověděl ({e})")
+            continue
+
+        if response.status_code >= 500:
+            print(f"Pokus {attempt}: HTTP {response.status_code}")
+            continue
+
+        # 4xx neopakujeme, to je chyba, kterou je potřeba vidět.
+        response.raise_for_status()
+        return response.text
+
+    return None
+
+
+def scrape():
+    html = fetch()
+
+    if html is None:
+        return None
+
+    soup = BeautifulSoup(html, "html.parser")
 
     rows = soup.find_all("tr")
     current = {}
@@ -68,6 +106,12 @@ def scrape():
 def main():
     history = load_history()
     current = scrape()
+
+    if current is None:
+        # ::warning:: ukáže výpadek v GitHub Actions jako žlutou poznámku,
+        # běh ale skončí úspěšně a historie zůstane beze změny.
+        print("::warning::Web lineage2.cz je nedostupný, běh přeskočen.")
+        return
 
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
