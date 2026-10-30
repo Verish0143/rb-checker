@@ -1972,6 +1972,11 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-10-29 08:54:48"
+    },
+    {
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-10-30 02:00:16"
     }
   ],
   "Plague Golem": [
@@ -2354,6 +2359,11 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-10-26 06:58:43"
+    },
+    {
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-10-30 02:00:16"
     }
   ],
   "Anakim's Nemesis Zakaron": [
