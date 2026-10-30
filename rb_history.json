@@ -4705,6 +4705,12 @@
       "state": "yes",
       "timestamp": "2026-10-28 18:56:54",
       "name": "Eva's Spirit Niniel"
+    },
+    {
+      "name": "Eva's Spirit Niniel",
+      "level": "55",
+      "state": "no",
+      "timestamp": "2026-10-30 13:40:19"
     }
   ],
   "25010": [
@@ -7223,6 +7229,12 @@
       "state": "no",
       "timestamp": "2026-10-29 12:40:23",
       "name": "Langk Matriarch Rashkos"
+    },
+    {
+      "name": "Langk Matriarch Rashkos",
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-10-30 13:40:19"
     }
   ],
   "25060": [
@@ -7297,6 +7309,12 @@
       "state": "no",
       "timestamp": "2026-10-29 16:20:17",
       "name": "Unrequited Kael"
+    },
+    {
+      "name": "Unrequited Kael",
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-10-30 13:40:19"
     }
   ],
   "25366": [
