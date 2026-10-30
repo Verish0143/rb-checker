@@ -249,6 +249,12 @@
       "state": "no",
       "timestamp": "2026-10-30 07:00:18",
       "name": "Queen Shyeed"
+    },
+    {
+      "name": "Queen Shyeed",
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-10-30 21:00:17"
     }
   ],
   "25677": [
@@ -923,6 +929,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-30 18:00:17"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-30 21:00:17"
     }
   ],
   "25536": [
@@ -1133,6 +1145,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-30 18:00:17"
+    },
+    {
+      "name": "Gordon",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-30 21:00:17"
     }
   ],
   "25305": [
@@ -2079,6 +2097,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-30 11:00:21"
+    },
+    {
+      "name": "Death Lord Ipos",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-30 21:00:17"
     }
   ],
   "25282": [
@@ -2149,6 +2173,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-30 19:20:17"
+    },
+    {
+      "name": "Last Lesser Giant Olkuth",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-30 21:00:17"
     }
   ],
   "25249": [
@@ -2199,6 +2229,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-30 18:20:15"
+    },
+    {
+      "name": "Menacing Palatanos",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-30 21:00:17"
     }
   ],
   "25229": [
@@ -2285,6 +2321,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-30 16:00:19"
+    },
+    {
+      "name": "Storm Winged Naga",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-30 21:00:17"
     }
   ],
   "25202": [
@@ -3537,6 +3579,12 @@
       "state": "no",
       "timestamp": "2026-10-29 10:41:18",
       "name": "Kernon's Faithful Servant Kelone"
+    },
+    {
+      "name": "Kernon's Faithful Servant Kelone",
+      "level": "67",
+      "state": "yes",
+      "timestamp": "2026-10-30 21:00:17"
     }
   ],
   "25322": [
@@ -4619,6 +4667,12 @@
       "state": "no",
       "timestamp": "2026-10-29 11:00:26",
       "name": "Soulless Wild Boar"
+    },
+    {
+      "name": "Soulless Wild Boar",
+      "level": "59",
+      "state": "yes",
+      "timestamp": "2026-10-30 21:00:17"
     }
   ],
   "25032": [
@@ -5927,6 +5981,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-30 19:40:19"
+    },
+    {
+      "name": "Chertuba of Great Soul",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-30 21:00:17"
     }
   ],
   "25754": [
@@ -7741,6 +7801,12 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-30 14:20:20"
+    },
+    {
+      "name": "Tracker Leader Sharuk",
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-10-30 21:00:17"
     }
   ],
   "25380": [
@@ -8013,6 +8079,12 @@
       "state": "no",
       "timestamp": "2026-10-29 09:21:15",
       "name": "Discarded Guardian"
+    },
+    {
+      "name": "Discarded Guardian",
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-10-30 21:00:17"
     }
   ],
   "25378": [
@@ -8119,6 +8191,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Ketra's Hero Hekaton",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-30 21:00:17"
     }
   ],
   "25299": [
@@ -8211,6 +8289,12 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Doom Blade Tanatos",
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-10-30 21:00:17"
     }
   ],
   "25797": [
@@ -8263,6 +8347,12 @@
       "level": "50",
       "state": "no",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Carnage Lord Gato",
+      "level": "50",
+      "state": "yes",
+      "timestamp": "2026-10-30 21:00:17"
     }
   ],
   "25131": [
@@ -8407,6 +8497,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-30 15:20:19"
+    },
+    {
+      "name": "Betrayer of Urutu Freki",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-30 21:00:17"
     }
   ],
   "25166": [
