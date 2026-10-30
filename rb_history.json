@@ -5803,6 +5803,12 @@
       "state": "yes",
       "timestamp": "2026-10-28 13:17:47",
       "name": "Lizardmen Leader Hellion"
+    },
+    {
+      "name": "Lizardmen Leader Hellion",
+      "level": "38",
+      "state": "no",
+      "timestamp": "2026-10-30 22:40:21"
     }
   ],
   "25394": [
@@ -6085,6 +6091,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-30 22:00:05"
+    },
+    {
+      "name": "Fire Lord Shadar",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-30 22:40:21"
     }
   ],
   "25152": [
