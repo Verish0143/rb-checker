@@ -543,6 +543,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-30 16:20:17"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-30 17:20:18"
     }
   ],
   "25684": [
@@ -3799,6 +3805,12 @@
       "state": "no",
       "timestamp": "2026-10-30 03:00:15",
       "name": "Rahha"
+    },
+    {
+      "name": "Rahha",
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-10-30 17:20:18"
     }
   ],
   "25478": [
@@ -7183,6 +7195,12 @@
       "state": "no",
       "timestamp": "2026-10-29 10:41:18",
       "name": "Princess Molrang"
+    },
+    {
+      "name": "Princess Molrang",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-30 17:20:18"
     }
   ],
   "25369": [
@@ -8135,6 +8153,12 @@
       "level": "49",
       "state": "no",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Ketra Commander Atis",
+      "level": "49",
+      "state": "yes",
+      "timestamp": "2026-10-30 17:20:18"
     }
   ],
   "25026": [
