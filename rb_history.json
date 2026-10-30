@@ -979,6 +979,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-30 10:20:17"
+    },
+    {
+      "name": "Andreas Van Halter",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-30 15:20:19"
     }
   ],
   "25319": [
@@ -8173,6 +8179,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Betrayer of Urutu Freki",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-30 15:20:19"
     }
   ],
   "25166": [
@@ -8265,6 +8277,12 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Sukar Wererat Chief",
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-30 15:20:19"
     }
   ],
   "25750": [
