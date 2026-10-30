@@ -5859,6 +5859,12 @@
       "state": "no",
       "timestamp": "2026-10-29 19:00:16",
       "name": "Beleth's Eye"
+    },
+    {
+      "name": "Beleth's Eye",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-30 19:40:19"
     }
   ],
   "25063": [
@@ -5915,6 +5921,12 @@
       "state": "no",
       "timestamp": "2026-10-29 19:20:18",
       "name": "Chertuba of Great Soul"
+    },
+    {
+      "name": "Chertuba of Great Soul",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-30 19:40:19"
     }
   ],
   "25754": [
@@ -7179,6 +7191,12 @@
       "state": "no",
       "timestamp": "2026-10-29 10:41:18",
       "name": "Tiger Hornet"
+    },
+    {
+      "name": "Tiger Hornet",
+      "level": "26",
+      "state": "yes",
+      "timestamp": "2026-10-30 19:40:19"
     }
   ],
   "25019": [
