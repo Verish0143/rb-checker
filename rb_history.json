@@ -3270,6 +3270,11 @@
       "level": "62",
       "state": "yes",
       "timestamp": "2026-10-28 18:56:54"
+    },
+    {
+      "level": "62",
+      "state": "no",
+      "timestamp": "2026-10-30 02:20:16"
     }
   ],
   "Fairy Queen Timiniel": [
@@ -4954,6 +4959,11 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-26 06:58:43"
+    },
+    {
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-30 02:20:16"
     }
   ],
   "Flame Lord Shadar": [
@@ -6704,6 +6714,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-29 09:01:20"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-30 02:20:16"
     }
   ],
   "Sukar Wererat Chief": [
