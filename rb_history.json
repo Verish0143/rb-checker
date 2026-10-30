@@ -795,6 +795,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-30 15:40:16"
+    },
+    {
+      "name": "Giant Marpanak",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-30 16:00:19"
     }
   ],
   "25681": [
@@ -1165,6 +1171,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-30 11:40:14"
+    },
+    {
+      "name": "Ketra's Chief Brakki",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-30 16:00:19"
     }
   ],
   "25302": [
@@ -2219,6 +2231,12 @@
       "state": "no",
       "timestamp": "2026-10-29 08:54:48",
       "name": "Storm Winged Naga"
+    },
+    {
+      "name": "Storm Winged Naga",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-30 16:00:19"
     }
   ],
   "25202": [
@@ -2807,6 +2825,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-10-30 12:20:18"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-10-30 16:00:19"
     }
   ],
   "25447": [
@@ -3843,6 +3867,12 @@
       "state": "no",
       "timestamp": "2026-10-29 11:00:26",
       "name": "Shilen's Priest Hisilrome"
+    },
+    {
+      "name": "Shilen's Priest Hisilrome",
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-10-30 16:00:19"
     }
   ],
   "25226": [
@@ -7617,6 +7647,12 @@
       "state": "no",
       "timestamp": "2026-10-29 09:21:15",
       "name": "Kaysha Herald of Icarus"
+    },
+    {
+      "name": "Kaysha Herald of Icarus",
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-30 16:00:19"
     }
   ],
   "25373": [
@@ -8295,6 +8331,12 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-10-30 15:20:19"
+    },
+    {
+      "name": "Sukar Wererat Chief",
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-10-30 16:00:19"
     }
   ],
   "25750": [
