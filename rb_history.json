@@ -395,6 +395,11 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-29 22:40:17"
+    },
+    {
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-30 00:00:16"
     }
   ],
   "Last Titan Utenus": [
@@ -2257,6 +2262,11 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-10-29 21:20:18"
+    },
+    {
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-10-30 00:00:16"
     }
   ],
   "Immortal Savior Mardil": [
@@ -6369,6 +6379,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-29 08:54:48"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-30 00:00:16"
     }
   ],
   "Lead Tracker Sharuk": [
