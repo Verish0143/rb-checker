@@ -641,6 +641,12 @@
       "state": "yes",
       "timestamp": "2026-10-30 08:40:19",
       "name": "Last Titan Utenus"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-30 09:40:17"
     }
   ],
   "25544": [
@@ -1381,6 +1387,12 @@
       "state": "yes",
       "timestamp": "2026-10-30 09:20:18",
       "name": "Varka's Commander Mos"
+    },
+    {
+      "name": "Varka's Commander Mos",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-30 09:40:17"
     }
   ],
   "25450": [
@@ -2425,6 +2437,12 @@
       "state": "no",
       "timestamp": "2026-10-29 15:40:17",
       "name": "Vanor Chief Kandra"
+    },
+    {
+      "name": "Vanor Chief Kandra",
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-10-30 09:40:17"
     }
   ],
   "25199": [
@@ -2725,6 +2743,12 @@
       "state": "yes",
       "timestamp": "2026-10-30 02:00:16",
       "name": "Immortal Savior Mardil"
+    },
+    {
+      "name": "Immortal Savior Mardil",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-10-30 09:40:17"
     }
   ],
   "25281": [
@@ -6325,6 +6349,12 @@
       "state": "yes",
       "timestamp": "2026-10-30 00:40:19",
       "name": "Beleth's Agent, Meana"
+    },
+    {
+      "name": "Beleth's Agent, Meana",
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-10-30 09:40:17"
     }
   ],
   "25501": [
@@ -6369,6 +6399,12 @@
       "state": "yes",
       "timestamp": "2026-10-29 22:40:17",
       "name": "Boss Akata"
+    },
+    {
+      "name": "Boss Akata",
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-10-30 09:40:17"
     }
   ],
   "25079": [
@@ -7709,6 +7745,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Kernon",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-30 09:40:17"
     }
   ],
   "25793": [
