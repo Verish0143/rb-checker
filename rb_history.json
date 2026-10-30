@@ -2435,6 +2435,12 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-10-30 11:00:21"
+    },
+    {
+      "name": "Plague Golem",
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-10-30 11:20:16"
     }
   ],
   "25235": [
@@ -7833,6 +7839,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-30 11:00:21"
+    },
+    {
+      "name": "Kernon",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-30 11:20:16"
     }
   ],
   "25054": [
