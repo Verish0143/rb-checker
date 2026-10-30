@@ -6073,6 +6073,12 @@
       "state": "no",
       "timestamp": "2026-10-30 08:20:17",
       "name": "Fire Lord Shadar"
+    },
+    {
+      "name": "Fire Lord Shadar",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-30 22:00:05"
     }
   ],
   "25152": [
@@ -6173,6 +6179,12 @@
       "state": "yes",
       "timestamp": "2026-10-28 23:06:45",
       "name": "Gargoyle Lord Sirocco"
+    },
+    {
+      "name": "Gargoyle Lord Sirocco",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-30 22:00:05"
     }
   ],
   "25753": [
@@ -8593,6 +8605,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Zombie Lord Crowl",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-30 22:00:05"
     }
   ],
   "25001": [
