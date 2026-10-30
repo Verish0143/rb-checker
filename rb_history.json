@@ -663,6 +663,11 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-29 23:00:17"
+    },
+    {
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-30 00:20:19"
     }
   ],
   "Hannibal": [
@@ -889,6 +894,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-27 20:48:31"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-30 00:20:19"
     }
   ],
   "Ketra's Hero Hekaton": [
