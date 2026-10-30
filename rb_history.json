@@ -2143,6 +2143,12 @@
       "state": "no",
       "timestamp": "2026-10-30 04:40:16",
       "name": "Last Lesser Giant Olkuth"
+    },
+    {
+      "name": "Last Lesser Giant Olkuth",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-30 19:20:17"
     }
   ],
   "25249": [
@@ -3951,6 +3957,12 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-10-30 16:00:19"
+    },
+    {
+      "name": "Shilen's Priest Hisilrome",
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-10-30 19:20:17"
     }
   ],
   "25226": [
