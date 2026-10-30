@@ -1,0 +1,877 @@
+
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RB Checker</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background: #111;
+    color: #eee;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #444;
+    padding: 6px;
+}
+
+th {
+    background: #222;
+    cursor: pointer;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #1a1a1a;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #222;
+}
+
+.alive {
+    color: #4caf50;
+    font-weight: bold;
+}
+
+.dead {
+    color: #f44336;
+    font-weight: bold;
+}
+
+.bossAlive {
+    background-color: #1b3b24;
+}
+
+.bossDead {
+    background-color: #4a2020;
+}
+
+.newAlive td {
+    background-color: #665c00 !important;
+}
+
+th:hover {
+    background: #333;
+}
+
+.mapButton {
+    background: #333;
+    color: #eee;
+    border: 1px solid #666;
+    border-radius: 4px;
+    padding: 4px 10px;
+    cursor: pointer;
+}
+
+.mapButton:hover {
+    background: #555;
+}
+
+/* MAPOVÉ OKNO */
+
+#mapModal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.88);
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+#mapWindow {
+    background: #181818;
+    border: 1px solid #666;
+    border-radius: 8px;
+    padding: 12px;
+    width: 95%;
+    max-width: 1100px;
+    max-height: 95vh;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+#mapHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+    flex-shrink: 0;
+}
+
+#mapTitle {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#mapControls {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.mapControl {
+    background: #333;
+    color: white;
+    border: 1px solid #666;
+    border-radius: 4px;
+    padding: 6px 12px;
+    font-size: 17px;
+    cursor: pointer;
+    min-width: 38px;
+}
+
+.mapControl:hover {
+    background: #555;
+}
+
+#mapClose {
+    background: #8b2222;
+}
+
+#mapClose:hover {
+    background: #b22;
+}
+
+/* PLOCHA MAPY */
+
+#mapViewport {
+    position: relative;
+    width: 100%;
+    height: min(72vh, 760px);
+    min-height: 300px;
+    overflow: hidden;
+    background: #080808;
+    border: 1px solid #444;
+    cursor: grab;
+    touch-action: none;
+    flex-shrink: 1;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+#mapViewport.dragging {
+    cursor: grabbing;
+}
+
+#mapCanvas {
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform-origin: 0 0;
+    will-change: transform;
+}
+
+#mapImage {
+    display: block;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    user-select: none;
+}
+
+#mapPoints {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+}
+
+.mapPoint {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    border: 3px solid white;
+    border-radius: 50%;
+    background: #e00020;
+    box-shadow: 0 0 7px black, 0 0 4px white;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+}
+
+#mapInfo {
+    color: #aaa;
+    font-size: 12px;
+    margin-top: 8px;
+    line-height: normal;
+    flex-shrink: 0;
+}
+
+@media (max-width: 600px) {
+    #mapWindow {
+        width: 100%;
+        padding: 8px;
+    }
+
+    #mapHeader {
+        flex-wrap: wrap;
+    }
+
+    #mapTitle {
+        font-size: 15px;
+    }
+
+    #mapViewport {
+        height: 65vh;
+        min-height: 250px;
+    }
+
+    .mapPoint {
+        width: 14px;
+        height: 14px;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<h1>Historie RB stavů</h1>
+
+<p>Data se scrapujou každých 20 minut.</p>
+
+<p>
+    Zeleně - živé<br>
+    Červeně - mrtvé<br>
+    Žlutě - respawnuté v posledních 20 minutách
+</p>
+
+<table id="tbl">
+<thead>
+<tr>
+    <th onclick="sortTable(0)">Boss</th>
+    <th onclick="sortTable(1)">Level</th>
+    <th onclick="sortTable(2)">Stav</th>
+    <th onclick="sortTable(3)">Čas změny</th>
+    <th>Mapa</th>
+</tr>
+</thead>
+<tbody></tbody>
+</table>
+
+
+<!-- MAPOVÉ OKNO -->
+
+<div id="mapModal" onclick="closeMapOutside(event)">
+
+    <div id="mapWindow">
+
+        <div id="mapHeader">
+
+            <div id="mapTitle">Mapa bosse</div>
+
+            <div id="mapControls">
+
+                <button class="mapControl"
+                        onclick="zoomButton(1.25)"
+                        title="Přiblížit">+</button>
+
+                <button class="mapControl"
+                        onclick="zoomButton(0.8)"
+                        title="Oddálit">−</button>
+
+                <button class="mapControl"
+                        onclick="resetMap()"
+                        title="Obnovit původní přiblížení">⟳</button>
+
+                <button class="mapControl"
+                        id="mapClose"
+                        onclick="closeMap()">✕</button>
+
+            </div>
+
+        </div>
+
+        <div id="mapViewport">
+
+            <div id="mapCanvas">
+
+                <img id="mapImage"
+                     src="http://verish.wz.cz:8080/zorua/worldmap.jpg"
+                     alt="Mapa světa Lineage 2"
+                     draggable="false">
+
+                <div id="mapPoints"></div>
+
+            </div>
+
+        </div>
+
+        <div id="mapInfo">
+            Kolečko myši – zoom | Levé tlačítko – posun | Dvojklik – přiblížení
+        </div>
+
+    </div>
+
+</div>
+
+
+<script>
+
+// ADRESY DAT
+
+const HISTORY_URL =
+    "https://raw.githubusercontent.com/Verish0143/rb-checker/main/rb_history.json";
+
+const MAP_DATA_URL =
+    "https://raw.githubusercontent.com/Verish0143/rb-checker/main/rb_boss_map.json";
+
+const MAP_IMAGE_URL =
+    "http://verish.wz.cz:8080/zorua/worldmap.jpg";
+
+
+// KOREKCE SOUŘADNIC ZNAČEK VŮČI NOVÉ MAPĚ
+
+const MAP_OFFSET_X = 10;
+const MAP_OFFSET_Y = 16;
+
+
+// MAPA
+
+let mapDataById = {};
+
+let mapWidth = 4182;
+let mapHeight = 3936;
+
+let currentZoom = 1;
+let minZoom = 0.02;
+let maxZoom = 1;
+
+let mapX = 0;
+let mapY = 0;
+
+let initialMap = null;
+
+let isDragging = false;
+let dragStartX = 0;
+let dragStartY = 0;
+let dragMapX = 0;
+let dragMapY = 0;
+
+const viewport = document.getElementById("mapViewport");
+const canvas = document.getElementById("mapCanvas");
+const mapImage = document.getElementById("mapImage");
+const mapPoints = document.getElementById("mapPoints");
+
+
+// NAČTENÍ DAT
+
+Promise.all([
+
+    fetch(HISTORY_URL).then(r => {
+        if (!r.ok) throw new Error("Nelze načíst historii");
+        return r.json();
+    }),
+
+    fetch(MAP_DATA_URL).then(r => {
+        if (!r.ok) throw new Error("Nelze načíst mapová data");
+        return r.json();
+    })
+
+])
+.then(([history, mapData]) => {
+
+    // Mapová data podle NPC ID
+
+    mapData.forEach(boss => {
+        mapDataById[String(boss.id)] = boss;
+    });
+
+    const tbody = document.querySelector("#tbl tbody");
+
+    const now = new Date();
+    const highlightMinutes = 20;
+
+    for (const npcId in history) {
+
+        if (!/^\d+$/.test(npcId)) continue;
+
+        const records = history[npcId];
+
+        if (!records || records.length === 0) continue;
+
+        const last = records[records.length - 1];
+
+        const bossName = last.name || "Neznámý boss";
+
+        const tsUTC = new Date(last.timestamp + " UTC");
+
+        const diffMin = (now - tsUTC) / 60000;
+
+        const isNewAlive =
+            last.state === "yes" &&
+            diffMin >= 0 &&
+            diffMin <= highlightMinutes;
+
+        const tr = document.createElement("tr");
+
+        if (isNewAlive) {
+            tr.classList.add("newAlive");
+        }
+
+        const bossClass =
+            last.state === "yes" ? "bossAlive" : "bossDead";
+
+        const stateClass =
+            last.state === "yes" ? "alive" : "dead";
+
+        tr.innerHTML = `
+            <td class="${bossClass}"></td>
+            <td>${last.level}</td>
+            <td class="${stateClass}">${last.state}</td>
+            <td data-ts="${last.timestamp}">${tsUTC.toLocaleString()}</td>
+            <td></td>
+        `;
+
+        tr.children[0].textContent = bossName;
+
+        // MAPOVÉ TLAČÍTKO
+
+        const mapBoss = mapDataById[String(npcId)];
+
+        const mapCell = tr.children[4];
+
+        if (mapBoss &&
+            mapBoss.sprites &&
+            mapBoss.sprites.length > 0) {
+
+            const button = document.createElement("button");
+
+            button.className = "mapButton";
+            button.textContent = "Zobrazit";
+
+            button.onclick = () => {
+                openMap(bossName, mapBoss.sprites);
+            };
+
+            mapCell.appendChild(button);
+
+        } else {
+
+            mapCell.textContent = "—";
+
+        }
+
+        tbody.appendChild(tr);
+    }
+
+})
+.catch(error => {
+
+    console.error("Chyba při načítání dat:", error);
+
+    document.querySelector("#tbl tbody").innerHTML =
+        '<tr><td colspan="5">Chyba při načítání dat.</td></tr>';
+
+});
+
+
+// NAČTENÍ SKUTEČNÉ VELIKOSTI OBRÁZKU
+
+function prepareMapImage() {
+
+    if (!mapImage.complete || !mapImage.naturalWidth) {
+        return false;
+    }
+
+    mapWidth = mapImage.naturalWidth;
+    mapHeight = mapImage.naturalHeight;
+
+    canvas.style.width = mapWidth + "px";
+    canvas.style.height = mapHeight + "px";
+
+    mapImage.style.width = mapWidth + "px";
+    mapImage.style.height = mapHeight + "px";
+
+    mapPoints.style.width = mapWidth + "px";
+    mapPoints.style.height = mapHeight + "px";
+
+    return true;
+}
+
+
+// OTEVŘENÍ MAPY
+
+function openMap(name, sprites) {
+
+    document.getElementById("mapTitle").textContent = name;
+
+    document.getElementById("mapModal").style.display = "flex";
+
+    mapPoints.innerHTML = "";
+
+    const validPoints = [];
+
+    // Vykreslení všech bodů
+
+    sprites.forEach(sprite => {
+
+        if (typeof sprite.x !== "number" ||
+            typeof sprite.y !== "number") {
+            return;
+        }
+
+        // Korekce souřadnic vůči novému mapovému podkladu
+
+        const correctedX = sprite.x + MAP_OFFSET_X;
+        const correctedY = sprite.y + MAP_OFFSET_Y;
+
+        // Souřadnice převedeme na hranice obrázku.
+        // Některé zdrojové body mohou mírně přesahovat mapu.
+
+        const x = Math.max(0, Math.min(mapWidth, correctedX));
+        const y = Math.max(0, Math.min(mapHeight, correctedY));
+
+        validPoints.push({ x, y });
+
+        const marker = document.createElement("div");
+
+        marker.className = "mapPoint";
+
+        marker.style.left = x + "px";
+        marker.style.top = y + "px";
+
+        marker.title = sprite.title || name;
+
+        mapPoints.appendChild(marker);
+
+    });
+
+    document.getElementById("mapInfo").textContent =
+        "Počet mapových bodů: " + validPoints.length +
+        " | Kolečko – zoom | Levé tlačítko – posun | Dvojklik – přiblížení";
+
+    // Pokud obrázek ještě není načtený, počkáme.
+
+    if (!prepareMapImage()) {
+
+        mapImage.onload = () => {
+            prepareMapImage();
+            fitMapToPoints(validPoints);
+        };
+
+        mapImage.onerror = () => {
+            document.getElementById("mapInfo").textContent =
+                "Nepodařilo se načíst mapový obrázek.";
+        };
+
+        return;
+    }
+
+    fitMapToPoints(validPoints);
+
+}
+
+
+// AUTOMATICKÉ PŘIBLÍŽENÍ PODLE BODŮ
+
+function fitMapToPoints(points) {
+
+    if (!points.length) {
+        resetMap();
+        return;
+    }
+
+    const vw = viewport.clientWidth;
+    const vh = viewport.clientHeight;
+
+    let minX = Math.min(...points.map(p => p.x));
+    let maxX = Math.max(...points.map(p => p.x));
+
+    let minY = Math.min(...points.map(p => p.y));
+    let maxY = Math.max(...points.map(p => p.y));
+
+    // Rezerva kolem bodů
+
+    const padding = 180;
+
+    let boxWidth = maxX - minX + padding * 2;
+    let boxHeight = maxY - minY + padding * 2;
+
+    // U jednoho bodu zobrazíme větší okolí
+
+    boxWidth = Math.max(boxWidth, 500);
+    boxHeight = Math.max(boxHeight, 500);
+
+    // Automatický zoom, nikdy ne nad 1:1
+
+    let zoom = Math.min(
+        vw / boxWidth,
+        vh / boxHeight,
+        1
+    );
+
+    zoom = Math.max(zoom, minZoom);
+
+    currentZoom = zoom;
+
+    const centerX = (minX + maxX) / 2;
+    const centerY = (minY + maxY) / 2;
+
+    mapX = vw / 2 - centerX * currentZoom;
+    mapY = vh / 2 - centerY * currentZoom;
+
+    initialMap = {
+        zoom: currentZoom,
+        x: mapX,
+        y: mapY
+    };
+
+    applyMapTransform();
+
+}
+
+
+// VYKRESLENÍ MAPY
+
+function applyMapTransform() {
+
+    canvas.style.transform =
+        `translate(${mapX}px, ${mapY}px) scale(${currentZoom})`;
+
+}
+
+
+// ZOOM PODLE POZICE KURZORU
+
+function zoomAt(factor, clientX, clientY) {
+
+    const rect = viewport.getBoundingClientRect();
+
+    const cursorX = clientX - rect.left;
+    const cursorY = clientY - rect.top;
+
+    const worldX = (cursorX - mapX) / currentZoom;
+    const worldY = (cursorY - mapY) / currentZoom;
+
+    const newZoom = Math.max(
+        minZoom,
+        Math.min(maxZoom, currentZoom * factor)
+    );
+
+    if (newZoom === currentZoom) return;
+
+    currentZoom = newZoom;
+
+    mapX = cursorX - worldX * currentZoom;
+    mapY = cursorY - worldY * currentZoom;
+
+    applyMapTransform();
+
+}
+
+
+// TLAČÍTKA + A -
+
+function zoomButton(factor) {
+
+    const rect = viewport.getBoundingClientRect();
+
+    zoomAt(
+        factor,
+        rect.left + rect.width / 2,
+        rect.top + rect.height / 2
+    );
+
+}
+
+
+// OBNOVENÍ AUTOMATICKÉHO ZOOMU
+
+function resetMap() {
+
+    if (!initialMap) return;
+
+    currentZoom = initialMap.zoom;
+    mapX = initialMap.x;
+    mapY = initialMap.y;
+
+    applyMapTransform();
+
+}
+
+
+// KOLEČKO MYŠI
+
+viewport.addEventListener("wheel", event => {
+
+    event.preventDefault();
+
+    const factor = event.deltaY < 0 ? 1.2 : 1 / 1.2;
+
+    zoomAt(factor, event.clientX, event.clientY);
+
+}, { passive: false });
+
+
+
+// POSOUVÁNÍ MYŠÍ A DOTYKEM
+
+viewport.addEventListener("pointerdown", event => {
+
+    if (event.button !== 0) return;
+
+    isDragging = true;
+
+    dragStartX = event.clientX;
+    dragStartY = event.clientY;
+
+    dragMapX = mapX;
+    dragMapY = mapY;
+
+    viewport.classList.add("dragging");
+
+    event.preventDefault();
+
+});
+
+
+window.addEventListener("pointermove", event => {
+
+    if (!isDragging) return;
+
+    const dx = event.clientX - dragStartX;
+    const dy = event.clientY - dragStartY;
+
+    mapX = dragMapX + dx;
+    mapY = dragMapY + dy;
+
+    applyMapTransform();
+
+});
+
+
+window.addEventListener("pointerup", () => {
+
+    isDragging = false;
+
+    viewport.classList.remove("dragging");
+
+});
+
+
+window.addEventListener("pointercancel", () => {
+
+    isDragging = false;
+
+    viewport.classList.remove("dragging");
+
+});
+
+
+// Zabránění označování obrázku a textu při tažení
+
+viewport.addEventListener("dragstart", event => {
+    event.preventDefault();
+});
+
+
+// DVOJKLIK = PŘIBLÍŽENÍ
+
+viewport.addEventListener("dblclick", event => {
+
+    event.preventDefault();
+
+    zoomAt(1.5, event.clientX, event.clientY);
+
+});
+
+
+// ZAVŘENÍ MAPY
+
+function closeMap() {
+
+    document.getElementById("mapModal").style.display = "none";
+
+    initialMap = null;
+
+}
+
+
+function closeMapOutside(event) {
+
+    if (event.target.id === "mapModal") {
+        closeMap();
+    }
+
+}
+
+
+document.addEventListener("keydown", event => {
+
+    if (event.key === "Escape") {
+        closeMap();
+    }
+
+});
+
+
+// ŘAZENÍ TABULKY
+
+function sortTable(colIndex) {
+
+    const table = document.getElementById("tbl");
+    const tbody = table.querySelector("tbody");
+
+    const rows = Array.from(tbody.querySelectorAll("tr"));
+
+    let dir = "asc";
+
+    if (
+        table.getAttribute("data-sort-col") === colIndex.toString() &&
+        table.getAttribute("data-sort-dir") === "asc"
+    ) {
+        dir = "desc";
+    }
+
+    rows.sort((a, b) => {
+
+        let x = a.children[colIndex].innerText.toLowerCase();
+        let y = b.children[colIndex].innerText.toLowerCase();
+
+        if (colIndex === 1) {
+            x = parseInt(x);
+            y = parseInt(y);
+        }
+
+        if (colIndex === 2) {
+            x = x === "yes" ? 1 : 0;
+            y = y === "yes" ? 1 : 0;
+        }
+
+        if (colIndex === 3) {
+            x = new Date(a.children[colIndex].dataset.ts);
+            y = new Date(b.children[colIndex].dataset.ts);
+        }
+
+        if (x < y) return dir === "asc" ? -1 : 1;
+        if (x > y) return dir === "asc" ? 1 : -1;
+
+        return 0;
+
+    });
+
+    table.setAttribute("data-sort-col", colIndex.toString());
+    table.setAttribute("data-sort-dir", dir);
+
+    tbody.innerHTML = "";
+
+    rows.forEach(row => tbody.appendChild(row));
+
+}
+
+</script>
+
+</body>
+</html>
