@@ -561,6 +561,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-30 17:20:18"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-30 23:20:18"
     }
   ],
   "25684": [
@@ -947,6 +953,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-30 22:20:28"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-30 23:20:18"
     }
   ],
   "25536": [
@@ -5719,6 +5731,12 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-10-30 10:20:17"
+    },
+    {
+      "name": "Water Couatle Ateka",
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-30 23:20:18"
     }
   ],
   "25064": [
@@ -8311,6 +8329,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-30 21:40:15"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-30 23:20:18"
     }
   ],
   "25794": [
