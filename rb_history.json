@@ -400,6 +400,11 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-30 00:00:16"
+    },
+    {
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-30 00:40:19"
     }
   ],
   "Last Titan Utenus": [
@@ -1133,6 +1138,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-27 04:50:05"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-30 00:40:19"
     }
   ],
   "Cherub Galaxia": [
@@ -2633,6 +2643,11 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-29 08:54:48"
+    },
+    {
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-30 00:40:19"
     }
   ],
   "Roaring Skylancer": [
@@ -5482,6 +5497,11 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-10-28 23:06:45"
+    },
+    {
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-10-30 00:40:19"
     }
   ],
   "Boss Akata": [
@@ -6124,6 +6144,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-28 23:06:45"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-30 00:40:19"
     }
   ],
   "Zombie Lord Crowl": [
