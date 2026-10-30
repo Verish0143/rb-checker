@@ -519,6 +519,12 @@
       "state": "yes",
       "timestamp": "2026-10-30 01:40:15",
       "name": "Hekaton Prime"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-30 11:00:21"
     }
   ],
   "25684": [
@@ -1977,6 +1983,12 @@
       "state": "no",
       "timestamp": "2026-10-27 04:50:05",
       "name": "Death Lord Ipos"
+    },
+    {
+      "name": "Death Lord Ipos",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-30 11:00:21"
     }
   ],
   "25282": [
@@ -2417,6 +2429,12 @@
       "state": "no",
       "timestamp": "2026-10-26 14:08:20",
       "name": "Plague Golem"
+    },
+    {
+      "name": "Plague Golem",
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-10-30 11:00:21"
     }
   ],
   "25235": [
@@ -2479,6 +2497,12 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-10-30 09:40:17"
+    },
+    {
+      "name": "Vanor Chief Kandra",
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-10-30 11:00:21"
     }
   ],
   "25199": [
@@ -7803,6 +7827,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Kernon",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-30 11:00:21"
     }
   ],
   "25054": [
