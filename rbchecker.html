@@ -403,7 +403,9 @@ Promise.all([
 
         const last = records[records.length - 1];
         
-        const respawn = getRespawnTime(records);
+        const respawn = last.state === "yes"
+            ? getRespawnTime(records)
+            : { text: "—", seconds: -1 };
 
         const bossName = last.name || "Neznámý boss";
 
@@ -820,27 +822,41 @@ document.addEventListener("keydown", event => {
 });
 
 // VÝPOČET POSLEDNÍ DOBY RESPAWNU
+// Počítá výhradně přechod DEAD -> ALIVE
 
 function getRespawnTime(records) {
 
+    // Seřadíme historii chronologicky
+    const sorted = [...records].sort(
+        (a, b) => new Date(a.timestamp) - new Date(b.timestamp)
+    );
+
+    let deathTime = null;
     let lastRespawn = null;
 
-    for (let i = 1; i < records.length; i++) {
+    for (const record of sorted) {
 
-        const previous = records[i - 1];
-        const current = records[i];
+        const timestamp = new Date(record.timestamp).getTime();
 
-        // Hledáme přechod mrtvý -> živý
+        if (record.state === "no") {
 
-        if (previous.state === "no" && current.state === "yes") {
+            // Boss zemřel – uložíme čas úmrtí
+            deathTime = timestamp;
 
-            const deathTime = new Date(previous.timestamp + " UTC");
-            const respawnTime = new Date(current.timestamp + " UTC");
+        } else if (record.state === "yes") {
 
-            const duration = respawnTime - deathTime;
+            // Boss ožil – vypočítáme dobu pouze tehdy,
+            // pokud předtím máme zaznamenané úmrtí
+            if (deathTime !== null) {
 
-            if (duration >= 0) {
-                lastRespawn = duration;
+                const duration = timestamp - deathTime;
+
+                if (duration >= 0) {
+                    lastRespawn = duration;
+                }
+
+                // Tento cyklus je dokončen
+                deathTime = null;
             }
         }
     }
@@ -858,7 +874,7 @@ function getRespawnTime(records) {
     const hours = Math.floor((totalMinutes % 1440) / 60);
     const minutes = totalMinutes % 60;
 
-    let parts = [];
+    const parts = [];
 
     if (days > 0) parts.push(days + " d");
     if (hours > 0) parts.push(hours + " h");
