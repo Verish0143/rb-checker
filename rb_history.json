@@ -919,6 +919,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-30 00:20:19"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-30 04:20:16"
     }
   ],
   "Ketra's Hero Hekaton": [
@@ -941,6 +946,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-30 02:40:18"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-30 04:20:16"
     }
   ],
   "Lilith": [
@@ -1163,6 +1173,11 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-30 00:40:19"
+    },
+    {
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-30 04:20:16"
     }
   ],
   "Cherub Galaxia": [
@@ -2988,6 +3003,11 @@
       "level": "66",
       "state": "no",
       "timestamp": "2026-10-29 10:41:18"
+    },
+    {
+      "level": "66",
+      "state": "yes",
+      "timestamp": "2026-10-30 04:20:16"
     }
   ],
   "Enmity Ghost Ramdal": [
