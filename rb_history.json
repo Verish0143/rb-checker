@@ -2280,6 +2280,11 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-10-25 14:17:04"
+    },
+    {
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-10-30 08:00:15"
     }
   ],
   "Eilhalder von Hellmann": [
@@ -2437,6 +2442,11 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-10-30 05:00:14"
+    },
+    {
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-10-30 08:00:15"
     }
   ],
   "Immortal Savior Mardil": [
@@ -2959,6 +2969,11 @@
       "level": "69",
       "state": "no",
       "timestamp": "2026-10-29 10:41:18"
+    },
+    {
+      "level": "69",
+      "state": "yes",
+      "timestamp": "2026-10-30 08:00:15"
     }
   ],
   "Kernon's Faithful Servant Kelone": [
@@ -6201,6 +6216,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-30 03:00:15"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-30 08:00:15"
     }
   ],
   "Mammon Collector Talos": [
@@ -6379,6 +6399,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-30 00:40:19"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-30 08:00:15"
     }
   ],
   "Zombie Lord Crowl": [
@@ -6421,6 +6446,11 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-29 09:01:20"
+    },
+    {
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-30 08:00:15"
     }
   ],
   "Langk Matriarch Rashkos": [
