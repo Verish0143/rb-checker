@@ -1544,6 +1544,11 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-10-30 01:20:18"
+    },
+    {
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-10-30 04:40:16"
     }
   ],
   "Bloody Empress Decarbia": [
@@ -1764,6 +1769,11 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-30 03:00:15"
+    },
+    {
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-30 04:40:16"
     }
   ],
   "Menacing Palatanos": [
@@ -3536,6 +3546,11 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-27 20:48:31"
+    },
+    {
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-30 04:40:16"
     }
   ],
   "Guardian of the Statue of Giant Karum": [
