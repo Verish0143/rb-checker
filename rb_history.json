@@ -1181,6 +1181,11 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-29 21:20:18"
+    },
+    {
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-30 09:20:18"
     }
   ],
   "Varka's Hero Shadith": [
@@ -6313,6 +6318,11 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-29 18:40:16"
+    },
+    {
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-30 09:20:18"
     }
   ],
   "Pan Dryad": [
