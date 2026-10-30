@@ -917,6 +917,12 @@
       "state": "no",
       "timestamp": "2026-10-30 07:20:15",
       "name": "Gorgolos"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-10-30 18:00:17"
     }
   ],
   "25536": [
@@ -1121,6 +1127,12 @@
       "state": "no",
       "timestamp": "2026-10-29 16:20:17",
       "name": "Gordon"
+    },
+    {
+      "name": "Gordon",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-30 18:00:17"
     }
   ],
   "25305": [
@@ -1233,6 +1245,12 @@
       "state": "no",
       "timestamp": "2026-10-30 04:20:16",
       "name": "Ketra's Commander Tayr"
+    },
+    {
+      "name": "Ketra's Commander Tayr",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-30 18:00:17"
     }
   ],
   "25283": [
@@ -4149,6 +4167,12 @@
       "state": "yes",
       "timestamp": "2026-10-30 03:20:17",
       "name": "Ancient Drake"
+    },
+    {
+      "name": "Ancient Drake",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-30 18:00:17"
     }
   ],
   "25106": [
@@ -5925,6 +5949,12 @@
       "state": "no",
       "timestamp": "2026-10-29 18:40:16",
       "name": "Flame Lord Shadar"
+    },
+    {
+      "name": "Flame Lord Shadar",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-30 18:00:17"
     }
   ],
   "25354": [
