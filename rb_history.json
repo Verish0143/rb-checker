@@ -5134,6 +5134,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-30 02:20:16"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-30 08:20:17"
     }
   ],
   "Flame Lord Shadar": [
@@ -5255,6 +5260,11 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-28 13:17:47"
+    },
+    {
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-30 08:20:17"
     }
   ],
   "Guilotine, Warden of the Execution Grounds": [
@@ -5616,6 +5626,11 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-10-28 23:06:45"
+    },
+    {
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-10-30 08:20:17"
     }
   ],
   "Captain of Queen's Royal Guards": [
@@ -5658,6 +5673,11 @@
       "level": "32",
       "state": "yes",
       "timestamp": "2026-10-30 07:40:16"
+    },
+    {
+      "level": "32",
+      "state": "no",
+      "timestamp": "2026-10-30 08:20:17"
     }
   ],
   "Apepi": [
@@ -6726,6 +6746,11 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-28 00:24:38"
+    },
+    {
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-30 08:20:17"
     }
   ],
   "Tracker Leader Sharuk": [
