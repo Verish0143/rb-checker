@@ -1863,6 +1863,12 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-10-30 12:40:15"
+    },
+    {
+      "name": "Gigantic Golem",
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-10-30 13:00:19"
     }
   ],
   "25205": [
@@ -7865,6 +7871,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-30 12:40:15"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-30 13:00:19"
     }
   ],
   "25309": [
