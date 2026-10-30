@@ -255,6 +255,12 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-10-30 21:00:17"
+    },
+    {
+      "name": "Queen Shyeed",
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-10-30 21:40:15"
     }
   ],
   "25677": [
@@ -1735,6 +1741,12 @@
       "state": "no",
       "timestamp": "2026-10-29 12:40:23",
       "name": "Fire of Wrath Shuriel"
+    },
+    {
+      "name": "Fire of Wrath Shuriel",
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-10-30 21:40:15"
     }
   ],
   "25293": [
@@ -1897,6 +1909,12 @@
       "state": "no",
       "timestamp": "2026-10-28 18:56:54",
       "name": "Flamestone Giant"
+    },
+    {
+      "name": "Flamestone Giant",
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-10-30 21:40:15"
     }
   ],
   "25703": [
@@ -4393,6 +4411,12 @@
       "state": "no",
       "timestamp": "2026-10-29 11:00:26",
       "name": "Guardian of the Statue of Giant Karum"
+    },
+    {
+      "name": "Guardian of the Statue of Giant Karum",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-30 21:40:15"
     }
   ],
   "25760": [
@@ -5919,6 +5943,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-30 19:40:19"
+    },
+    {
+      "name": "Beleth's Eye",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-30 21:40:15"
     }
   ],
   "25063": [
@@ -8197,6 +8227,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-30 21:00:17"
+    },
+    {
+      "name": "Ketra's Hero Hekaton",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-30 21:40:15"
     }
   ],
   "25299": [
@@ -8233,6 +8269,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-30 21:40:15"
     }
   ],
   "25794": [
