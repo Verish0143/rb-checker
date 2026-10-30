@@ -175,6 +175,12 @@
       "state": "yes",
       "timestamp": "2026-10-30 09:00:15",
       "name": "Darion"
+    },
+    {
+      "name": "Darion",
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-10-30 14:00:19"
     }
   ],
   "25671": [
@@ -4307,6 +4313,12 @@
       "state": "yes",
       "timestamp": "2026-10-29 13:20:21",
       "name": "Taik High Prefect Arak"
+    },
+    {
+      "name": "Taik High Prefect Arak",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-30 14:00:19"
     }
   ],
   "25016": [
@@ -6875,6 +6887,12 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-10-30 11:40:14"
+    },
+    {
+      "name": "Tirak",
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-10-30 14:00:19"
     }
   ],
   "25365": [
