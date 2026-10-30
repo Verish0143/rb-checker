@@ -703,6 +703,11 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-30 07:00:18"
+    },
+    {
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-30 07:20:15"
     }
   ],
   "Hannibal": [
@@ -1270,6 +1275,11 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-10-30 04:00:14"
+    },
+    {
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-10-30 07:20:15"
     }
   ],
   "Longhorn Golkonda": [
@@ -6812,6 +6822,11 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-29 09:01:20"
+    },
+    {
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-30 07:20:15"
     }
   ],
   "Serpent Demon Bifrons": [
