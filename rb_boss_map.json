@@ -1,0 +1,4753 @@
+[
+  {
+    "name": "Dragon Beast",
+    "id": 25727,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25727",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker",
+          "primary"
+        ],
+        "title": "Dragon Beast",
+        "x": 3569.25,
+        "y": 2837.24,
+        "color": "rgb(220, 53, 69)"
+      }
+    ]
+  },
+  {
+    "name": "Drake Lord",
+    "id": 25725,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25725",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker",
+          "primary"
+        ],
+        "title": "Drake Lord",
+        "x": 3598.04,
+        "y": 2781.51,
+        "color": "rgb(220, 53, 69)"
+      }
+    ]
+  },
+  {
+    "name": "Behemoth Leader",
+    "id": 25726,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25726",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker",
+          "primary"
+        ],
+        "title": "Behemoth Leader",
+        "x": 3548.61,
+        "y": 2853.55,
+        "color": "rgb(220, 53, 69)"
+      }
+    ]
+  },
+  {
+    "name": "Water Spirit Lian",
+    "id": 25677,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25677",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3076.5,
+        "y": 3328.49,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Queen Shyeed",
+    "id": 25671,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25671",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker",
+          "primary"
+        ],
+        "title": "Queen Shyeed",
+        "x": 3052.13,
+        "y": 1535.68,
+        "color": "rgb(220, 53, 69)"
+      }
+    ]
+  },
+  {
+    "name": "Darion",
+    "id": 25603,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25603",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker",
+          "primary"
+        ],
+        "title": "Darion",
+        "x": 2610.87,
+        "y": 3785.34,
+        "color": "rgb(220, 53, 69)"
+      }
+    ]
+  },
+  {
+    "name": "Anais",
+    "id": 25701,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25701",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker",
+          "primary"
+        ],
+        "title": "Anais",
+        "x": 3301.22,
+        "y": 1375.16,
+        "color": "rgb(220, 53, 69)"
+      }
+    ]
+  },
+  {
+    "name": "Gwindorr",
+    "id": 25674,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25674",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 3103.27,
+        "y": 3590.73,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3103.96,
+        "y": 3581.04,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Last Titan Utenus",
+    "id": 25684,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25684",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker",
+          "primary"
+        ],
+        "title": "Last Titan Utenus",
+        "x": 3862.59,
+        "y": 2408.61,
+        "color": "rgb(220, 53, 69)"
+      }
+    ]
+  },
+  {
+    "name": "Tully",
+    "id": 25544,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25544",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker",
+          "primary"
+        ],
+        "title": "Tully",
+        "x": 2359.68,
+        "y": 4009.27,
+        "color": "rgb(220, 53, 69)"
+      }
+    ]
+  },
+  {
+    "name": "Hekaton Prime",
+    "id": 25687,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25687",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker",
+          "primary"
+        ],
+        "title": "Hekaton Prime",
+        "x": 3894.44,
+        "y": 2374.1,
+        "color": "rgb(220, 53, 69)"
+      }
+    ]
+  },
+  {
+    "name": "Gorgolos",
+    "id": 25681,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25681",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3852.62,
+        "y": 2413.77,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Giant Marpanak",
+    "id": 25680,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25680",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3910.4,
+        "y": 2358.61,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Typhoon",
+    "id": 25539,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25539",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 2295.88,
+        "y": 3838.68,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2314.86,
+        "y": 3858.99,
+        "color": "rgb(1, 255, 112)"
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 2367.8,
+        "y": 3845.91,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": "Count: 1",
+        "x": 2392.32,
+        "y": 3857.22,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Hannibal",
+    "id": 25536,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25536",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker",
+          "primary"
+        ],
+        "title": "Hannibal",
+        "x": 2310.76,
+        "y": 3772.29,
+        "color": "rgb(220, 53, 69)"
+      }
+    ]
+  },
+  {
+    "name": "Ember",
+    "id": 25319,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25319",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 3846.05,
+        "y": 1165.29,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3848.79,
+        "y": 1155.34,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Varka's Commander Mos",
+    "id": 25312,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25312",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3274.92,
+        "y": 1680.83,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Ketra's Chief Brakki",
+    "id": 25305,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25305",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3543.07,
+        "y": 1313.96,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Uruka",
+    "id": 25527,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25527",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker",
+          "primary"
+        ],
+        "title": "Uruka",
+        "x": 2477.1,
+        "y": 1869.63,
+        "color": "rgb(220, 53, 69)"
+      },
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker"
+        ],
+        "title": "Uruka",
+        "x": 2493.07,
+        "y": 1866.89,
+        "color": "rgb(220, 53, 69)"
+      },
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker"
+        ],
+        "title": "Uruka",
+        "x": 2493.24,
+        "y": 1888.61,
+        "color": "rgb(220, 53, 69)"
+      }
+    ]
+  },
+  {
+    "name": "Ketra's Hero Hekaton",
+    "id": 25787,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25787",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 3597.93,
+        "y": 1526.57,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3599.53,
+        "y": 1519.11,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Varka's Hero Shadith",
+    "id": 25790,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25790",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 3597.93,
+        "y": 1526.57,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3599.53,
+        "y": 1519.11,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Ketra's Commander Tayr",
+    "id": 25302,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25302",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3547.25,
+        "y": 1338.72,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Gordon",
+    "id": 29095,
+    "url": "https://www.lineage2.cz/vault/detail/npc/29095",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker",
+          "primary"
+        ],
+        "title": "Gordon",
+        "x": 3561.18,
+        "y": 1624.88,
+        "color": "rgb(220, 53, 69)"
+      }
+    ]
+  },
+  {
+    "name": "Ketra's Hero Hekaton",
+    "id": 25299,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25299",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3566.79,
+        "y": 1397.83,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Varka's Hero Shadith",
+    "id": 25309,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25309",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 3317.06,
+        "y": 1667.5,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3321.8,
+        "y": 1658.73,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Andreas Van Halter",
+    "id": 29062,
+    "url": "https://www.lineage2.cz/vault/detail/npc/29062",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker",
+          "primary"
+        ],
+        "title": "Andreas Van Halter",
+        "x": 2330.93,
+        "y": 1551.9,
+        "color": "rgb(220, 53, 69)"
+      }
+    ]
+  },
+  {
+    "name": "Sailren",
+    "id": 29065,
+    "url": "https://www.lineage2.cz/vault/detail/npc/29065",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker",
+          "primary"
+        ],
+        "title": "Sailren",
+        "x": 1604.57,
+        "y": 119.75,
+        "color": "rgb(220, 53, 69)"
+      }
+    ]
+  },
+  {
+    "name": "Varka's Chief Horus",
+    "id": 25315,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25315",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3247.56,
+        "y": 1629.06,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Anakim",
+    "id": 25286,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25286",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 3842.7,
+        "y": 1865.94,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3844.02,
+        "y": 1857.27,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Lilith",
+    "id": 25283,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25283",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 3842.65,
+        "y": 1888.41,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3843.98,
+        "y": 1879.73,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Cherub Galaxia",
+    "id": 25450,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25450",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3307.13,
+        "y": 2064.87,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Longhorn Golkonda",
+    "id": 25126,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25126",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3329.43,
+        "y": 2070.06,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Fire of Wrath Shuriel",
+    "id": 25143,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25143",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3300.4,
+        "y": 2075.52,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Last Lesser Giant Glaki",
+    "id": 25245,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25245",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3871.66,
+        "y": 2314.67,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Hestia, Guardian Deity of the Hot Springs",
+    "id": 25293,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25293",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3465.82,
+        "y": 1084.24,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Gigantic Golem",
+    "id": 25703,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25703",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker",
+          "primary"
+        ],
+        "title": "Gigantic Golem",
+        "x": 3150.57,
+        "y": 1117.55,
+        "color": "rgb(220, 53, 69)"
+      }
+    ]
+  },
+  {
+    "name": "Flamestone Giant",
+    "id": 25524,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25524",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3540.39,
+        "y": 1910.18,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Ocean Flame Ashakiel",
+    "id": 25205,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25205",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker",
+          "primary"
+        ],
+        "title": "Ocean Flame Ashakiel",
+        "x": 3383.92,
+        "y": 3104.25,
+        "color": "rgb(220, 53, 69)"
+      }
+    ]
+  },
+  {
+    "name": "Kernon",
+    "id": 25794,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25794",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3600.76,
+        "y": 2137.98,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Bloody Empress Decarbia",
+    "id": 25266,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25266",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3873.45,
+        "y": 2053.34,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Last Lesser Giant Olkuth",
+    "id": 25244,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25244",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3744.51,
+        "y": 2368.21,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Death Lord Ipos",
+    "id": 25276,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25276",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3610.61,
+        "y": 1846.47,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Kernon",
+    "id": 25054,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25054",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3306.51,
+        "y": 2077.21,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Storm Winged Naga",
+    "id": 25229,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25229",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3487.73,
+        "y": 1805.88,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Death Lord Shax",
+    "id": 25282,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25282",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3800.6,
+        "y": 1894.29,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Menacing Palatanos",
+    "id": 25249,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25249",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 3555.49,
+        "y": 1805.82,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3560.33,
+        "y": 1796.44,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Krokian Padisha Sobekk",
+    "id": 25202,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25202",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker",
+          "primary"
+        ],
+        "title": "Krokian Padisha Sobekk",
+        "x": 3353.52,
+        "y": 3134.17,
+        "color": "rgb(220, 53, 69)"
+      }
+    ]
+  },
+  {
+    "name": "Death Lord Hallate",
+    "id": 25220,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25220",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 3300.66,
+        "y": 2091.96,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3303.91,
+        "y": 2083.56,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Plague Golem",
+    "id": 25523,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25523",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 3717.48,
+        "y": 1501.1,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3721.95,
+        "y": 1501.69,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Vanor Chief Kandra",
+    "id": 25235,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25235",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3327.83,
+        "y": 1483.01,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Water Dragon Seer Sheshark",
+    "id": 25199,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25199",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker",
+          "primary"
+        ],
+        "title": "Water Dragon Seer Sheshark",
+        "x": 3265.91,
+        "y": 3134.29,
+        "color": "rgb(220, 53, 69)"
+      }
+    ]
+  },
+  {
+    "name": "Doom Blade Tanatos",
+    "id": 25793,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25793",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3600.76,
+        "y": 2137.98,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Doom Blade Tanatos",
+    "id": 25248,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25248",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3414.93,
+        "y": 1851.61,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Immortal Savior Mardil",
+    "id": 25447,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25447",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3304.33,
+        "y": 2083.69,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Eilhalder von Hellmann",
+    "id": 25328,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25328",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker",
+          "primary"
+        ],
+        "title": "Eilhalder von Hellmann",
+        "x": 2899.63,
+        "y": 1633.51,
+        "color": "rgb(220, 53, 69)"
+      },
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker"
+        ],
+        "title": "Eilhalder von Hellmann",
+        "x": 2902.47,
+        "y": 1634.21,
+        "color": "rgb(220, 53, 69)"
+      },
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker"
+        ],
+        "title": "Eilhalder von Hellmann",
+        "x": 2902.53,
+        "y": 1636.73,
+        "color": "rgb(220, 53, 69)"
+      },
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker"
+        ],
+        "title": "Eilhalder von Hellmann",
+        "x": 2899.65,
+        "y": 1637.6,
+        "color": "rgb(220, 53, 69)"
+      },
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker"
+        ],
+        "title": "Eilhalder von Hellmann",
+        "x": 2897.5,
+        "y": 1635.3,
+        "color": "rgb(220, 53, 69)"
+      }
+    ]
+  },
+  {
+    "name": "Meanas Anor",
+    "id": 25797,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25797",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3600.76,
+        "y": 2137.98,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Palibati Queen Themis",
+    "id": 25252,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25252",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3902.17,
+        "y": 2120.35,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Korim",
+    "id": 25092,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25092",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3324.89,
+        "y": 2072.84,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Beast Lord Behemoth",
+    "id": 25269,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25269",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 3379.65,
+        "y": 1782.48,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3381.49,
+        "y": 1774.49,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Meanas Anor",
+    "id": 25453,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25453",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker",
+          "primary"
+        ],
+        "title": "Meanas Anor",
+        "x": 3630.72,
+        "y": 1906.87,
+        "color": "rgb(220, 53, 69)"
+      }
+    ]
+  },
+  {
+    "name": "Shilen's Messenger Cabrio",
+    "id": 25035,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25035",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker",
+          "primary"
+        ],
+        "title": "Shilen's Messenger Cabrio",
+        "x": 3814.32,
+        "y": 2041.43,
+        "color": "rgb(220, 53, 69)"
+      }
+    ]
+  },
+  {
+    "name": "Anakim's Nemesis Zakaron",
+    "id": 25281,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25281",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3588.78,
+        "y": 2614.91,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Flame of Splendor Barakiel",
+    "id": 25325,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25325",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 3135.39,
+        "y": 1315.51,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3137.67,
+        "y": 1306.59,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Fafurion's Herald Lokness",
+    "id": 25198,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25198",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker",
+          "primary"
+        ],
+        "title": "Fafurion's Herald Lokness",
+        "x": 3225.05,
+        "y": 3134.41,
+        "color": "rgb(220, 53, 69)"
+      }
+    ]
+  },
+  {
+    "name": "Roaring Skylancer",
+    "id": 25163,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25163",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3433.94,
+        "y": 2396.09,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Spirit of Andras, the Betrayer",
+    "id": 25233,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25233",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3849.74,
+        "y": 1752.49,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Kernon's Faithful Servant Kelone",
+    "id": 25263,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25263",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3539.5,
+        "y": 1741.44,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Demon's Agent Falston",
+    "id": 25322,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25322",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3155.05,
+        "y": 1387.81,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Rahha",
+    "id": 25051,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25051",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3338.33,
+        "y": 1884.25,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Fierce Tiger King Angel",
+    "id": 25125,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25125",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3735.59,
+        "y": 2593.01,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Enmity Ghost Ramdal",
+    "id": 25444,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25444",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3304.1,
+        "y": 2083.7,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Gargoyle Lord Tiphon",
+    "id": 25255,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25255",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 3730.32,
+        "y": 1770.94,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3730.08,
+        "y": 1764.63,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Shilen's Priest Hisilrome",
+    "id": 25478,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25478",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3717.82,
+        "y": 2165.33,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Roaring Lord Kastor",
+    "id": 25226,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25226",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3236.27,
+        "y": 1924.86,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Fairy Queen Timiniel",
+    "id": 25423,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25423",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 3304.06,
+        "y": 2311.16,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3306.39,
+        "y": 2305.45,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Guardian of the Statue of Giant Karum",
+    "id": 25179,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25179",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3709.48,
+        "y": 2350.98,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "The 3rd Underwater Guardian",
+    "id": 25016,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25016",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 3027.1,
+        "y": 3804.83,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3029.87,
+        "y": 3797.96,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Ghost of the Well Lidia",
+    "id": 25106,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25106",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3760.9,
+        "y": 1867.09,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Lord Ishka",
+    "id": 25760,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25760",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3060.61,
+        "y": 3022.14,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Taik High Prefect Arak",
+    "id": 25256,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25256",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3733.07,
+        "y": 2272.47,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Ancient Drake",
+    "id": 25766,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25766",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3060.61,
+        "y": 3022.14,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Demon Kuri",
+    "id": 25763,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25763",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3060.61,
+        "y": 3022.14,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Abyss Brukunt",
+    "id": 25238,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25238",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3617.9,
+        "y": 2593.84,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Demon Kuri",
+    "id": 25182,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25182",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2768.68,
+        "y": 3575.63,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Soulless Wild Boar",
+    "id": 25089,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25089",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3696.38,
+        "y": 2656.88,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Eva's Guardian Millenu",
+    "id": 25032,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25032",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 3118.04,
+        "y": 3805.11,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3120.81,
+        "y": 3798.24,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Timak Seer Ragoth",
+    "id": 25230,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25230",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2954.38,
+        "y": 2303.06,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Refugee Applicant Leo",
+    "id": 25122,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25122",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3102.35,
+        "y": 1889.87,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Harit Guardian Garangky",
+    "id": 25463,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25463",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3702.36,
+        "y": 2464.76,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Zaken's Butcher Krantz",
+    "id": 25259,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25259",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker",
+          "primary"
+        ],
+        "title": "Zaken's Butcher Krantz",
+        "x": 2769.9,
+        "y": 3515.01,
+        "color": "rgb(220, 53, 69)"
+      }
+    ]
+  },
+  {
+    "name": "Furious Thieles",
+    "id": 25010,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25010",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3310.81,
+        "y": 2349.92,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Enchanted Forest Watcher Ruell",
+    "id": 25070,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25070",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3397.61,
+        "y": 2328.81,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Pagan Watcher Cerberon",
+    "id": 25280,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25280",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2358.49,
+        "y": 145.99,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Sorcerer Isirr",
+    "id": 25103,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25103",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3474.33,
+        "y": 2662.16,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Eva's Spirit Niniel",
+    "id": 25493,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25493",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3071.76,
+        "y": 3843.95,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Harit Hero Tamash",
+    "id": 25241,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25241",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3700.49,
+        "y": 2614.48,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Bandit Leader Barda",
+    "id": 25434,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25434",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 3234.89,
+        "y": 1832.92,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3235.53,
+        "y": 1825.8,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Ghost Knight Kabed",
+    "id": 25475,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25475",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3832.42,
+        "y": 2137.38,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Paniel the Unicorn",
+    "id": 25159,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25159",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3393.32,
+        "y": 2276.86,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Magus Kenishee",
+    "id": 25481,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25481",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2854.89,
+        "y": 3495.14,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Atraiban",
+    "id": 25029,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25029",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2873.59,
+        "y": 3500.65,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Fafurion's Envoy Pingolpin",
+    "id": 25496,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25496",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3118.01,
+        "y": 3891.54,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Grave Robber Kim",
+    "id": 25473,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25473",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3773.18,
+        "y": 2176.61,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Captain of Red Flag Shaka",
+    "id": 25067,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25067",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 3163.24,
+        "y": 1786.56,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3167.78,
+        "y": 1778.49,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Deadman Ereve",
+    "id": 25460,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25460",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3583.93,
+        "y": 2460.24,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Verfa",
+    "id": 25050,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25050",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3396.21,
+        "y": 2156.4,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Carnage Lord Gato",
+    "id": 25767,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25767",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 3055.86,
+        "y": 2314.81,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3056.65,
+        "y": 2305.59,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Lilith's Witch Marilion",
+    "id": 25277,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25277",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2863.44,
+        "y": 3306.12,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Messenger of Fairy Queen Berun",
+    "id": 25119,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25119",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3369.03,
+        "y": 2433.3,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Carnamakos",
+    "id": 25273,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25273",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2632.65,
+        "y": 2849.49,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Ghost of Peasant Leader",
+    "id": 25013,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25013",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3729.09,
+        "y": 2042.15,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Carnage Lord Gato",
+    "id": 25131,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25131",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3020.52,
+        "y": 1882.07,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Zaken's Chief Mate Tillion",
+    "id": 25484,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25484",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2777.59,
+        "y": 3607.3,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Mirror of Oblivion",
+    "id": 25456,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25456",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3457.68,
+        "y": 2606.03,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Ketra Commander Atis",
+    "id": 25770,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25770",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 3055.86,
+        "y": 2314.81,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3056.65,
+        "y": 2305.59,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Ketra Commander Atis",
+    "id": 25026,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25026",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3151.67,
+        "y": 2012.2,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Karte",
+    "id": 25047,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25047",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3328.08,
+        "y": 2159.65,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Orfen's Handmaiden",
+    "id": 25420,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25420",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 2768.85,
+        "y": 2138.62,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2769.45,
+        "y": 2133.15,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "King Tarlk",
+    "id": 25158,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25158",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3033.62,
+        "y": 1993.05,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Barion",
+    "id": 25044,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25044",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3264.01,
+        "y": 2160.02,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Archon Suscepter",
+    "id": 25395,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25395",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2566.29,
+        "y": 2845.06,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Evil Spirit Cyrion",
+    "id": 25441,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25441",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3291.16,
+        "y": 2575.09,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Shacram",
+    "id": 25102,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25102",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3308.3,
+        "y": 2584.91,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Beacon of Blue Sky",
+    "id": 25057,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25057",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3257.54,
+        "y": 3216.28,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Beacon of Blue Sky",
+    "id": 25773,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25773",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3356.6,
+        "y": 3598.02,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Tiger King Karuta",
+    "id": 25173,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25173",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 3052.5,
+        "y": 2736.04,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3056.7,
+        "y": 2729.63,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Timak Orc Gosmos",
+    "id": 25437,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25437",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2959.33,
+        "y": 2434.48,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Iron Giant Totem",
+    "id": 25260,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25260",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 3152.45,
+        "y": 2108.58,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3153.29,
+        "y": 2098.57,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Fafurion's Henchman Istary",
+    "id": 25498,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25498",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 3404.94,
+        "y": 3270.17,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3405.44,
+        "y": 3262.38,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Rotting Tree Repiro",
+    "id": 25099,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25099",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2935.6,
+        "y": 2072.86,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Timak Orc Chief Ranger",
+    "id": 25085,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25085",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2956.94,
+        "y": 2457.97,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Dread Avenger Kraven",
+    "id": 25418,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25418",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2923.29,
+        "y": 2013.33,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Thief Kelbar",
+    "id": 25438,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25438",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3257.92,
+        "y": 2643.75,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Flamestone Golem",
+    "id": 25431,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25431",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3052.88,
+        "y": 2090.83,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Earth Protector Panathen",
+    "id": 25776,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25776",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3356.6,
+        "y": 3598.02,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Crazy Mechanic Golem",
+    "id": 25088,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25088",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3135.99,
+        "y": 2075.38,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Earth Protector Panathen",
+    "id": 25192,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25192",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 3397.94,
+        "y": 3388.42,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3399.57,
+        "y": 3381.28,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Retreat Spider Cletu",
+    "id": 25007,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25007",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3387.01,
+        "y": 2518.73,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Fafurion's Page Sika",
+    "id": 25214,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25214",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3295.72,
+        "y": 3529.38,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Shaman King Selu",
+    "id": 25155,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25155",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3006.11,
+        "y": 2454.71,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Leto Chief Talkin",
+    "id": 25134,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25134",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3169.01,
+        "y": 2566.68,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Road Scavenger Leader",
+    "id": 25410,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25410",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2995.11,
+        "y": 2894.45,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Icarus Sample 1",
+    "id": 25115,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25115",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3399.44,
+        "y": 3514.32,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Water Couatle Ateka",
+    "id": 25208,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25208",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3279.8,
+        "y": 3557.51,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Wizard of Storm Teruk",
+    "id": 25064,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25064",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3184.37,
+        "y": 2658.99,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Nakondas",
+    "id": 25415,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25415",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3418.37,
+        "y": 2992.23,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Nellis' Vengeful Spirit",
+    "id": 25504,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25504",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3376.13,
+        "y": 892.78,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Nellis' Vengeful Spirit",
+    "id": 25782,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25782",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3431.5,
+        "y": 592.86,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Leader of Cat Gang",
+    "id": 25082,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25082",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3119.13,
+        "y": 3008.39,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Lizardmen Leader Hellion",
+    "id": 25170,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25170",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 2649.95,
+        "y": 2878.45,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2650.1,
+        "y": 2870.26,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Premo Prime",
+    "id": 25394,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25394",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3425.85,
+        "y": 3600.28,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Rayito the Looter",
+    "id": 25784,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25784",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3070.19,
+        "y": 905.3,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Rayito the Looter",
+    "id": 25506,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25506",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3414.32,
+        "y": 745.44,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Sebek",
+    "id": 25211,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25211",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3306.92,
+        "y": 3440.81,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Evil Spirit Tempest",
+    "id": 25385,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25385",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2855.23,
+        "y": 3030.09,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Guillotine Warden",
+    "id": 25753,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25753",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2579.76,
+        "y": 3066.91,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Soul Collector Acheron",
+    "id": 25757,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25757",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2579.76,
+        "y": 3066.91,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Red Eye Captain Trakia",
+    "id": 25388,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25388",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker",
+          "primary"
+        ],
+        "title": "Red Eye Captain Trakia",
+        "x": 2755.41,
+        "y": 2718.48,
+        "color": "rgb(220, 53, 69)"
+      }
+    ]
+  },
+  {
+    "name": "Remmel",
+    "id": 25041,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25041",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2533.05,
+        "y": 2905.07,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Chertuba of Great Soul",
+    "id": 25063,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25063",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 1770.43,
+        "y": 2825.82,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Flame Lord Shadar",
+    "id": 25152,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25152",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2782.88,
+        "y": 2883.87,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Guilotine, Warden of the Execution Grounds",
+    "id": 25118,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25118",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2836.18,
+        "y": 3054.34,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Tasaba Patriarch Hellena",
+    "id": 25185,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25185",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3205.82,
+        "y": 3489.14,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Fire Lord Shadar",
+    "id": 25754,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25754",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2579.76,
+        "y": 3066.91,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Sejarr's Servitor",
+    "id": 25098,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25098",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3382.13,
+        "y": 2954.76,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Soul Collector Acheron",
+    "id": 25223,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25223",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2777.44,
+        "y": 3097.37,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Beleth's Eye",
+    "id": 25398,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25398",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 2487.04,
+        "y": 3382.92,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2490.82,
+        "y": 3372.4,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Gargoyle Lord Sirocco",
+    "id": 25354,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25354",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker",
+          "primary"
+        ],
+        "title": "Gargoyle Lord Sirocco",
+        "x": 2333.28,
+        "y": 3336.73,
+        "color": "rgb(220, 53, 69)"
+      }
+    ]
+  },
+  {
+    "name": "Revenant of Sir Calibus",
+    "id": 25383,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25383",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2840.1,
+        "y": 3108.57,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Cronos's Servitor Mumu",
+    "id": 25189,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25189",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3416.34,
+        "y": 3459.23,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Stakato Queen Zyrnna",
+    "id": 25023,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25023",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 2653.78,
+        "y": 2722.01,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2658.15,
+        "y": 2716.84,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Breka Warlock Pastu",
+    "id": 25020,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25020",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3132.73,
+        "y": 2896.25,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Vuku Grand Seer Gharmash",
+    "id": 25128,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25128",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2586.73,
+        "y": 3297.48,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Nurka's Messenger",
+    "id": 25391,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25391",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2796.65,
+        "y": 2858.65,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Corsair Captain Kylon",
+    "id": 25404,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25404",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2724.76,
+        "y": 3389.24,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Captain of Queen's Royal Guards",
+    "id": 25392,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25392",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2678.51,
+        "y": 2757.19,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Giant Wasteland Basilisk",
+    "id": 25352,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25352",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2327.49,
+        "y": 3265.59,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Ragraman",
+    "id": 25169,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25169",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2044.52,
+        "y": 3231.28,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Cat's Eye Bandit",
+    "id": 25079,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25079",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2858.04,
+        "y": 2723.08,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Beleth's Agent, Meana",
+    "id": 25112,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25112",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3326.92,
+        "y": 2999.47,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Apepi",
+    "id": 25188,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25188",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3411.15,
+        "y": 3569.78,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Turek Mercenary Captain",
+    "id": 25004,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25004",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 1747.21,
+        "y": 2704.89,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Boss Akata",
+    "id": 25501,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25501",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "marker",
+        "classes": [
+          "sprite",
+          "marker",
+          "primary"
+        ],
+        "title": "Boss Akata",
+        "x": 2818.85,
+        "y": 1154.4,
+        "color": "rgb(220, 53, 69)"
+      }
+    ]
+  },
+  {
+    "name": "Elf Renoa",
+    "id": 25095,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25095",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2170.09,
+        "y": 3440.08,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Tirak",
+    "id": 25038,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25038",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2023.12,
+        "y": 3351.12,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Partisan Leader Talakin",
+    "id": 25272,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25272",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2823.49,
+        "y": 2913.4,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Patriarch Kuroboros",
+    "id": 25365,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25365",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 1987.29,
+        "y": 3389.86,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 1987.03,
+        "y": 3382.76,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Tiger Hornet",
+    "id": 25360,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25360",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2672.3,
+        "y": 3299.19,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Mammon Collector Talos",
+    "id": 25800,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25800",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3431.5,
+        "y": 592.86,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Mammon Collector Talos",
+    "id": 25429,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25429",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 3747.2,
+        "y": 348.09,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 3746.8,
+        "y": 338.82,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Soul Scavenger",
+    "id": 25369,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25369",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2110.65,
+        "y": 2787.12,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Ikuntai",
+    "id": 25166,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25166",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2290.43,
+        "y": 3094.16,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Pan Dryad",
+    "id": 25019,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25019",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2509.22,
+        "y": 3224.61,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Zombie Lord Crowl",
+    "id": 25747,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25747",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2346.87,
+        "y": 2856.56,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Ikuntai",
+    "id": 25744,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25744",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2346.87,
+        "y": 2856.56,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Princess Molrang",
+    "id": 25076,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25076",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 1994.71,
+        "y": 2916.79,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 1995.52,
+        "y": 2908.5,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Betrayer of Urutu Freki",
+    "id": 25779,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25779",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2112.98,
+        "y": 1063.58,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Betrayer of Urutu Freki",
+    "id": 25426,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25426",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area"
+        ],
+        "title": null,
+        "x": 2317.47,
+        "y": 1200.62,
+        "color": null
+      },
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2318.41,
+        "y": 1191.33,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Zombie Lord Crowl",
+    "id": 25149,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25149",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2358.97,
+        "y": 2990.02,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Langk Matriarch Rashkos",
+    "id": 25127,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25127",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2096.22,
+        "y": 3598.97,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Unrequited Kael",
+    "id": 25060,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25060",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2000.13,
+        "y": 3366.06,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Kuroboros' Priest",
+    "id": 25366,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25366",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 1985.75,
+        "y": 3300.76,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Greyclaw Kutus",
+    "id": 25001,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25001",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2044.92,
+        "y": 3052.9,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Lead Tracker Sharuk",
+    "id": 25738,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25738",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 1804.21,
+        "y": 3089.69,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Greyclaw Kutus",
+    "id": 25735,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25735",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 1804.21,
+        "y": 3089.69,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Tracker Leader Sharuk",
+    "id": 25362,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25362",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2034.95,
+        "y": 3355.83,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Sukar Wererat Chief",
+    "id": 25357,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25357",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2428.08,
+        "y": 2799.38,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Serpent Demon Bifrons",
+    "id": 25146,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25146",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2351.33,
+        "y": 3557.99,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Kaysha Herald of Icarus",
+    "id": 25380,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25380",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2097.89,
+        "y": 2339.92,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Malex Herald of Dagoniel",
+    "id": 25373,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25373",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2526.56,
+        "y": 2530.17,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Sukar Wererat Chief",
+    "id": 25741,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25741",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 1804.21,
+        "y": 3089.69,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Discarded Guardian",
+    "id": 25372,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25372",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2814.55,
+        "y": 3780.14,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Zombie Lord Ferkel",
+    "id": 25750,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25750",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2467.97,
+        "y": 2117.43,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Zombie Lord Ferkel",
+    "id": 25375,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25375",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2623.17,
+        "y": 2556.12,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  },
+  {
+    "name": "Madness Beast",
+    "id": 25378,
+    "url": "https://www.lineage2.cz/vault/detail/npc/25378",
+    "status": 200,
+    "sprites": [
+      {
+        "type": "area",
+        "classes": [
+          "sprite",
+          "area",
+          "primary"
+        ],
+        "title": "Count: 1",
+        "x": 2048.63,
+        "y": 2585.43,
+        "color": "rgb(1, 255, 112)"
+      }
+    ]
+  }
+]
