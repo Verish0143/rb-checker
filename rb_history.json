@@ -759,6 +759,12 @@
       "state": "no",
       "timestamp": "2026-10-29 11:40:24",
       "name": "Giant Marpanak"
+    },
+    {
+      "name": "Giant Marpanak",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-10-30 10:00:16"
     }
   ],
   "25681": [
@@ -2215,6 +2221,12 @@
       "state": "yes",
       "timestamp": "2026-10-30 07:00:18",
       "name": "Krokian Padisha Sobekk"
+    },
+    {
+      "name": "Krokian Padisha Sobekk",
+      "level": "74",
+      "state": "no",
+      "timestamp": "2026-10-30 10:00:16"
     }
   ],
   "25220": [
@@ -3037,6 +3049,12 @@
       "state": "yes",
       "timestamp": "2026-10-30 00:40:19",
       "name": "Palibati Queen Themis"
+    },
+    {
+      "name": "Palibati Queen Themis",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-30 10:00:16"
     }
   ],
   "25163": [
@@ -3143,6 +3161,12 @@
       "state": "yes",
       "timestamp": "2026-10-30 03:00:15",
       "name": "Shilen's Messenger Cabrio"
+    },
+    {
+      "name": "Shilen's Messenger Cabrio",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-30 10:00:16"
     }
   ],
   "25233": [
