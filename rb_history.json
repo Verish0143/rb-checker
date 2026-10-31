@@ -1197,6 +1197,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-31 07:00:17"
+    },
+    {
+      "name": "Ember",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-31 07:20:15"
     }
   ],
   "29095": [
@@ -1947,6 +1953,12 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-10-31 06:40:16"
+    },
+    {
+      "name": "Hestia, Guardian Deity of the Hot Springs",
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-10-31 07:20:15"
     }
   ],
   "25245": [
@@ -4607,6 +4619,12 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-30 18:20:15"
+    },
+    {
+      "name": "Ghost of the Well Lidia",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-31 07:20:15"
     }
   ],
   "25179": [
@@ -6863,6 +6881,12 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-10-30 16:20:17"
+    },
+    {
+      "name": "Nurka's Messenger",
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-10-31 07:20:15"
     }
   ],
   "25128": [
@@ -7075,6 +7099,12 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-10-31 00:00:16"
+    },
+    {
+      "name": "Beleth's Agent, Meana",
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-10-31 07:20:15"
     }
   ],
   "25501": [
