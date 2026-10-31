@@ -1603,6 +1603,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-30 09:40:17"
+    },
+    {
+      "name": "Varka's Commander Mos",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-31 05:20:15"
     }
   ],
   "25450": [
@@ -1763,6 +1769,12 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-10-31 05:00:17"
+    },
+    {
+      "name": "Longhorn Golkonda",
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-10-31 05:20:15"
     }
   ],
   "25143": [
@@ -7677,6 +7689,12 @@
       "state": "no",
       "timestamp": "2026-10-30 08:00:15",
       "name": "Soul Scavenger"
+    },
+    {
+      "name": "Soul Scavenger",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-31 05:20:15"
     }
   ],
   "25127": [
