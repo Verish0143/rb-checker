@@ -1151,6 +1151,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-31 16:40:25"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-31 17:20:17"
     }
   ],
   "25536": [
@@ -2313,6 +2319,12 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-10-30 13:00:19"
+    },
+    {
+      "name": "Gigantic Golem",
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-10-31 17:20:17"
     }
   ],
   "25205": [
@@ -7155,6 +7167,12 @@
       "state": "no",
       "timestamp": "2026-10-30 08:40:19",
       "name": "Cronos's Servitor Mumu"
+    },
+    {
+      "name": "Cronos's Servitor Mumu",
+      "level": "34",
+      "state": "yes",
+      "timestamp": "2026-10-31 17:20:17"
     }
   ],
   "25383": [
