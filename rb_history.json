@@ -285,6 +285,12 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-30 21:40:15"
+    },
+    {
+      "name": "Queen Shyeed",
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-10-31 13:40:57"
     }
   ],
   "25677": [
@@ -791,6 +797,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-31 11:40:27"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-31 13:40:57"
     }
   ],
   "25544": [
@@ -939,6 +951,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-10-31 06:20:16"
+    },
+    {
+      "name": "Giant Marpanak",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-10-31 13:40:57"
     }
   ],
   "25681": [
@@ -1963,6 +1981,12 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-10-30 23:40:18"
+    },
+    {
+      "name": "Fire of Wrath Shuriel",
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-10-31 13:40:57"
     }
   ],
   "25293": [
