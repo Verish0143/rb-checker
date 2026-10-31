@@ -2237,6 +2237,12 @@
       "state": "no",
       "timestamp": "2026-10-30 04:40:16",
       "name": "Ocean Flame Ashakiel"
+    },
+    {
+      "name": "Ocean Flame Ashakiel",
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-10-31 09:20:17"
     }
   ],
   "25266": [
@@ -7405,6 +7411,12 @@
       "state": "no",
       "timestamp": "2026-10-30 08:40:19",
       "name": "Giant Wasteland Basilisk"
+    },
+    {
+      "name": "Giant Wasteland Basilisk",
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-10-31 09:20:17"
     }
   ],
   "25169": [
