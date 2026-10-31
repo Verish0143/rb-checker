@@ -6937,6 +6937,12 @@
       "state": "yes",
       "timestamp": "2026-10-24 06:01:16",
       "name": "Stakato Queen Zyrnna"
+    },
+    {
+      "name": "Stakato Queen Zyrnna",
+      "level": "34",
+      "state": "no",
+      "timestamp": "2026-10-31 11:20:17"
     }
   ],
   "25404": [
@@ -7191,6 +7197,12 @@
       "level": "32",
       "state": "yes",
       "timestamp": "2026-10-31 10:00:57"
+    },
+    {
+      "name": "Captain of Queen's Royal Guards",
+      "level": "32",
+      "state": "no",
+      "timestamp": "2026-10-31 11:20:17"
     }
   ],
   "25188": [
@@ -9079,6 +9091,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Soul Collector Acheron",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-31 11:20:17"
     }
   ],
   "25223": [
