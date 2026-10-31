@@ -3287,6 +3287,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-10-31 12:00:18"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-10-31 12:40:27"
     }
   ],
   "25447": [
@@ -3555,6 +3561,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-30 18:20:15"
+    },
+    {
+      "name": "Flame of Splendor Barakiel",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-31 12:40:27"
     }
   ],
   "25092": [
@@ -3809,6 +3821,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-31 02:20:19"
+    },
+    {
+      "name": "Shilen's Messenger Cabrio",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-31 12:40:27"
     }
   ],
   "25233": [
@@ -7763,6 +7781,12 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-10-31 12:20:25"
+    },
+    {
+      "name": "Tirak",
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-10-31 12:40:27"
     }
   ],
   "25365": [
@@ -8977,6 +9001,12 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-10-30 18:40:17"
+    },
+    {
+      "name": "Doom Blade Tanatos",
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-10-31 12:40:27"
     }
   ],
   "25248": [
@@ -9005,6 +9035,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-31 01:20:16"
+    },
+    {
+      "name": "Meanas Anor",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-31 12:40:27"
     }
   ],
   "25453": [
@@ -9431,6 +9467,12 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Zombie Lord Ferkel",
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-10-31 12:40:27"
     }
   ],
   "25375": [
