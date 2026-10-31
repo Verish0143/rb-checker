@@ -731,6 +731,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-31 05:40:15"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-31 06:20:16"
     }
   ],
   "25544": [
@@ -873,6 +879,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-31 02:40:16"
+    },
+    {
+      "name": "Giant Marpanak",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-31 06:20:16"
     }
   ],
   "25681": [
