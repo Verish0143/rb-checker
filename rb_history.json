@@ -1409,6 +1409,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-30 21:00:17"
+    },
+    {
+      "name": "Gordon",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-31 21:40:17"
     }
   ],
   "25305": [
@@ -5723,6 +5729,12 @@
       "state": "yes",
       "timestamp": "2026-10-25 23:09:29",
       "name": "Ghost Knight Kabed"
+    },
+    {
+      "name": "Ghost Knight Kabed",
+      "level": "55",
+      "state": "no",
+      "timestamp": "2026-10-31 21:40:17"
     }
   ],
   "25241": [
@@ -9411,6 +9423,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-30 11:20:16"
+    },
+    {
+      "name": "Kernon",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-31 21:40:17"
     }
   ],
   "25054": [
@@ -9551,6 +9569,12 @@
       "level": "59",
       "state": "yes",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Demon Kuri",
+      "level": "59",
+      "state": "no",
+      "timestamp": "2026-10-31 21:40:17"
     }
   ],
   "25767": [
@@ -9851,6 +9875,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Zombie Lord Crowl",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-31 21:40:17"
     }
   ],
   "25149": [
