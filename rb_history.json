@@ -779,6 +779,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-31 10:20:27"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-31 11:40:27"
     }
   ],
   "25544": [
@@ -1773,6 +1779,12 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-10-31 05:40:15"
+    },
+    {
+      "name": "Cherub Galaxia",
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-10-31 11:40:27"
     }
   ],
   "25126": [
@@ -8383,6 +8395,12 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-30 21:00:17"
+    },
+    {
+      "name": "Tracker Leader Sharuk",
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-31 11:40:27"
     }
   ],
   "25380": [
@@ -8807,6 +8825,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-30 13:00:19"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-31 11:40:27"
     }
   ],
   "25309": [
@@ -8867,6 +8891,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-31 03:40:15"
+    },
+    {
+      "name": "Kernon",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-31 11:40:27"
     }
   ],
   "25793": [
@@ -9097,6 +9127,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-31 11:20:17"
+    },
+    {
+      "name": "Soul Collector Acheron",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-31 11:40:27"
     }
   ],
   "25223": [
