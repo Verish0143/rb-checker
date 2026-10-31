@@ -3629,6 +3629,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-30 15:40:16"
+    },
+    {
+      "name": "Korim",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-31 13:00:16"
     }
   ],
   "25252": [
@@ -3735,6 +3741,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-30 18:20:15"
+    },
+    {
+      "name": "Roaring Skylancer",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-31 13:00:16"
     }
   ],
   "25035": [
@@ -8195,6 +8207,12 @@
       "level": "24",
       "state": "yes",
       "timestamp": "2026-10-31 12:20:25"
+    },
+    {
+      "name": "Langk Matriarch Rashkos",
+      "level": "24",
+      "state": "no",
+      "timestamp": "2026-10-31 13:00:16"
     }
   ],
   "25060": [
@@ -9021,6 +9039,12 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-10-30 21:00:17"
+    },
+    {
+      "name": "Doom Blade Tanatos",
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-10-31 13:00:16"
     }
   ],
   "25797": [
