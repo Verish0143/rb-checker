@@ -4537,6 +4537,12 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-10-30 17:20:18"
+    },
+    {
+      "name": "Rahha",
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-10-31 18:20:14"
     }
   ],
   "25478": [
@@ -4819,6 +4825,12 @@
       "level": "61",
       "state": "yes",
       "timestamp": "2026-10-31 09:40:59"
+    },
+    {
+      "name": "Fairy Queen Timiniel",
+      "level": "61",
+      "state": "no",
+      "timestamp": "2026-10-31 18:20:14"
     }
   ],
   "25766": [
