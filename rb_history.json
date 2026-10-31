@@ -3799,6 +3799,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-31 15:01:58"
+    },
+    {
+      "name": "Palibati Queen Themis",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-31 15:20:15"
     }
   ],
   "25163": [
@@ -6573,6 +6579,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-31 15:01:58"
+    },
+    {
+      "name": "Beleth's Eye",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-31 15:20:15"
     }
   ],
   "25063": [
@@ -9051,6 +9063,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-31 14:00:17"
+    },
+    {
+      "name": "Ketra's Hero Hekaton",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-31 15:20:15"
     }
   ],
   "25790": [
