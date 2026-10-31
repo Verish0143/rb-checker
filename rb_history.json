@@ -395,6 +395,12 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-10-31 23:20:15"
+    },
+    {
+      "name": "Water Spirit Lian",
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-10-31 23:40:17"
     }
   ],
   "25674": [
@@ -1047,6 +1053,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-31 23:20:15"
+    },
+    {
+      "name": "Giant Marpanak",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-31 23:40:17"
     }
   ],
   "25681": [
@@ -1605,6 +1617,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-31 23:20:15"
+    },
+    {
+      "name": "Ketra's Commander Tayr",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-31 23:40:17"
     }
   ],
   "25283": [
@@ -4225,6 +4243,12 @@
       "level": "69",
       "state": "no",
       "timestamp": "2026-10-30 18:20:15"
+    },
+    {
+      "name": "Spirit of Andras, the Betrayer",
+      "level": "69",
+      "state": "yes",
+      "timestamp": "2026-10-31 23:40:17"
     }
   ],
   "25263": [
@@ -9807,6 +9831,12 @@
       "level": "37",
       "state": "no",
       "timestamp": "2026-10-31 09:40:59"
+    },
+    {
+      "name": "Rayito the Looter",
+      "level": "37",
+      "state": "yes",
+      "timestamp": "2026-10-31 23:40:17"
     }
   ],
   "25506": [
