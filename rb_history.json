@@ -663,6 +663,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-31 17:40:58"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-31 18:40:15"
     }
   ],
   "25684": [
@@ -4369,6 +4375,12 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-10-31 14:40:16"
+    },
+    {
+      "name": "Enmity Ghost Ramdal",
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-10-31 18:40:15"
     }
   ],
   "25125": [
@@ -5207,6 +5219,12 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-31 08:40:16"
+    },
+    {
+      "name": "Taik High Prefect Arak",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-31 18:40:15"
     }
   ],
   "25016": [
@@ -7483,6 +7501,12 @@
       "state": "no",
       "timestamp": "2026-10-30 08:20:17",
       "name": "Vuku Grand Seer Gharmash"
+    },
+    {
+      "name": "Vuku Grand Seer Gharmash",
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-10-31 18:40:15"
     }
   ],
   "25392": [
@@ -9423,6 +9447,12 @@
       "level": "59",
       "state": "yes",
       "timestamp": "2026-10-31 09:40:59"
+    },
+    {
+      "name": "Demon Kuri",
+      "level": "59",
+      "state": "no",
+      "timestamp": "2026-10-31 18:40:15"
     }
   ],
   "25182": [
@@ -9821,6 +9851,12 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-10-31 12:40:27"
+    },
+    {
+      "name": "Zombie Lord Ferkel",
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-10-31 18:40:15"
     }
   ],
   "25375": [
