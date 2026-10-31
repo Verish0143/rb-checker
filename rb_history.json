@@ -389,6 +389,12 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-31 07:00:17"
+    },
+    {
+      "name": "Water Spirit Lian",
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-10-31 23:20:15"
     }
   ],
   "25674": [
@@ -681,6 +687,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-31 23:00:17"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-31 23:20:15"
     }
   ],
   "25684": [
@@ -1029,6 +1041,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-10-31 14:00:17"
+    },
+    {
+      "name": "Giant Marpanak",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-10-31 23:20:15"
     }
   ],
   "25681": [
@@ -1581,6 +1599,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-30 18:40:17"
+    },
+    {
+      "name": "Ketra's Commander Tayr",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-31 23:20:15"
     }
   ],
   "25283": [
@@ -2323,6 +2347,12 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-10-31 05:00:17"
+    },
+    {
+      "name": "Flamestone Giant",
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-10-31 23:20:15"
     }
   ],
   "25703": [
