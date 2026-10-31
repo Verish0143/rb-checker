@@ -567,6 +567,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-30 23:20:18"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-31 00:20:25"
     }
   ],
   "25684": [
@@ -1859,6 +1865,12 @@
       "state": "no",
       "timestamp": "2026-10-30 05:40:17",
       "name": "Last Lesser Giant Glaki"
+    },
+    {
+      "name": "Last Lesser Giant Glaki",
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-10-31 00:20:25"
     }
   ],
   "25524": [
@@ -2751,6 +2763,12 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-10-30 10:40:18"
+    },
+    {
+      "name": "Water Dragon Seer Sheshark",
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-10-31 00:20:25"
     }
   ],
   "25328": [
@@ -8699,6 +8717,12 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Greyclaw Kutus",
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-31 00:20:25"
     }
   ],
   "25357": [
