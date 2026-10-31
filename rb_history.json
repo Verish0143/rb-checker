@@ -3473,6 +3473,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-10-31 17:00:16"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-10-31 20:00:16"
     }
   ],
   "25447": [
@@ -3641,6 +3647,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-30 10:20:17"
+    },
+    {
+      "name": "Beast Lord Behemoth",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-31 20:00:16"
     }
   ],
   "25198": [
@@ -7805,6 +7817,12 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-10-31 19:20:16"
+    },
+    {
+      "name": "Cat's Eye Bandit",
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-10-31 20:00:16"
     }
   ],
   "25352": [
