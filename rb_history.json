@@ -7155,6 +7155,12 @@
       "state": "no",
       "timestamp": "2026-10-30 08:20:17",
       "name": "Captain of Queen's Royal Guards"
+    },
+    {
+      "name": "Captain of Queen's Royal Guards",
+      "level": "32",
+      "state": "yes",
+      "timestamp": "2026-10-31 10:00:57"
     }
   ],
   "25188": [
@@ -8995,6 +9001,12 @@
       "level": "39",
       "state": "yes",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Nellis' Vengeful Spirit",
+      "level": "39",
+      "state": "no",
+      "timestamp": "2026-10-31 10:00:57"
     }
   ],
   "25784": [
@@ -9127,6 +9139,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Mammon Collector Talos",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-31 10:00:57"
     }
   ],
   "25429": [
