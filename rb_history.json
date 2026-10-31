@@ -347,6 +347,12 @@
       "state": "no",
       "timestamp": "2026-10-30 06:40:15",
       "name": "Water Spirit Lian"
+    },
+    {
+      "name": "Water Spirit Lian",
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-10-31 02:20:19"
     }
   ],
   "25674": [
@@ -971,6 +977,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-10-30 23:20:18"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-10-31 02:20:19"
     }
   ],
   "25536": [
@@ -3509,6 +3521,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-30 10:00:16"
+    },
+    {
+      "name": "Shilen's Messenger Cabrio",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-31 02:20:19"
     }
   ],
   "25233": [
