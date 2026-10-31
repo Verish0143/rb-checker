@@ -359,6 +359,12 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-10-31 02:20:19"
+    },
+    {
+      "name": "Water Spirit Lian",
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-10-31 07:00:17"
     }
   ],
   "25674": [
@@ -1185,6 +1191,12 @@
       "state": "no",
       "timestamp": "2026-10-30 07:00:18",
       "name": "Ember"
+    },
+    {
+      "name": "Ember",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-31 07:00:17"
     }
   ],
   "29095": [
@@ -2599,6 +2611,12 @@
       "level": "74",
       "state": "no",
       "timestamp": "2026-10-30 10:00:16"
+    },
+    {
+      "name": "Krokian Padisha Sobekk",
+      "level": "74",
+      "state": "yes",
+      "timestamp": "2026-10-31 07:00:17"
     }
   ],
   "25220": [
@@ -6375,6 +6393,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-30 18:00:17"
+    },
+    {
+      "name": "Flame Lord Shadar",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-31 07:00:17"
     }
   ],
   "25354": [
@@ -6623,6 +6647,12 @@
       "state": "no",
       "timestamp": "2026-10-30 08:40:19",
       "name": "Tasaba Patriarch Hellena"
+    },
+    {
+      "name": "Tasaba Patriarch Hellena",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-31 07:00:17"
     }
   ],
   "25020": [
@@ -7389,6 +7419,12 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-10-31 04:20:41"
+    },
+    {
+      "name": "Partisan Leader Talakin",
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-10-31 07:00:17"
     }
   ],
   "25038": [
@@ -8867,6 +8903,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-31 04:00:16"
+    },
+    {
+      "name": "Ikuntai",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-31 07:00:17"
     }
   ],
   "25800": [
