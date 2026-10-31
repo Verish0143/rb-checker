@@ -2975,6 +2975,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-10-30 17:00:17"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-10-31 00:00:16"
     }
   ],
   "25447": [
@@ -6847,6 +6853,12 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-10-30 09:40:17"
+    },
+    {
+      "name": "Beleth's Agent, Meana",
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-10-31 00:00:16"
     }
   ],
   "25501": [
