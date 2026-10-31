@@ -2607,6 +2607,12 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-10-30 10:20:17"
+    },
+    {
+      "name": "Death Lord Hallate",
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-10-31 03:40:15"
     }
   ],
   "25523": [
@@ -8453,6 +8459,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-30 09:40:17"
+    },
+    {
+      "name": "Kernon",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-31 03:40:15"
     }
   ],
   "25793": [
