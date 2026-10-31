@@ -2261,6 +2261,12 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-10-31 09:20:17"
+    },
+    {
+      "name": "Ocean Flame Ashakiel",
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-10-31 12:20:25"
     }
   ],
   "25266": [
@@ -2953,6 +2959,12 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-10-30 23:40:18"
+    },
+    {
+      "name": "Vanor Chief Kandra",
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-10-31 12:20:25"
     }
   ],
   "25199": [
@@ -3003,6 +3015,12 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-10-31 00:20:25"
+    },
+    {
+      "name": "Water Dragon Seer Sheshark",
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-10-31 12:20:25"
     }
   ],
   "25328": [
@@ -3457,6 +3475,12 @@
       "state": "yes",
       "timestamp": "2026-10-23 15:28:51",
       "name": "Fafurion's Herald Lokness"
+    },
+    {
+      "name": "Fafurion's Herald Lokness",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-10-31 12:20:25"
     }
   ],
   "25325": [
@@ -7733,6 +7757,12 @@
       "level": "28",
       "state": "no",
       "timestamp": "2026-10-30 14:00:19"
+    },
+    {
+      "name": "Tirak",
+      "level": "28",
+      "state": "yes",
+      "timestamp": "2026-10-31 12:20:25"
     }
   ],
   "25365": [
@@ -7789,6 +7819,12 @@
       "level": "26",
       "state": "yes",
       "timestamp": "2026-10-30 18:20:15"
+    },
+    {
+      "name": "Patriarch Kuroboros",
+      "level": "26",
+      "state": "no",
+      "timestamp": "2026-10-31 12:20:25"
     }
   ],
   "25360": [
@@ -8129,6 +8165,12 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-10-30 14:20:20"
+    },
+    {
+      "name": "Langk Matriarch Rashkos",
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-10-31 12:20:25"
     }
   ],
   "25060": [
@@ -8413,6 +8455,12 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-31 11:40:27"
+    },
+    {
+      "name": "Tracker Leader Sharuk",
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-10-31 12:20:25"
     }
   ],
   "25380": [
@@ -9309,6 +9357,12 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-31 08:20:26"
+    },
+    {
+      "name": "Greyclaw Kutus",
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-10-31 12:20:25"
     }
   ],
   "25735": [
