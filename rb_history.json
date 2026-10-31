@@ -713,6 +713,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-30 09:40:17"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-31 04:20:41"
     }
   ],
   "25544": [
@@ -7269,6 +7275,12 @@
       "state": "no",
       "timestamp": "2026-10-29 18:40:16",
       "name": "Partisan Leader Talakin"
+    },
+    {
+      "name": "Partisan Leader Talakin",
+      "level": "28",
+      "state": "yes",
+      "timestamp": "2026-10-31 04:20:41"
     }
   ],
   "25038": [
