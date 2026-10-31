@@ -3879,6 +3879,12 @@
       "level": "67",
       "state": "yes",
       "timestamp": "2026-10-30 21:00:17"
+    },
+    {
+      "name": "Kernon's Faithful Servant Kelone",
+      "level": "67",
+      "state": "no",
+      "timestamp": "2026-10-31 08:20:26"
     }
   ],
   "25322": [
@@ -4979,6 +4985,12 @@
       "level": "59",
       "state": "yes",
       "timestamp": "2026-10-30 21:00:17"
+    },
+    {
+      "name": "Soulless Wild Boar",
+      "level": "59",
+      "state": "no",
+      "timestamp": "2026-10-31 08:20:26"
     }
   ],
   "25032": [
@@ -6071,6 +6083,12 @@
       "state": "no",
       "timestamp": "2026-10-30 01:20:18",
       "name": "Leader of Cat Gang"
+    },
+    {
+      "name": "Leader of Cat Gang",
+      "level": "39",
+      "state": "yes",
+      "timestamp": "2026-10-31 08:20:26"
     }
   ],
   "25170": [
@@ -6773,6 +6791,12 @@
       "state": "yes",
       "timestamp": "2026-10-23 00:32:06",
       "name": "Revenant of Sir Calibus"
+    },
+    {
+      "name": "Revenant of Sir Calibus",
+      "level": "34",
+      "state": "no",
+      "timestamp": "2026-10-31 08:20:26"
     }
   ],
   "25023": [
@@ -9045,6 +9069,12 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Greyclaw Kutus",
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-31 08:20:26"
     }
   ],
   "25735": [
@@ -9059,6 +9089,12 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-31 00:20:25"
+    },
+    {
+      "name": "Greyclaw Kutus",
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-10-31 08:20:26"
     }
   ],
   "25357": [
