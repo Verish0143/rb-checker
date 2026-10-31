@@ -8453,6 +8453,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Meanas Anor",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-31 01:20:16"
     }
   ],
   "25453": [
@@ -8685,6 +8691,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Mammon Collector Talos",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-31 01:20:16"
     }
   ],
   "25747": [
