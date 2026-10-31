@@ -291,6 +291,12 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-10-31 13:40:57"
+    },
+    {
+      "name": "Queen Shyeed",
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-10-31 14:00:17"
     }
   ],
   "25677": [
@@ -803,6 +809,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-31 13:40:57"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-31 14:00:17"
     }
   ],
   "25544": [
@@ -957,6 +969,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-31 13:40:57"
+    },
+    {
+      "name": "Giant Marpanak",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-31 14:00:17"
     }
   ],
   "25681": [
@@ -1195,6 +1213,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-31 09:00:17"
+    },
+    {
+      "name": "Andreas Van Halter",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-31 14:00:17"
     }
   ],
   "25319": [
@@ -4547,6 +4571,12 @@
       "state": "no",
       "timestamp": "2026-10-30 02:20:16",
       "name": "Roaring Lord Kastor"
+    },
+    {
+      "name": "Roaring Lord Kastor",
+      "level": "62",
+      "state": "yes",
+      "timestamp": "2026-10-31 14:00:17"
     }
   ],
   "25423": [
@@ -8937,6 +8967,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Ketra's Hero Hekaton",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-31 14:00:17"
     }
   ],
   "25790": [
