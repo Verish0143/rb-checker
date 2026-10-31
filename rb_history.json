@@ -199,6 +199,12 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-10-31 07:40:16"
+    },
+    {
+      "name": "Darion",
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-10-31 08:40:16"
     }
   ],
   "25671": [
@@ -3971,6 +3977,12 @@
       "state": "yes",
       "timestamp": "2026-10-30 04:20:16",
       "name": "Demon's Agent Falston"
+    },
+    {
+      "name": "Demon's Agent Falston",
+      "level": "66",
+      "state": "no",
+      "timestamp": "2026-10-31 08:40:16"
     }
   ],
   "25444": [
@@ -4705,6 +4717,12 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-30 21:40:15"
+    },
+    {
+      "name": "Guardian of the Statue of Giant Karum",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-31 08:40:16"
     }
   ],
   "25760": [
@@ -4841,6 +4859,12 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-30 14:00:19"
+    },
+    {
+      "name": "Taik High Prefect Arak",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-31 08:40:16"
     }
   ],
   "25016": [
@@ -5899,6 +5923,12 @@
       "state": "yes",
       "timestamp": "2026-10-28 13:17:47",
       "name": "Nakondas"
+    },
+    {
+      "name": "Nakondas",
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-31 08:40:16"
     }
   ],
   "25410": [
@@ -6089,6 +6119,12 @@
       "level": "39",
       "state": "yes",
       "timestamp": "2026-10-31 08:20:26"
+    },
+    {
+      "name": "Leader of Cat Gang",
+      "level": "39",
+      "state": "no",
+      "timestamp": "2026-10-31 08:40:16"
     }
   ],
   "25170": [
