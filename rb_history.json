@@ -2641,6 +2641,12 @@
       "level": "74",
       "state": "yes",
       "timestamp": "2026-10-31 07:00:17"
+    },
+    {
+      "name": "Krokian Padisha Sobekk",
+      "level": "74",
+      "state": "no",
+      "timestamp": "2026-10-31 08:00:26"
     }
   ],
   "25220": [
@@ -3203,6 +3209,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-10-31 05:00:17"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-10-31 08:00:26"
     }
   ],
   "25447": [
@@ -8895,6 +8907,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Soul Collector Acheron",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-31 08:00:26"
     }
   ],
   "25779": [
@@ -8921,6 +8939,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-31 07:40:16"
+    },
+    {
+      "name": "Betrayer of Urutu Freki",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-31 08:00:26"
     }
   ],
   "25426": [
