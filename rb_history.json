@@ -2661,6 +2661,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-31 16:40:25"
+    },
+    {
+      "name": "Menacing Palatanos",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-31 18:00:16"
     }
   ],
   "25229": [
@@ -4709,6 +4715,12 @@
       "level": "62",
       "state": "yes",
       "timestamp": "2026-10-31 14:00:17"
+    },
+    {
+      "name": "Roaring Lord Kastor",
+      "level": "62",
+      "state": "no",
+      "timestamp": "2026-10-31 18:00:16"
     }
   ],
   "25423": [
