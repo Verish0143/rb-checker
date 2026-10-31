@@ -1145,6 +1145,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-10-31 15:01:58"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-10-31 16:40:25"
     }
   ],
   "25536": [
@@ -2613,6 +2619,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-30 21:00:17"
+    },
+    {
+      "name": "Menacing Palatanos",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-31 16:40:25"
     }
   ],
   "25229": [
@@ -6979,6 +6991,12 @@
       "state": "yes",
       "timestamp": "2026-10-23 10:31:41",
       "name": "Remmel"
+    },
+    {
+      "name": "Remmel",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-31 16:40:25"
     }
   ],
   "25098": [
