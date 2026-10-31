@@ -725,6 +725,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-31 05:00:17"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-31 05:40:15"
     }
   ],
   "25544": [
@@ -1609,6 +1615,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-31 05:20:15"
+    },
+    {
+      "name": "Varka's Commander Mos",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-31 05:40:15"
     }
   ],
   "25450": [
@@ -1683,6 +1695,12 @@
       "state": "no",
       "timestamp": "2026-10-30 07:20:15",
       "name": "Cherub Galaxia"
+    },
+    {
+      "name": "Cherub Galaxia",
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-10-31 05:40:15"
     }
   ],
   "25126": [
