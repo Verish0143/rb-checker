@@ -83,6 +83,12 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-10-31 02:00:17"
+    },
+    {
+      "name": "Anais",
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-10-31 06:40:16"
     }
   ],
   "25603": [
@@ -585,6 +591,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-31 00:20:25"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-31 06:40:16"
     }
   ],
   "25684": [
@@ -1917,6 +1929,12 @@
       "state": "no",
       "timestamp": "2026-10-29 21:40:17",
       "name": "Hestia, Guardian Deity of the Hot Springs"
+    },
+    {
+      "name": "Hestia, Guardian Deity of the Hot Springs",
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-10-31 06:40:16"
     }
   ],
   "25245": [
@@ -7725,6 +7743,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-31 05:20:15"
+    },
+    {
+      "name": "Soul Scavenger",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-31 06:40:16"
     }
   ],
   "25127": [
