@@ -1187,6 +1187,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-31 22:20:43"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-31 22:40:24"
     }
   ],
   "25536": [
@@ -1433,6 +1439,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-31 21:40:17"
+    },
+    {
+      "name": "Gordon",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-31 22:40:24"
     }
   ],
   "25305": [
@@ -3083,6 +3095,12 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-10-30 11:20:16"
+    },
+    {
+      "name": "Plague Golem",
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-10-31 22:40:24"
     }
   ],
   "25235": [
