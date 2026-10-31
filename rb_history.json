@@ -651,6 +651,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-31 14:40:16"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-31 15:40:16"
     }
   ],
   "25684": [
@@ -2389,6 +2395,12 @@
       "state": "no",
       "timestamp": "2026-10-25 17:42:37",
       "name": "Bloody Empress Decarbia"
+    },
+    {
+      "name": "Bloody Empress Decarbia",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-31 15:40:16"
     }
   ],
   "25276": [
@@ -6895,6 +6907,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-31 14:20:29"
+    },
+    {
+      "name": "Guillotine Warden",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-31 15:40:16"
     }
   ],
   "25118": [
@@ -8055,6 +8073,12 @@
       "level": "26",
       "state": "yes",
       "timestamp": "2026-10-30 19:40:19"
+    },
+    {
+      "name": "Tiger Hornet",
+      "level": "26",
+      "state": "no",
+      "timestamp": "2026-10-31 15:40:16"
     }
   ],
   "25019": [
