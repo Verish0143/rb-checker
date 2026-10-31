@@ -2805,6 +2805,12 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-10-31 03:40:15"
+    },
+    {
+      "name": "Death Lord Hallate",
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-10-31 12:00:18"
     }
   ],
   "25523": [
@@ -3257,6 +3263,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-10-31 09:00:17"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-10-31 12:00:18"
     }
   ],
   "25447": [
@@ -8831,6 +8843,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-31 11:40:27"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-31 12:00:18"
     }
   ],
   "25309": [
