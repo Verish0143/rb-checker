@@ -3419,6 +3419,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-10-31 16:00:28"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-10-31 17:00:16"
     }
   ],
   "25447": [
@@ -6255,6 +6261,12 @@
       "state": "yes",
       "timestamp": "2026-10-27 20:48:31",
       "name": "Road Scavenger Leader"
+    },
+    {
+      "name": "Road Scavenger Leader",
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-31 17:00:16"
     }
   ],
   "25155": [
@@ -6965,6 +6977,12 @@
       "state": "yes",
       "timestamp": "2026-10-21 00:42:13",
       "name": "Red Eye Captain Trakia"
+    },
+    {
+      "name": "Red Eye Captain Trakia",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-31 17:00:16"
     }
   ],
   "25041": [
@@ -8547,6 +8565,12 @@
       "state": "no",
       "timestamp": "2026-10-30 09:00:15",
       "name": "Kuroboros' Priest"
+    },
+    {
+      "name": "Kuroboros' Priest",
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-31 17:00:16"
     }
   ],
   "25738": [
@@ -8899,6 +8923,12 @@
       "state": "no",
       "timestamp": "2026-10-30 09:00:15",
       "name": "Serpent Demon Bifrons"
+    },
+    {
+      "name": "Serpent Demon Bifrons",
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-31 17:00:16"
     }
   ],
   "25372": [
