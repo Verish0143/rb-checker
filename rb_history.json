@@ -4519,6 +4519,12 @@
       "level": "61",
       "state": "no",
       "timestamp": "2026-10-30 18:40:17"
+    },
+    {
+      "name": "Fairy Queen Timiniel",
+      "level": "61",
+      "state": "yes",
+      "timestamp": "2026-10-31 09:40:59"
     }
   ],
   "25766": [
@@ -8883,6 +8889,12 @@
       "level": "59",
       "state": "no",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Demon Kuri",
+      "level": "59",
+      "state": "yes",
+      "timestamp": "2026-10-31 09:40:59"
     }
   ],
   "25182": [
@@ -8991,6 +9003,12 @@
       "level": "37",
       "state": "yes",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Rayito the Looter",
+      "level": "37",
+      "state": "no",
+      "timestamp": "2026-10-31 09:40:59"
     }
   ],
   "25506": [
