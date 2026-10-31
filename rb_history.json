@@ -7507,6 +7507,12 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-10-31 18:40:15"
+    },
+    {
+      "name": "Vuku Grand Seer Gharmash",
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-10-31 19:40:15"
     }
   ],
   "25392": [
@@ -8321,6 +8327,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-31 19:00:16"
+    },
+    {
+      "name": "Pan Dryad",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-10-31 19:40:15"
     }
   ],
   "25076": [
@@ -9829,6 +9841,12 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-30 13:20:18"
+    },
+    {
+      "name": "Sukar Wererat Chief",
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-10-31 19:40:15"
     }
   ],
   "25741": [
