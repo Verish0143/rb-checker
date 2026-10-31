@@ -719,6 +719,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-31 04:20:41"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-31 05:00:17"
     }
   ],
   "25544": [
@@ -995,6 +1001,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-31 02:20:19"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-31 05:00:17"
     }
   ],
   "25536": [
@@ -1745,6 +1757,12 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-10-30 10:40:18"
+    },
+    {
+      "name": "Longhorn Golkonda",
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-10-31 05:00:17"
     }
   ],
   "25143": [
@@ -2005,6 +2023,12 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-10-30 21:40:15"
+    },
+    {
+      "name": "Flamestone Giant",
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-10-31 05:00:17"
     }
   ],
   "25703": [
@@ -3071,6 +3095,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-10-31 04:00:16"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-10-31 05:00:17"
     }
   ],
   "25447": [
