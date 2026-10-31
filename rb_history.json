@@ -851,6 +851,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-31 14:00:17"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-31 22:20:43"
     }
   ],
   "25544": [
@@ -1175,6 +1181,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-10-31 17:20:17"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-10-31 22:20:43"
     }
   ],
   "25536": [
@@ -5063,6 +5075,12 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-31 09:00:17"
+    },
+    {
+      "name": "Ghost of the Well Lidia",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-31 22:20:43"
     }
   ],
   "25179": [
@@ -5695,6 +5713,12 @@
       "level": "55",
       "state": "no",
       "timestamp": "2026-10-30 13:40:19"
+    },
+    {
+      "name": "Eva's Spirit Niniel",
+      "level": "55",
+      "state": "yes",
+      "timestamp": "2026-10-31 22:20:43"
     }
   ],
   "25010": [
