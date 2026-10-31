@@ -657,6 +657,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-10-31 15:40:16"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-10-31 17:40:58"
     }
   ],
   "25684": [
@@ -2325,6 +2331,12 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-10-31 17:20:17"
+    },
+    {
+      "name": "Gigantic Golem",
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-10-31 17:40:58"
     }
   ],
   "25205": [
@@ -2419,6 +2431,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-31 15:40:16"
+    },
+    {
+      "name": "Bloody Empress Decarbia",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-31 17:40:58"
     }
   ],
   "25276": [
@@ -2575,6 +2593,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-31 16:00:28"
+    },
+    {
+      "name": "Last Lesser Giant Olkuth",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-10-31 17:40:58"
     }
   ],
   "25249": [
@@ -7173,6 +7197,12 @@
       "level": "34",
       "state": "yes",
       "timestamp": "2026-10-31 17:20:17"
+    },
+    {
+      "name": "Cronos's Servitor Mumu",
+      "level": "34",
+      "state": "no",
+      "timestamp": "2026-10-31 17:40:58"
     }
   ],
   "25383": [
