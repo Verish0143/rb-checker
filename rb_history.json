@@ -1153,6 +1153,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-30 15:20:19"
+    },
+    {
+      "name": "Andreas Van Halter",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-31 09:00:17"
     }
   ],
   "25319": [
@@ -3221,6 +3227,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-10-31 08:00:26"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-10-31 09:00:17"
     }
   ],
   "25447": [
@@ -3289,6 +3301,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-10-30 09:40:17"
+    },
+    {
+      "name": "Immortal Savior Mardil",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-10-31 09:00:17"
     }
   ],
   "25281": [
@@ -4667,6 +4685,12 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-31 07:20:15"
+    },
+    {
+      "name": "Ghost of the Well Lidia",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-10-31 09:00:17"
     }
   ],
   "25179": [
@@ -5879,6 +5903,12 @@
       "state": "yes",
       "timestamp": "2026-10-29 02:32:35",
       "name": "Leto Chief Talkin"
+    },
+    {
+      "name": "Leto Chief Talkin",
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-31 09:00:17"
     }
   ],
   "25415": [
@@ -6063,6 +6093,12 @@
       "state": "yes",
       "timestamp": "2026-10-28 18:56:54",
       "name": "Wizard of Storm Teruk"
+    },
+    {
+      "name": "Wizard of Storm Teruk",
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-31 09:00:17"
     }
   ],
   "25082": [
