@@ -193,6 +193,12 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-30 14:00:19"
+    },
+    {
+      "name": "Darion",
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-10-31 07:40:16"
     }
   ],
   "25671": [
@@ -603,6 +609,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-31 06:40:16"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-31 07:40:16"
     }
   ],
   "25684": [
@@ -6671,6 +6683,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-31 07:00:17"
+    },
+    {
+      "name": "Tasaba Patriarch Hellena",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-10-31 07:40:16"
     }
   ],
   "25020": [
@@ -6819,6 +6837,12 @@
       "state": "yes",
       "timestamp": "2026-10-28 18:56:54",
       "name": "Corsair Captain Kylon"
+    },
+    {
+      "name": "Corsair Captain Kylon",
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-10-31 07:40:16"
     }
   ],
   "25391": [
@@ -8891,6 +8915,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-30 14:20:20"
+    },
+    {
+      "name": "Betrayer of Urutu Freki",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-10-31 07:40:16"
     }
   ],
   "25426": [
