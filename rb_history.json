@@ -773,6 +773,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-31 06:20:16"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-31 10:20:27"
     }
   ],
   "25544": [
@@ -3313,6 +3319,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-10-31 09:00:17"
+    },
+    {
+      "name": "Immortal Savior Mardil",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-10-31 10:20:27"
     }
   ],
   "25281": [
@@ -5895,6 +5907,12 @@
       "state": "yes",
       "timestamp": "2026-10-28 23:06:45",
       "name": "Icarus Sample 1"
+    },
+    {
+      "name": "Icarus Sample 1",
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-10-31 10:20:27"
     }
   ],
   "25134": [
@@ -6225,6 +6243,12 @@
       "state": "yes",
       "timestamp": "2026-10-23 19:33:01",
       "name": "Premo Prime"
+    },
+    {
+      "name": "Premo Prime",
+      "level": "38",
+      "state": "no",
+      "timestamp": "2026-10-31 10:20:27"
     }
   ],
   "25385": [
@@ -6271,6 +6295,12 @@
       "state": "yes",
       "timestamp": "2026-10-28 23:06:45",
       "name": "Sebek"
+    },
+    {
+      "name": "Sebek",
+      "level": "36",
+      "state": "no",
+      "timestamp": "2026-10-31 10:20:27"
     }
   ],
   "25398": [
