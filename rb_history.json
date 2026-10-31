@@ -5157,6 +5157,12 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-30 18:20:15"
+    },
+    {
+      "name": "Lord Ishka",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-10-31 20:20:24"
     }
   ],
   "25256": [
@@ -8777,6 +8783,12 @@
       "state": "no",
       "timestamp": "2026-10-30 09:00:15",
       "name": "Lead Tracker Sharuk"
+    },
+    {
+      "name": "Lead Tracker Sharuk",
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-10-31 20:20:24"
     }
   ],
   "25362": [
