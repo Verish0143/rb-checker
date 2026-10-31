@@ -1133,6 +1133,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-10-31 14:40:16"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-10-31 15:01:58"
     }
   ],
   "25536": [
@@ -3787,6 +3793,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-30 10:00:16"
+    },
+    {
+      "name": "Palibati Queen Themis",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-10-31 15:01:58"
     }
   ],
   "25163": [
@@ -6555,6 +6567,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-30 21:40:15"
+    },
+    {
+      "name": "Beleth's Eye",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-31 15:01:58"
     }
   ],
   "25063": [
