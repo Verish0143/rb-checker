@@ -2551,6 +2551,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-30 21:00:17"
+    },
+    {
+      "name": "Last Lesser Giant Olkuth",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-31 16:00:28"
     }
   ],
   "25249": [
@@ -3395,6 +3401,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-10-31 12:40:27"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-10-31 16:00:28"
     }
   ],
   "25447": [
