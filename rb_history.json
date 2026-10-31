@@ -2765,6 +2765,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-30 21:00:17"
+    },
+    {
+      "name": "Storm Winged Naga",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-10-31 21:00:58"
     }
   ],
   "25202": [
@@ -3479,6 +3485,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-10-31 20:00:16"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-10-31 21:00:58"
     }
   ],
   "25447": [
@@ -4659,6 +4671,12 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-30 19:20:17"
+    },
+    {
+      "name": "Shilen's Priest Hisilrome",
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-10-31 21:00:58"
     }
   ],
   "25226": [
@@ -7205,6 +7223,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-31 07:40:16"
+    },
+    {
+      "name": "Tasaba Patriarch Hellena",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-31 21:00:58"
     }
   ],
   "25020": [
@@ -9543,6 +9567,12 @@
       "level": "50",
       "state": "yes",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Carnage Lord Gato",
+      "level": "50",
+      "state": "no",
+      "timestamp": "2026-10-31 21:00:58"
     }
   ],
   "25770": [
@@ -9557,6 +9587,12 @@
       "level": "49",
       "state": "yes",
       "timestamp": "2026-10-30 17:20:18"
+    },
+    {
+      "name": "Ketra Commander Atis",
+      "level": "49",
+      "state": "no",
+      "timestamp": "2026-10-31 21:00:58"
     }
   ],
   "25026": [
