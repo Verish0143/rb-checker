@@ -639,6 +639,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-31 13:20:15"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-10-31 14:20:29"
     }
   ],
   "25684": [
@@ -1629,6 +1635,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-10-31 04:40:16"
+    },
+    {
+      "name": "Uruka",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-10-31 14:20:29"
     }
   ],
   "25315": [
@@ -2011,6 +2023,12 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-10-31 13:40:57"
+    },
+    {
+      "name": "Fire of Wrath Shuriel",
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-10-31 14:20:29"
     }
   ],
   "25293": [
@@ -6823,6 +6841,12 @@
       "state": "no",
       "timestamp": "2026-10-30 08:20:17",
       "name": "Guillotine Warden"
+    },
+    {
+      "name": "Guillotine Warden",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-10-31 14:20:29"
     }
   ],
   "25118": [
@@ -8959,6 +8983,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-30 21:40:15"
+    },
+    {
+      "name": "Ketra's Hero Hekaton",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-10-31 14:20:29"
     }
   ],
   "25299": [
