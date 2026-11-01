@@ -499,6 +499,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-01 22:00:56"
+    },
+    {
+      "name": "Gwindorr",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-01 23:20:17"
     }
   ],
   "25687": [
@@ -1433,6 +1439,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-01 21:40:27"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-01 23:20:17"
     }
   ],
   "25536": [
@@ -3727,6 +3739,12 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-01 23:00:19"
+    },
+    {
+      "name": "Vanor Chief Kandra",
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-01 23:20:17"
     }
   ],
   "25199": [
@@ -4707,6 +4725,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-01 21:40:27"
+    },
+    {
+      "name": "Roaring Skylancer",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-01 23:20:17"
     }
   ],
   "25035": [
@@ -11279,6 +11303,12 @@
       "level": "37",
       "state": "yes",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Rayito the Looter",
+      "level": "37",
+      "state": "no",
+      "timestamp": "2026-11-01 23:20:17"
     }
   ],
   "25757": [
