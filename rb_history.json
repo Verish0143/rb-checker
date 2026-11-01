@@ -699,6 +699,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-31 23:20:15"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-01 00:20:16"
     }
   ],
   "25684": [
@@ -6633,6 +6639,12 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-10-31 09:00:17"
+    },
+    {
+      "name": "Wizard of Storm Teruk",
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-11-01 00:20:16"
     }
   ],
   "25082": [
