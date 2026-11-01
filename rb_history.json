@@ -7861,6 +7861,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-01 10:40:27"
+    },
+    {
+      "name": "Remmel",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-01 14:00:17"
     }
   ],
   "25098": [
@@ -9013,6 +9019,12 @@
       "level": "26",
       "state": "no",
       "timestamp": "2026-10-31 12:20:25"
+    },
+    {
+      "name": "Patriarch Kuroboros",
+      "level": "26",
+      "state": "yes",
+      "timestamp": "2026-11-01 14:00:17"
     }
   ],
   "25360": [
