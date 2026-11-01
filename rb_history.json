@@ -3689,6 +3689,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-01 04:00:18"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-01 05:00:17"
     }
   ],
   "25447": [
@@ -9709,6 +9715,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-30 23:20:18"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-01 05:00:17"
     }
   ],
   "25794": [
@@ -9781,6 +9793,12 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-10-31 12:40:27"
+    },
+    {
+      "name": "Doom Blade Tanatos",
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-01 05:00:17"
     }
   ],
   "25248": [
