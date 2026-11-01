@@ -1089,6 +1089,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-10-31 23:40:17"
+    },
+    {
+      "name": "Giant Marpanak",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-01 09:00:26"
     }
   ],
   "25681": [
@@ -3731,6 +3737,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-01 08:00:18"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-01 09:00:26"
     }
   ],
   "25447": [
