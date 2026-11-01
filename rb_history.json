@@ -723,6 +723,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-01 09:20:16"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-01 10:20:27"
     }
   ],
   "25684": [
@@ -7295,6 +7301,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-01 01:20:17"
+    },
+    {
+      "name": "Chertuba of Great Soul",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-01 10:20:27"
     }
   ],
   "25754": [
@@ -7499,6 +7511,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-01 07:40:18"
+    },
+    {
+      "name": "Gargoyle Lord Sirocco",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-01 10:20:27"
     }
   ],
   "25753": [
@@ -8313,6 +8331,12 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-10-31 14:40:16"
+    },
+    {
+      "name": "Boss Akata",
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-11-01 10:20:27"
     }
   ],
   "25079": [
@@ -10167,6 +10191,12 @@
       "level": "59",
       "state": "no",
       "timestamp": "2026-10-31 18:40:15"
+    },
+    {
+      "name": "Demon Kuri",
+      "level": "59",
+      "state": "yes",
+      "timestamp": "2026-11-01 10:20:27"
     }
   ],
   "25182": [
