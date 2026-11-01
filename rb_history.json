@@ -1553,6 +1553,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-31 22:40:24"
+    },
+    {
+      "name": "Gordon",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-01 11:02:00"
     }
   ],
   "25305": [
@@ -1907,6 +1913,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-31 04:40:16"
+    },
+    {
+      "name": "Varka's Chief Horus",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-01 11:02:00"
     }
   ],
   "25312": [
@@ -7787,6 +7799,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-10-31 21:00:58"
+    },
+    {
+      "name": "Tasaba Patriarch Hellena",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-01 11:02:00"
     }
   ],
   "25020": [
