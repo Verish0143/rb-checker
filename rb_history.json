@@ -1013,6 +1013,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-01 19:00:15"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-01 21:20:17"
     }
   ],
   "25544": [
@@ -1403,6 +1409,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-01 21:00:27"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-01 21:20:17"
     }
   ],
   "25536": [
@@ -1593,6 +1605,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-01 19:00:15"
+    },
+    {
+      "name": "Ember",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-01 21:20:17"
     }
   ],
   "29095": [
@@ -2585,6 +2603,12 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-11-01 04:00:18"
+    },
+    {
+      "name": "Last Lesser Giant Glaki",
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-11-01 21:20:17"
     }
   ],
   "25524": [
@@ -8333,6 +8357,12 @@
       "level": "34",
       "state": "yes",
       "timestamp": "2026-11-01 18:20:16"
+    },
+    {
+      "name": "Revenant of Sir Calibus",
+      "level": "34",
+      "state": "no",
+      "timestamp": "2026-11-01 21:20:17"
     }
   ],
   "25023": [
@@ -8365,6 +8395,12 @@
       "level": "34",
       "state": "no",
       "timestamp": "2026-10-31 11:20:17"
+    },
+    {
+      "name": "Stakato Queen Zyrnna",
+      "level": "34",
+      "state": "yes",
+      "timestamp": "2026-11-01 21:20:17"
     }
   ],
   "25404": [
@@ -8779,6 +8815,12 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-11-01 17:20:16"
+    },
+    {
+      "name": "Beleth's Agent, Meana",
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-11-01 21:20:17"
     }
   ],
   "25501": [
@@ -11127,6 +11169,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-01 18:20:16"
+    },
+    {
+      "name": "Soul Collector Acheron",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-01 21:20:17"
     }
   ],
   "25779": [
