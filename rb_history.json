@@ -1345,6 +1345,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-31 14:00:17"
+    },
+    {
+      "name": "Andreas Van Halter",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-01 03:20:17"
     }
   ],
   "25319": [
@@ -3835,6 +3841,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-31 12:20:25"
+    },
+    {
+      "name": "Fafurion's Herald Lokness",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-01 03:20:17"
     }
   ],
   "25325": [
