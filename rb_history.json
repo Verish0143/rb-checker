@@ -899,6 +899,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-10-31 23:00:17"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-01 05:20:29"
     }
   ],
   "25544": [
@@ -9721,6 +9727,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-01 05:00:17"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-01 05:20:29"
     }
   ],
   "25794": [
