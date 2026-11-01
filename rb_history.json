@@ -765,6 +765,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-01 15:20:16"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-01 16:20:17"
     }
   ],
   "25684": [
@@ -1337,6 +1343,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-10-31 22:40:24"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-01 16:20:17"
     }
   ],
   "25536": [
@@ -3953,6 +3965,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-01 16:00:28"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-01 16:20:17"
     }
   ],
   "25447": [
@@ -4139,6 +4157,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-31 20:00:16"
+    },
+    {
+      "name": "Beast Lord Behemoth",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-01 16:20:17"
     }
   ],
   "25198": [
@@ -4257,6 +4281,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-01 15:40:26"
+    },
+    {
+      "name": "Flame of Splendor Barakiel",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-01 16:20:17"
     }
   ],
   "25092": [
@@ -8729,6 +8759,12 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-10-31 20:00:16"
+    },
+    {
+      "name": "Cat's Eye Bandit",
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-11-01 16:20:17"
     }
   ],
   "25352": [
@@ -10131,6 +10167,12 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-10-30 21:00:17"
+    },
+    {
+      "name": "Discarded Guardian",
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-01 16:20:17"
     }
   ],
   "25378": [
@@ -11119,6 +11161,12 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-10-31 19:40:15"
+    },
+    {
+      "name": "Sukar Wererat Chief",
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-01 16:20:17"
     }
   ],
   "25741": [
