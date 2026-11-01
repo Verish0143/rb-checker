@@ -717,6 +717,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-01 00:20:16"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-01 09:20:16"
     }
   ],
   "25684": [
@@ -1095,6 +1101,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-01 09:00:26"
+    },
+    {
+      "name": "Giant Marpanak",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-01 09:20:16"
     }
   ],
   "25681": [
@@ -7327,6 +7339,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-01 03:40:26"
+    },
+    {
+      "name": "Fire Lord Shadar",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-01 09:20:16"
     }
   ],
   "25152": [
@@ -8571,6 +8589,12 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-11-01 07:00:16"
+    },
+    {
+      "name": "Partisan Leader Talakin",
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-11-01 09:20:16"
     }
   ],
   "25038": [
@@ -9305,6 +9329,12 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-31 20:20:24"
+    },
+    {
+      "name": "Lead Tracker Sharuk",
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-01 09:20:16"
     }
   ],
   "25362": [
@@ -10279,6 +10309,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-01 02:40:18"
+    },
+    {
+      "name": "Soul Collector Acheron",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-01 09:20:16"
     }
   ],
   "25223": [
