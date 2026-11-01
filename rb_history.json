@@ -419,6 +419,12 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-01 20:00:15"
+    },
+    {
+      "name": "Water Spirit Lian",
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-01 20:20:18"
     }
   ],
   "25674": [
@@ -10981,6 +10987,12 @@
       "level": "39",
       "state": "no",
       "timestamp": "2026-10-31 10:00:57"
+    },
+    {
+      "name": "Nellis' Vengeful Spirit",
+      "level": "39",
+      "state": "yes",
+      "timestamp": "2026-11-01 20:20:18"
     }
   ],
   "25784": [
