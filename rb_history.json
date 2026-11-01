@@ -2907,6 +2907,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-01 04:20:18"
+    },
+    {
+      "name": "Death Lord Ipos",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-01 18:20:16"
     }
   ],
   "25282": [
@@ -8225,6 +8231,12 @@
       "level": "34",
       "state": "no",
       "timestamp": "2026-10-31 08:20:26"
+    },
+    {
+      "name": "Revenant of Sir Calibus",
+      "level": "34",
+      "state": "yes",
+      "timestamp": "2026-11-01 18:20:16"
     }
   ],
   "25023": [
@@ -10853,6 +10865,12 @@
       "level": "45",
       "state": "no",
       "timestamp": "2026-10-31 10:40:57"
+    },
+    {
+      "name": "Beacon of Blue Sky",
+      "level": "45",
+      "state": "yes",
+      "timestamp": "2026-11-01 18:20:16"
     }
   ],
   "25776": [
@@ -10977,6 +10995,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-31 08:00:26"
+    },
+    {
+      "name": "Soul Collector Acheron",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-01 18:20:16"
     }
   ],
   "25779": [
