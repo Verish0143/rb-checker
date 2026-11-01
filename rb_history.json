@@ -1415,6 +1415,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-11-01 21:20:17"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-01 21:40:27"
     }
   ],
   "25536": [
@@ -4647,6 +4653,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-31 13:00:16"
+    },
+    {
+      "name": "Roaring Skylancer",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-01 21:40:27"
     }
   ],
   "25035": [
@@ -8073,6 +8085,12 @@
       "state": "yes",
       "timestamp": "2026-10-21 20:05:00",
       "name": "Guilotine, Warden of the Execution Grounds"
+    },
+    {
+      "name": "Guilotine, Warden of the Execution Grounds",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-01 21:40:27"
     }
   ],
   "25388": [
@@ -8629,6 +8647,12 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-11-01 21:00:27"
+    },
+    {
+      "name": "Vuku Grand Seer Gharmash",
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-11-01 21:40:27"
     }
   ],
   "25392": [
@@ -9539,6 +9563,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-31 19:40:15"
+    },
+    {
+      "name": "Pan Dryad",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-01 21:40:27"
     }
   ],
   "25076": [
