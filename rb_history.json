@@ -4067,6 +4067,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-31 13:00:16"
+    },
+    {
+      "name": "Korim",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-01 07:40:18"
     }
   ],
   "25252": [
@@ -7379,6 +7385,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-30 22:00:05"
+    },
+    {
+      "name": "Gargoyle Lord Sirocco",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-01 07:40:18"
     }
   ],
   "25753": [
@@ -10409,6 +10421,12 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-10-31 08:20:26"
+    },
+    {
+      "name": "Greyclaw Kutus",
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-11-01 07:40:18"
     }
   ],
   "25357": [
