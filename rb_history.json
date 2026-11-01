@@ -7441,6 +7441,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-31 15:40:16"
+    },
+    {
+      "name": "Guillotine Warden",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-01 07:00:16"
     }
   ],
   "25118": [
@@ -8481,6 +8487,12 @@
       "level": "28",
       "state": "no",
       "timestamp": "2026-10-31 07:00:17"
+    },
+    {
+      "name": "Partisan Leader Talakin",
+      "level": "28",
+      "state": "yes",
+      "timestamp": "2026-11-01 07:00:16"
     }
   ],
   "25038": [
@@ -9747,6 +9759,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-01 06:20:16"
+    },
+    {
+      "name": "Ketra's Hero Hekaton",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-01 07:00:16"
     }
   ],
   "25790": [
@@ -9837,6 +9855,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-31 21:40:17"
+    },
+    {
+      "name": "Kernon",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-01 07:00:16"
     }
   ],
   "25054": [
