@@ -2627,6 +2627,12 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-11-01 21:20:17"
+    },
+    {
+      "name": "Last Lesser Giant Glaki",
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-01 23:00:19"
     }
   ],
   "25524": [
@@ -3121,6 +3127,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-01 16:40:17"
+    },
+    {
+      "name": "Last Lesser Giant Olkuth",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-01 23:00:19"
     }
   ],
   "25249": [
@@ -3709,6 +3721,12 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-10-31 12:20:25"
+    },
+    {
+      "name": "Vanor Chief Kandra",
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-01 23:00:19"
     }
   ],
   "25199": [
@@ -6151,6 +6169,12 @@
       "state": "yes",
       "timestamp": "2026-10-29 23:00:17",
       "name": "The 3rd Underwater Guardian"
+    },
+    {
+      "name": "The 3rd Underwater Guardian",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-01 23:00:19"
     }
   ],
   "25238": [
@@ -7755,6 +7779,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-31 15:20:15"
+    },
+    {
+      "name": "Beleth's Eye",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-01 23:00:19"
     }
   ],
   "25063": [
@@ -9457,6 +9487,12 @@
       "level": "26",
       "state": "yes",
       "timestamp": "2026-11-01 14:00:17"
+    },
+    {
+      "name": "Patriarch Kuroboros",
+      "level": "26",
+      "state": "no",
+      "timestamp": "2026-11-01 23:00:19"
     }
   ],
   "25360": [
@@ -10911,6 +10947,12 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-01 17:20:16"
+    },
+    {
+      "name": "Doom Blade Tanatos",
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-01 23:00:19"
     }
   ],
   "25797": [
