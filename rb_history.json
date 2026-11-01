@@ -7287,6 +7287,12 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-11-01 07:20:18"
+    },
+    {
+      "name": "Road Scavenger Leader",
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-11-01 22:20:16"
     }
   ],
   "25155": [
@@ -7557,6 +7563,12 @@
       "level": "38",
       "state": "no",
       "timestamp": "2026-10-31 10:20:27"
+    },
+    {
+      "name": "Premo Prime",
+      "level": "38",
+      "state": "yes",
+      "timestamp": "2026-11-01 22:20:16"
     }
   ],
   "25385": [
@@ -9067,6 +9079,12 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-10-31 09:20:17"
+    },
+    {
+      "name": "Giant Wasteland Basilisk",
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-11-01 22:20:16"
     }
   ],
   "25169": [
@@ -11209,6 +11227,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-01 22:00:56"
+    },
+    {
+      "name": "Soul Collector Acheron",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-01 22:20:16"
     }
   ],
   "25223": [
