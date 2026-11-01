@@ -1573,6 +1573,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-01 00:00:18"
+    },
+    {
+      "name": "Ketra's Chief Brakki",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-01 04:00:18"
     }
   ],
   "25302": [
@@ -2309,6 +2315,12 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-11-01 01:00:16"
+    },
+    {
+      "name": "Last Lesser Giant Glaki",
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-01 04:00:18"
     }
   ],
   "25524": [
@@ -3641,6 +3653,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-01 01:00:16"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-01 04:00:18"
     }
   ],
   "25447": [
