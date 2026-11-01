@@ -5115,6 +5115,12 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-30 18:00:17"
+    },
+    {
+      "name": "Ancient Drake",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-01 01:20:17"
     }
   ],
   "25106": [
@@ -7001,6 +7007,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-30 21:00:17"
+    },
+    {
+      "name": "Chertuba of Great Soul",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-01 01:20:17"
     }
   ],
   "25754": [
