@@ -959,6 +959,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-01 14:20:16"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-01 15:00:17"
     }
   ],
   "25544": [
@@ -9099,6 +9105,12 @@
       "level": "26",
       "state": "no",
       "timestamp": "2026-10-31 15:40:16"
+    },
+    {
+      "name": "Tiger Hornet",
+      "level": "26",
+      "state": "yes",
+      "timestamp": "2026-11-01 15:00:17"
     }
   ],
   "25019": [
