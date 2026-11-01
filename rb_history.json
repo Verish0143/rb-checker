@@ -741,6 +741,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-01 12:20:18"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-01 12:40:16"
     }
   ],
   "25684": [
@@ -2681,6 +2687,12 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-10-31 12:20:25"
+    },
+    {
+      "name": "Ocean Flame Ashakiel",
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-11-01 12:40:16"
     }
   ],
   "25266": [
@@ -4999,6 +5011,12 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-10-31 18:20:14"
+    },
+    {
+      "name": "Rahha",
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-11-01 12:40:16"
     }
   ],
   "25478": [
@@ -6809,6 +6827,12 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-11-01 06:20:16"
+    },
+    {
+      "name": "Leto Chief Talkin",
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-11-01 12:40:16"
     }
   ],
   "25415": [
@@ -9767,6 +9791,12 @@
       "state": "yes",
       "timestamp": "2026-10-30 07:20:15",
       "name": "Malex Herald of Dagoniel"
+    },
+    {
+      "name": "Malex Herald of Dagoniel",
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-01 12:40:16"
     }
   ],
   "25146": [
@@ -10355,6 +10385,12 @@
       "level": "59",
       "state": "no",
       "timestamp": "2026-10-31 21:40:17"
+    },
+    {
+      "name": "Demon Kuri",
+      "level": "59",
+      "state": "yes",
+      "timestamp": "2026-11-01 12:40:16"
     }
   ],
   "25767": [
@@ -10375,6 +10411,12 @@
       "level": "50",
       "state": "no",
       "timestamp": "2026-10-31 20:40:16"
+    },
+    {
+      "name": "Carnage Lord Gato",
+      "level": "50",
+      "state": "yes",
+      "timestamp": "2026-11-01 12:40:16"
     }
   ],
   "25131": [
@@ -10897,6 +10939,12 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-10-30 12:40:15"
+    },
+    {
+      "name": "Zombie Lord Ferkel",
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-01 12:40:16"
     }
   ]
 }
