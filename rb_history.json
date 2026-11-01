@@ -5269,6 +5269,12 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-31 08:40:16"
+    },
+    {
+      "name": "Guardian of the Statue of Giant Karum",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-01 02:00:15"
     }
   ],
   "25760": [
@@ -6523,6 +6529,12 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-10-31 08:40:16"
+    },
+    {
+      "name": "Nakondas",
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-11-01 02:00:15"
     }
   ],
   "25410": [
@@ -8795,6 +8807,12 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-10-31 13:00:16"
+    },
+    {
+      "name": "Langk Matriarch Rashkos",
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-11-01 02:00:15"
     }
   ],
   "25060": [
@@ -8881,6 +8899,12 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-10-30 14:20:20"
+    },
+    {
+      "name": "Unrequited Kael",
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-11-01 02:00:15"
     }
   ],
   "25366": [
