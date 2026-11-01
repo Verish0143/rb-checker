@@ -413,6 +413,12 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-31 23:40:17"
+    },
+    {
+      "name": "Water Spirit Lian",
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-11-01 20:00:15"
     }
   ],
   "25674": [
@@ -2469,6 +2475,12 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-11-01 17:00:17"
+    },
+    {
+      "name": "Hestia, Guardian Deity of the Hot Springs",
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-01 20:00:15"
     }
   ],
   "25245": [
@@ -4037,6 +4049,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-01 16:20:17"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-01 20:00:15"
     }
   ],
   "25447": [
@@ -6131,6 +6149,12 @@
       "level": "59",
       "state": "no",
       "timestamp": "2026-10-31 08:20:26"
+    },
+    {
+      "name": "Soulless Wild Boar",
+      "level": "59",
+      "state": "yes",
+      "timestamp": "2026-11-01 20:00:15"
     }
   ],
   "25032": [
@@ -7379,6 +7403,12 @@
       "level": "39",
       "state": "no",
       "timestamp": "2026-10-31 08:40:16"
+    },
+    {
+      "name": "Leader of Cat Gang",
+      "level": "39",
+      "state": "yes",
+      "timestamp": "2026-11-01 20:00:15"
     }
   ],
   "25170": [
