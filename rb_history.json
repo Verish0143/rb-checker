@@ -487,6 +487,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-01 08:40:16"
+    },
+    {
+      "name": "Gwindorr",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-01 22:00:56"
     }
   ],
   "25687": [
@@ -7475,6 +7481,12 @@
       "level": "39",
       "state": "yes",
       "timestamp": "2026-11-01 20:00:15"
+    },
+    {
+      "name": "Leader of Cat Gang",
+      "level": "39",
+      "state": "no",
+      "timestamp": "2026-11-01 22:00:56"
     }
   ],
   "25170": [
@@ -9465,6 +9477,12 @@
       "level": "26",
       "state": "yes",
       "timestamp": "2026-11-01 15:00:17"
+    },
+    {
+      "name": "Tiger Hornet",
+      "level": "26",
+      "state": "no",
+      "timestamp": "2026-11-01 22:00:56"
     }
   ],
   "25019": [
@@ -9569,6 +9587,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-01 21:40:27"
+    },
+    {
+      "name": "Pan Dryad",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-01 22:00:56"
     }
   ],
   "25076": [
@@ -11179,6 +11203,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-01 09:20:16"
+    },
+    {
+      "name": "Soul Collector Acheron",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-01 22:00:56"
     }
   ],
   "25223": [
@@ -11401,6 +11431,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-30 22:00:05"
+    },
+    {
+      "name": "Zombie Lord Crowl",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-01 22:00:56"
     }
   ],
   "25001": [
