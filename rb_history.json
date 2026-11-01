@@ -2251,6 +2251,12 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-10-31 14:20:29"
+    },
+    {
+      "name": "Fire of Wrath Shuriel",
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-11-01 09:40:18"
     }
   ],
   "25293": [
@@ -2541,6 +2547,12 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-10-31 17:40:58"
+    },
+    {
+      "name": "Gigantic Golem",
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-11-01 09:40:18"
     }
   ],
   "25205": [
@@ -7009,6 +7021,12 @@
       "level": "38",
       "state": "yes",
       "timestamp": "2026-11-01 02:40:18"
+    },
+    {
+      "name": "Lizardmen Leader Hellion",
+      "level": "38",
+      "state": "no",
+      "timestamp": "2026-11-01 09:40:18"
     }
   ],
   "25394": [
@@ -7537,6 +7555,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-01 07:00:16"
+    },
+    {
+      "name": "Guillotine Warden",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-01 09:40:18"
     }
   ],
   "25118": [
@@ -8109,6 +8133,12 @@
       "level": "32",
       "state": "yes",
       "timestamp": "2026-11-01 00:00:18"
+    },
+    {
+      "name": "Captain of Queen's Royal Guards",
+      "level": "32",
+      "state": "no",
+      "timestamp": "2026-11-01 09:40:18"
     }
   ],
   "25188": [
@@ -8923,6 +8953,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-30 17:20:18"
+    },
+    {
+      "name": "Princess Molrang",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-01 09:40:18"
     }
   ],
   "25369": [
@@ -10367,6 +10403,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-01 02:40:18"
+    },
+    {
+      "name": "Betrayer of Urutu Freki",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-01 09:40:18"
     }
   ],
   "25426": [
@@ -10529,6 +10571,12 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-01 07:40:18"
+    },
+    {
+      "name": "Greyclaw Kutus",
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-01 09:40:18"
     }
   ],
   "25357": [
@@ -10581,6 +10629,12 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-01 01:00:16"
+    },
+    {
+      "name": "Sukar Wererat Chief",
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-01 09:40:18"
     }
   ],
   "25750": [
