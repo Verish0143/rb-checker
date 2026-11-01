@@ -3707,6 +3707,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-01 05:00:17"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-01 08:00:18"
     }
   ],
   "25447": [
@@ -10325,6 +10331,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-31 07:00:17"
+    },
+    {
+      "name": "Ikuntai",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-01 08:00:18"
     }
   ],
   "25800": [
