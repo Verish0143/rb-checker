@@ -1363,6 +1363,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-01 03:20:17"
+    },
+    {
+      "name": "Andreas Van Halter",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-01 08:20:27"
     }
   ],
   "25319": [
@@ -3799,6 +3805,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-01 06:20:16"
+    },
+    {
+      "name": "Immortal Savior Mardil",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-01 08:20:27"
     }
   ],
   "25281": [
@@ -4159,6 +4171,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-31 15:20:15"
+    },
+    {
+      "name": "Palibati Queen Themis",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-01 08:20:27"
     }
   ],
   "25163": [
@@ -4295,6 +4313,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-31 12:40:27"
+    },
+    {
+      "name": "Shilen's Messenger Cabrio",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-01 08:20:27"
     }
   ],
   "25233": [
@@ -8051,6 +8075,12 @@
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33",
       "name": "Apepi"
+    },
+    {
+      "name": "Apepi",
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-11-01 08:20:27"
     }
   ],
   "25112": [
