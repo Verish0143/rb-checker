@@ -735,6 +735,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-01 11:20:19"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-01 12:20:18"
     }
   ],
   "25684": [
@@ -2103,6 +2109,12 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-10-31 11:40:27"
+    },
+    {
+      "name": "Cherub Galaxia",
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-11-01 12:20:18"
     }
   ],
   "25126": [
@@ -6853,6 +6865,12 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-11-01 02:00:15"
+    },
+    {
+      "name": "Nakondas",
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-11-01 12:20:18"
     }
   ],
   "25410": [
@@ -7023,6 +7041,12 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-11-01 00:20:16"
+    },
+    {
+      "name": "Wizard of Storm Teruk",
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-11-01 12:20:18"
     }
   ],
   "25082": [
@@ -7797,6 +7821,12 @@
       "state": "yes",
       "timestamp": "2026-10-28 13:17:47",
       "name": "Sejarr's Servitor"
+    },
+    {
+      "name": "Sejarr's Servitor",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-01 12:20:18"
     }
   ],
   "25185": [
@@ -8043,6 +8073,12 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-10-31 07:40:16"
+    },
+    {
+      "name": "Corsair Captain Kylon",
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-11-01 12:20:18"
     }
   ],
   "25391": [
