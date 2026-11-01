@@ -2637,6 +2637,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-30 21:00:17"
+    },
+    {
+      "name": "Death Lord Ipos",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-01 02:20:28"
     }
   ],
   "25282": [
@@ -6859,6 +6865,12 @@
       "level": "36",
       "state": "no",
       "timestamp": "2026-10-31 10:20:27"
+    },
+    {
+      "name": "Sebek",
+      "level": "36",
+      "state": "yes",
+      "timestamp": "2026-11-01 02:20:28"
     }
   ],
   "25398": [
