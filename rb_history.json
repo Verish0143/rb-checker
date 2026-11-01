@@ -3947,6 +3947,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-01 13:00:15"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-01 16:00:28"
     }
   ],
   "25447": [
@@ -4325,6 +4331,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-01 07:40:18"
+    },
+    {
+      "name": "Korim",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-01 16:00:28"
     }
   ],
   "25252": [
@@ -4559,6 +4571,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-01 08:20:27"
+    },
+    {
+      "name": "Shilen's Messenger Cabrio",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-01 16:00:28"
     }
   ],
   "25233": [
@@ -5843,6 +5861,12 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-10-31 18:40:15"
+    },
+    {
+      "name": "Taik High Prefect Arak",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-01 16:00:28"
     }
   ],
   "25016": [
@@ -10027,6 +10051,12 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-10-31 17:00:16"
+    },
+    {
+      "name": "Serpent Demon Bifrons",
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-01 16:00:28"
     }
   ],
   "25372": [
@@ -10319,6 +10349,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-01 15:40:26"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-01 16:00:28"
     }
   ],
   "25309": [
@@ -10531,6 +10567,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-10-31 16:20:17"
+    },
+    {
+      "name": "Meanas Anor",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-01 16:00:28"
     }
   ],
   "25763": [
@@ -10617,6 +10659,12 @@
       "level": "50",
       "state": "no",
       "timestamp": "2026-10-31 21:00:58"
+    },
+    {
+      "name": "Carnage Lord Gato",
+      "level": "50",
+      "state": "yes",
+      "timestamp": "2026-11-01 16:00:28"
     }
   ],
   "25770": [
