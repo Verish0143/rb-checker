@@ -2121,6 +2121,12 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-11-01 12:20:18"
+    },
+    {
+      "name": "Cherub Galaxia",
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-11-01 13:00:15"
     }
   ],
   "25126": [
@@ -3863,6 +3869,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-01 12:00:16"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-01 13:00:15"
     }
   ],
   "25447": [
@@ -10253,6 +10265,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-01 06:20:16"
+    },
+    {
+      "name": "Kernon",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-01 13:00:15"
     }
   ],
   "25793": [
@@ -10689,6 +10707,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Ikuntai",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-01 13:00:15"
     }
   ],
   "25744": [
