@@ -983,6 +983,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-01 15:00:17"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-01 19:00:15"
     }
   ],
   "25544": [
@@ -1545,6 +1551,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-31 07:20:15"
+    },
+    {
+      "name": "Ember",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-01 19:00:15"
     }
   ],
   "29095": [
