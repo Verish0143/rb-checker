@@ -2087,6 +2087,12 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-10-31 05:20:15"
+    },
+    {
+      "name": "Longhorn Golkonda",
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-11-01 01:00:16"
     }
   ],
   "25143": [
@@ -2291,6 +2297,12 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-10-31 04:40:16"
+    },
+    {
+      "name": "Last Lesser Giant Glaki",
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-11-01 01:00:16"
     }
   ],
   "25524": [
@@ -3611,6 +3623,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-01 00:00:18"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-01 01:00:16"
     }
   ],
   "25447": [
@@ -10137,6 +10155,12 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-10-30 16:00:19"
+    },
+    {
+      "name": "Sukar Wererat Chief",
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-01 01:00:16"
     }
   ],
   "25750": [
