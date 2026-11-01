@@ -2105,6 +2105,12 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-11-01 01:00:16"
+    },
+    {
+      "name": "Longhorn Golkonda",
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-11-01 04:20:18"
     }
   ],
   "25143": [
@@ -2413,6 +2419,12 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-10-31 23:20:15"
+    },
+    {
+      "name": "Flamestone Giant",
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-11-01 04:20:18"
     }
   ],
   "25703": [
@@ -2661,6 +2673,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-01 02:20:28"
+    },
+    {
+      "name": "Death Lord Ipos",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-01 04:20:18"
     }
   ],
   "25282": [
@@ -9595,6 +9613,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-31 14:40:16"
+    },
+    {
+      "name": "Ketra's Hero Hekaton",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-01 04:20:18"
     }
   ],
   "25299": [
