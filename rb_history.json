@@ -89,6 +89,12 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-31 06:40:16"
+    },
+    {
+      "name": "Anais",
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-11-01 22:40:16"
     }
   ],
   "25603": [
@@ -2725,6 +2731,12 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-11-01 18:40:16"
+    },
+    {
+      "name": "Flamestone Giant",
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-11-01 22:40:16"
     }
   ],
   "25703": [
@@ -3009,6 +3021,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-01 18:20:16"
+    },
+    {
+      "name": "Death Lord Ipos",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-01 22:40:16"
     }
   ],
   "25282": [
@@ -3177,6 +3195,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-01 16:40:17"
+    },
+    {
+      "name": "Menacing Palatanos",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-01 22:40:16"
     }
   ],
   "25229": [
@@ -6247,6 +6271,12 @@
       "state": "yes",
       "timestamp": "2026-10-28 13:17:47",
       "name": "Eva's Guardian Millenu"
+    },
+    {
+      "name": "Eva's Guardian Millenu",
+      "level": "58",
+      "state": "no",
+      "timestamp": "2026-11-01 22:40:16"
     }
   ],
   "25230": [
@@ -10991,6 +11021,12 @@
       "level": "59",
       "state": "yes",
       "timestamp": "2026-11-01 12:40:16"
+    },
+    {
+      "name": "Demon Kuri",
+      "level": "59",
+      "state": "no",
+      "timestamp": "2026-11-01 22:40:16"
     }
   ],
   "25767": [
@@ -11135,6 +11171,12 @@
       "level": "39",
       "state": "yes",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Nellis' Vengeful Spirit",
+      "level": "39",
+      "state": "no",
+      "timestamp": "2026-11-01 22:40:16"
     }
   ],
   "25782": [
@@ -11155,6 +11197,12 @@
       "level": "39",
       "state": "yes",
       "timestamp": "2026-11-01 20:20:18"
+    },
+    {
+      "name": "Nellis' Vengeful Spirit",
+      "level": "39",
+      "state": "no",
+      "timestamp": "2026-11-01 22:40:16"
     }
   ],
   "25784": [
