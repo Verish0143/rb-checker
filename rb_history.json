@@ -8653,6 +8653,12 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-10-31 07:20:15"
+    },
+    {
+      "name": "Beleth's Agent, Meana",
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-11-01 17:20:16"
     }
   ],
   "25501": [
@@ -9471,6 +9477,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-31 06:40:16"
+    },
+    {
+      "name": "Soul Scavenger",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-01 17:20:16"
     }
   ],
   "25127": [
@@ -10599,6 +10611,12 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-10-31 13:00:16"
+    },
+    {
+      "name": "Doom Blade Tanatos",
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-01 17:20:16"
     }
   ],
   "25797": [
@@ -11267,6 +11285,12 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-10-31 18:40:15"
+    },
+    {
+      "name": "Zombie Lord Ferkel",
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-11-01 17:20:16"
     }
   ],
   "25375": [
