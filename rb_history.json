@@ -445,6 +445,12 @@
       "state": "no",
       "timestamp": "2026-10-29 22:20:17",
       "name": "Gwindorr"
+    },
+    {
+      "name": "Gwindorr",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-01 04:40:15"
     }
   ],
   "25687": [
@@ -2933,6 +2939,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-10-31 21:00:58"
+    },
+    {
+      "name": "Storm Winged Naga",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-01 04:40:15"
     }
   ],
   "25202": [
@@ -9619,6 +9631,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-01 04:20:18"
+    },
+    {
+      "name": "Ketra's Hero Hekaton",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-01 04:40:15"
     }
   ],
   "25299": [
