@@ -205,6 +205,12 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-10-31 08:40:16"
+    },
+    {
+      "name": "Darion",
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-11-01 15:40:26"
     }
   ],
   "25671": [
@@ -4239,6 +4245,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-10-31 12:40:27"
+    },
+    {
+      "name": "Flame of Splendor Barakiel",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-01 15:40:26"
     }
   ],
   "25092": [
@@ -4399,6 +4411,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-01 08:20:27"
+    },
+    {
+      "name": "Palibati Queen Themis",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-01 15:40:26"
     }
   ],
   "25163": [
@@ -6081,6 +6099,12 @@
       "level": "57",
       "state": "no",
       "timestamp": "2026-10-31 21:20:58"
+    },
+    {
+      "name": "Timak Seer Ragoth",
+      "level": "57",
+      "state": "yes",
+      "timestamp": "2026-11-01 15:40:26"
     }
   ],
   "25463": [
@@ -8273,6 +8297,12 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-10-31 07:20:15"
+    },
+    {
+      "name": "Nurka's Messenger",
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-11-01 15:40:26"
     }
   ],
   "25128": [
@@ -9849,6 +9879,12 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-10-30 16:00:19"
+    },
+    {
+      "name": "Kaysha Herald of Icarus",
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-01 15:40:26"
     }
   ],
   "25373": [
@@ -10163,6 +10199,12 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-10-30 12:20:18"
+    },
+    {
+      "name": "Madness Beast",
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-01 15:40:26"
     }
   ],
   "25787": [
@@ -10271,6 +10313,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-31 12:00:18"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-01 15:40:26"
     }
   ],
   "25309": [
@@ -10399,6 +10447,12 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-01 05:00:17"
+    },
+    {
+      "name": "Doom Blade Tanatos",
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-01 15:40:26"
     }
   ],
   "25248": [
@@ -10445,6 +10499,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-01 13:20:15"
+    },
+    {
+      "name": "Meanas Anor",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-01 15:40:26"
     }
   ],
   "25453": [
@@ -10677,6 +10737,12 @@
       "level": "37",
       "state": "yes",
       "timestamp": "2026-10-31 23:40:17"
+    },
+    {
+      "name": "Rayito the Looter",
+      "level": "37",
+      "state": "no",
+      "timestamp": "2026-11-01 15:40:26"
     }
   ],
   "25506": [
