@@ -2257,6 +2257,12 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-11-01 09:40:18"
+    },
+    {
+      "name": "Fire of Wrath Shuriel",
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-01 10:00:27"
     }
   ],
   "25293": [
@@ -2553,6 +2559,12 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-11-01 09:40:18"
+    },
+    {
+      "name": "Gigantic Golem",
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-11-01 10:00:27"
     }
   ],
   "25205": [
@@ -7419,6 +7431,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-31 07:00:17"
+    },
+    {
+      "name": "Flame Lord Shadar",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-01 10:00:27"
     }
   ],
   "25354": [
@@ -10435,6 +10453,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-01 01:40:16"
+    },
+    {
+      "name": "Betrayer of Urutu Freki",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-01 10:00:27"
     }
   ],
   "25166": [
@@ -10469,6 +10493,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-01 08:00:18"
+    },
+    {
+      "name": "Ikuntai",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-01 10:00:27"
     }
   ],
   "25800": [
@@ -10483,6 +10513,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-31 10:00:57"
+    },
+    {
+      "name": "Mammon Collector Talos",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-01 10:00:27"
     }
   ],
   "25429": [
@@ -10497,6 +10533,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-31 01:20:16"
+    },
+    {
+      "name": "Mammon Collector Talos",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-01 10:00:27"
     }
   ],
   "25747": [
@@ -10511,6 +10553,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-10-31 21:40:17"
+    },
+    {
+      "name": "Zombie Lord Crowl",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-01 10:00:27"
     }
   ],
   "25149": [
