@@ -3171,6 +3171,12 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-10-31 12:00:18"
+    },
+    {
+      "name": "Death Lord Hallate",
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-11-01 06:40:29"
     }
   ],
   "25523": [
@@ -4369,6 +4375,12 @@
       "level": "69",
       "state": "yes",
       "timestamp": "2026-10-31 23:40:17"
+    },
+    {
+      "name": "Spirit of Andras, the Betrayer",
+      "level": "69",
+      "state": "no",
+      "timestamp": "2026-11-01 06:40:29"
     }
   ],
   "25263": [
@@ -4455,6 +4467,12 @@
       "level": "67",
       "state": "yes",
       "timestamp": "2026-11-01 00:40:18"
+    },
+    {
+      "name": "Kernon's Faithful Servant Kelone",
+      "level": "67",
+      "state": "no",
+      "timestamp": "2026-11-01 06:40:29"
     }
   ],
   "25322": [
@@ -6573,6 +6591,12 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-10-31 10:20:27"
+    },
+    {
+      "name": "Icarus Sample 1",
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-11-01 06:40:29"
     }
   ],
   "25134": [
