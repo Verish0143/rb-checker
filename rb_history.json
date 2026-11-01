@@ -3781,6 +3781,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-10-31 10:20:27"
+    },
+    {
+      "name": "Immortal Savior Mardil",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-01 06:20:16"
     }
   ],
   "25281": [
@@ -5303,6 +5309,12 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-10-31 22:20:43"
+    },
+    {
+      "name": "Ghost of the Well Lidia",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-01 06:20:16"
     }
   ],
   "25179": [
@@ -5365,6 +5377,12 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-01 02:00:15"
+    },
+    {
+      "name": "Guardian of the Statue of Giant Karum",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-01 06:20:16"
     }
   ],
   "25760": [
@@ -6581,6 +6599,12 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-10-31 09:00:17"
+    },
+    {
+      "name": "Leto Chief Talkin",
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-11-01 06:20:16"
     }
   ],
   "25415": [
@@ -9693,6 +9717,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-31 15:20:15"
+    },
+    {
+      "name": "Ketra's Hero Hekaton",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-01 06:20:16"
     }
   ],
   "25790": [
@@ -9809,6 +9839,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-31 11:40:27"
+    },
+    {
+      "name": "Kernon",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-01 06:20:16"
     }
   ],
   "25793": [
