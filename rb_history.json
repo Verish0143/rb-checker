@@ -1349,6 +1349,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-01 16:20:17"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-01 16:40:17"
     }
   ],
   "25536": [
@@ -2977,6 +2983,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-31 17:40:58"
+    },
+    {
+      "name": "Last Lesser Giant Olkuth",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-01 16:40:17"
     }
   ],
   "25249": [
@@ -3045,6 +3057,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-10-31 18:00:16"
+    },
+    {
+      "name": "Menacing Palatanos",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-01 16:40:17"
     }
   ],
   "25229": [
@@ -3615,6 +3633,12 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-01 15:20:16"
+    },
+    {
+      "name": "Water Dragon Seer Sheshark",
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-01 16:40:17"
     }
   ],
   "25328": [
@@ -4195,6 +4219,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-01 03:20:17"
+    },
+    {
+      "name": "Fafurion's Herald Lokness",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-01 16:40:17"
     }
   ],
   "25325": [
@@ -8765,6 +8795,12 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-11-01 16:20:17"
+    },
+    {
+      "name": "Cat's Eye Bandit",
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-11-01 16:40:17"
     }
   ],
   "25352": [
@@ -9705,6 +9741,12 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-10-31 17:00:16"
+    },
+    {
+      "name": "Kuroboros' Priest",
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-01 16:40:17"
     }
   ],
   "25738": [
