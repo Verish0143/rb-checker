@@ -6415,6 +6415,12 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-10-30 23:00:17"
+    },
+    {
+      "name": "Fafurion's Page Sika",
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-11-01 02:40:18"
     }
   ],
   "25115": [
@@ -6781,6 +6787,12 @@
       "level": "38",
       "state": "no",
       "timestamp": "2026-10-30 22:40:21"
+    },
+    {
+      "name": "Lizardmen Leader Hellion",
+      "level": "38",
+      "state": "yes",
+      "timestamp": "2026-11-01 02:40:18"
     }
   ],
   "25394": [
@@ -9967,6 +9979,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-10-31 11:40:27"
+    },
+    {
+      "name": "Soul Collector Acheron",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-01 02:40:18"
     }
   ],
   "25223": [
@@ -10013,6 +10031,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-10-31 08:00:26"
+    },
+    {
+      "name": "Betrayer of Urutu Freki",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-01 02:40:18"
     }
   ],
   "25426": [
