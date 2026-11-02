@@ -351,6 +351,12 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-02 20:40:27"
+    },
+    {
+      "name": "Queen Shyeed",
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-02 23:40:17"
     }
   ],
   "25677": [
@@ -915,6 +921,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-02 20:20:17"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-02 23:40:17"
     }
   ],
   "25684": [
@@ -1389,6 +1401,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-02 22:20:16"
+    },
+    {
+      "name": "Giant Marpanak",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-02 23:40:17"
     }
   ],
   "25681": [
@@ -2565,6 +2583,12 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-11-02 06:20:17"
+    },
+    {
+      "name": "Cherub Galaxia",
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-11-02 23:40:17"
     }
   ],
   "25126": [
@@ -9655,6 +9679,12 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-11-01 21:40:27"
+    },
+    {
+      "name": "Vuku Grand Seer Gharmash",
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-11-02 23:40:17"
     }
   ],
   "25392": [
@@ -13081,6 +13111,12 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-01 16:20:17"
+    },
+    {
+      "name": "Sukar Wererat Chief",
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-02 23:40:17"
     }
   ],
   "25741": [
