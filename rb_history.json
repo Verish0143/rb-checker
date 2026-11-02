@@ -1055,6 +1055,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-01 21:20:17"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-02 06:00:27"
     }
   ],
   "25544": [
@@ -1911,6 +1917,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-10-31 23:40:17"
+    },
+    {
+      "name": "Ketra's Commander Tayr",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-02 06:00:27"
     }
   ],
   "25283": [
@@ -8363,6 +8375,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-01 13:40:17"
+    },
+    {
+      "name": "Red Eye Captain Trakia",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-02 06:00:27"
     }
   ],
   "25041": [
