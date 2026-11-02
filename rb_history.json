@@ -1879,6 +1879,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-02 06:20:17"
+    },
+    {
+      "name": "Ketra's Chief Brakki",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-02 07:40:16"
     }
   ],
   "25302": [
@@ -5095,6 +5101,12 @@
       "level": "69",
       "state": "no",
       "timestamp": "2026-11-01 06:40:29"
+    },
+    {
+      "name": "Spirit of Andras, the Betrayer",
+      "level": "69",
+      "state": "yes",
+      "timestamp": "2026-11-02 07:40:16"
     }
   ],
   "25263": [
@@ -10493,6 +10505,12 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-02 06:20:17"
+    },
+    {
+      "name": "Lead Tracker Sharuk",
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-02 07:40:16"
     }
   ],
   "25362": [
@@ -11059,6 +11077,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-02 06:20:17"
+    },
+    {
+      "name": "Ketra's Hero Hekaton",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-02 07:40:16"
     }
   ],
   "25299": [
@@ -11097,6 +11121,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-02 07:20:17"
+    },
+    {
+      "name": "Ketra's Hero Hekaton",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-02 07:40:16"
     }
   ],
   "25790": [
@@ -12123,6 +12153,12 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-02 06:20:17"
+    },
+    {
+      "name": "Sukar Wererat Chief",
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-02 07:40:16"
     }
   ],
   "25750": [
