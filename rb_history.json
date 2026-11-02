@@ -1731,6 +1731,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-02 10:40:30"
+    },
+    {
+      "name": "Ember",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-02 11:20:17"
     }
   ],
   "29095": [
@@ -3083,6 +3089,12 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-11-02 03:00:24"
+    },
+    {
+      "name": "Ocean Flame Ashakiel",
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-11-02 11:20:17"
     }
   ],
   "25266": [
@@ -4531,6 +4543,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-02 06:20:17"
+    },
+    {
+      "name": "Immortal Savior Mardil",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-02 11:20:17"
     }
   ],
   "25281": [
@@ -8891,6 +8909,12 @@
       "level": "34",
       "state": "no",
       "timestamp": "2026-11-01 21:20:17"
+    },
+    {
+      "name": "Revenant of Sir Calibus",
+      "level": "34",
+      "state": "yes",
+      "timestamp": "2026-11-02 11:20:17"
     }
   ],
   "25023": [
@@ -10029,6 +10053,12 @@
       "level": "26",
       "state": "no",
       "timestamp": "2026-11-01 22:00:56"
+    },
+    {
+      "name": "Tiger Hornet",
+      "level": "26",
+      "state": "yes",
+      "timestamp": "2026-11-02 11:20:17"
     }
   ],
   "25019": [
@@ -11441,6 +11471,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-02 06:20:17"
+    },
+    {
+      "name": "Kernon",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-02 11:20:17"
     }
   ],
   "25793": [
