@@ -2903,6 +2903,12 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-11-01 23:00:19"
+    },
+    {
+      "name": "Last Lesser Giant Glaki",
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-11-02 18:20:30"
     }
   ],
   "25524": [
@@ -4965,6 +4971,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-02 18:00:18"
+    },
+    {
+      "name": "Flame of Splendor Barakiel",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-02 18:20:30"
     }
   ],
   "25092": [
@@ -5137,6 +5149,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-01 15:40:26"
+    },
+    {
+      "name": "Palibati Queen Themis",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-02 18:20:30"
     }
   ],
   "25163": [
@@ -11723,6 +11741,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-02 18:00:18"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-02 18:20:30"
     }
   ],
   "25309": [
@@ -12197,6 +12221,12 @@
       "level": "45",
       "state": "yes",
       "timestamp": "2026-11-01 18:20:16"
+    },
+    {
+      "name": "Beacon of Blue Sky",
+      "level": "45",
+      "state": "no",
+      "timestamp": "2026-11-02 18:20:30"
     }
   ],
   "25776": [
