@@ -4065,6 +4065,12 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-02 12:40:17"
+    },
+    {
+      "name": "Water Dragon Seer Sheshark",
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-02 13:01:01"
     }
   ],
   "25328": [
@@ -5055,6 +5061,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-01 23:20:17"
+    },
+    {
+      "name": "Roaring Skylancer",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-02 13:01:01"
     }
   ],
   "25035": [
@@ -9087,6 +9099,12 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-11-01 13:40:17"
+    },
+    {
+      "name": "Corsair Captain Kylon",
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-11-02 13:01:01"
     }
   ],
   "25391": [
@@ -11267,6 +11285,12 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-11-01 15:40:26"
+    },
+    {
+      "name": "Madness Beast",
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-11-02 13:01:01"
     }
   ],
   "25787": [
