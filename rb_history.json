@@ -2363,6 +2363,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-02 22:40:17"
+    },
+    {
+      "name": "Varka's Chief Horus",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-02 23:21:17"
     }
   ],
   "25312": [
@@ -11995,6 +12001,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-02 23:00:17"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-02 23:21:17"
     }
   ],
   "25794": [
