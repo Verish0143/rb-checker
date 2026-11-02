@@ -9723,6 +9723,12 @@
       "level": "28",
       "state": "no",
       "timestamp": "2026-11-01 09:20:16"
+    },
+    {
+      "name": "Partisan Leader Talakin",
+      "level": "28",
+      "state": "yes",
+      "timestamp": "2026-11-02 09:20:31"
     }
   ],
   "25038": [
@@ -11999,6 +12005,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-02 04:00:16"
+    },
+    {
+      "name": "Ikuntai",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-02 09:20:31"
     }
   ],
   "25800": [
