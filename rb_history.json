@@ -1823,6 +1823,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-01 11:20:19"
+    },
+    {
+      "name": "Gordon",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-02 11:00:20"
     }
   ],
   "25305": [
@@ -3127,6 +3133,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-02 02:40:18"
+    },
+    {
+      "name": "Bloody Empress Decarbia",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-02 11:00:20"
     }
   ],
   "25276": [
@@ -3515,6 +3527,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-02 06:20:17"
+    },
+    {
+      "name": "Storm Winged Naga",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-02 11:00:20"
     }
   ],
   "25202": [
@@ -7521,6 +7539,12 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-11-01 11:40:26"
+    },
+    {
+      "name": "Icarus Sample 1",
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-11-02 11:00:20"
     }
   ],
   "25134": [
@@ -11367,6 +11391,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-02 07:00:30"
+    },
+    {
+      "name": "Kernon",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-02 11:00:20"
     }
   ],
   "25054": [
