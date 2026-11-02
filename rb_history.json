@@ -3001,6 +3001,12 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-11-01 22:40:16"
+    },
+    {
+      "name": "Flamestone Giant",
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-11-02 17:00:18"
     }
   ],
   "25703": [
@@ -9029,6 +9035,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-02 15:20:17"
+    },
+    {
+      "name": "Tasaba Patriarch Hellena",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-02 17:00:18"
     }
   ],
   "25020": [
@@ -9093,6 +9105,12 @@
       "level": "34",
       "state": "yes",
       "timestamp": "2026-11-02 02:20:19"
+    },
+    {
+      "name": "Cronos's Servitor Mumu",
+      "level": "34",
+      "state": "no",
+      "timestamp": "2026-11-02 17:00:18"
     }
   ],
   "25383": [
@@ -9261,6 +9279,12 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-11-02 13:01:01"
+    },
+    {
+      "name": "Corsair Captain Kylon",
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-11-02 17:00:18"
     }
   ],
   "25391": [
