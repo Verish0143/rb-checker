@@ -535,6 +535,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-02 13:20:16"
+    },
+    {
+      "name": "Gwindorr",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-02 13:40:31"
     }
   ],
   "25687": [
@@ -1103,6 +1109,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-02 07:20:17"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-02 13:40:31"
     }
   ],
   "25544": [
