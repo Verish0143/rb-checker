@@ -873,6 +873,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-02 10:00:17"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-02 14:00:18"
     }
   ],
   "25684": [
@@ -1115,6 +1121,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-02 13:40:31"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-02 14:00:18"
     }
   ],
   "25544": [
@@ -2695,6 +2707,12 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-11-02 13:20:16"
+    },
+    {
+      "name": "Fire of Wrath Shuriel",
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-02 14:00:18"
     }
   ],
   "25293": [
@@ -6391,6 +6409,12 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-01 06:20:16"
+    },
+    {
+      "name": "Guardian of the Statue of Giant Karum",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-02 14:00:18"
     }
   ],
   "25760": [
