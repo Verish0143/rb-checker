@@ -3795,6 +3795,12 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-11-02 09:00:27"
+    },
+    {
+      "name": "Death Lord Hallate",
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-11-02 11:40:27"
     }
   ],
   "25523": [
@@ -6381,6 +6387,12 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-01 06:00:27"
+    },
+    {
+      "name": "Lord Ishka",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-02 11:40:27"
     }
   ],
   "25256": [
@@ -8683,6 +8695,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-01 14:00:17"
+    },
+    {
+      "name": "Remmel",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-02 11:40:27"
     }
   ],
   "25098": [
@@ -11515,6 +11533,12 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-02 06:20:17"
+    },
+    {
+      "name": "Doom Blade Tanatos",
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-02 11:40:27"
     }
   ],
   "25248": [
@@ -11585,6 +11609,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-02 07:20:17"
+    },
+    {
+      "name": "Meanas Anor",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-02 11:40:27"
     }
   ],
   "25453": [
