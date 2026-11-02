@@ -4959,6 +4959,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-01 16:20:17"
+    },
+    {
+      "name": "Flame of Splendor Barakiel",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-02 18:00:18"
     }
   ],
   "25092": [
@@ -9875,6 +9881,12 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-11-01 16:40:17"
+    },
+    {
+      "name": "Cat's Eye Bandit",
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-11-02 18:00:18"
     }
   ],
   "25352": [
@@ -10389,6 +10401,12 @@
       "level": "26",
       "state": "yes",
       "timestamp": "2026-11-02 11:20:17"
+    },
+    {
+      "name": "Tiger Hornet",
+      "level": "26",
+      "state": "no",
+      "timestamp": "2026-11-02 18:00:18"
     }
   ],
   "25019": [
@@ -10549,6 +10567,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-02 05:20:28"
+    },
+    {
+      "name": "Princess Molrang",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-02 18:00:18"
     }
   ],
   "25369": [
@@ -11693,6 +11717,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-01 16:00:28"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-02 18:00:18"
     }
   ],
   "25309": [
