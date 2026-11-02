@@ -9995,6 +9995,12 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-11-02 18:00:18"
+    },
+    {
+      "name": "Cat's Eye Bandit",
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-11-02 21:20:17"
     }
   ],
   "25352": [
@@ -12517,6 +12523,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-02 19:40:16"
+    },
+    {
+      "name": "Soul Collector Acheron",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-02 21:20:17"
     }
   ],
   "25223": [
