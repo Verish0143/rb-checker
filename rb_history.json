@@ -3701,6 +3701,12 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-11-01 13:20:15"
+    },
+    {
+      "name": "Plague Golem",
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-11-02 05:20:28"
     }
   ],
   "25235": [
@@ -8981,6 +8987,12 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-11-01 08:20:27"
+    },
+    {
+      "name": "Apepi",
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-11-02 05:20:28"
     }
   ],
   "25112": [
@@ -9877,6 +9889,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-01 09:40:18"
+    },
+    {
+      "name": "Princess Molrang",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-02 05:20:28"
     }
   ],
   "25369": [
