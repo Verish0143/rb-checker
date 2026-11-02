@@ -107,6 +107,12 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-02 06:20:17"
+    },
+    {
+      "name": "Anais",
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-02 08:40:17"
     }
   ],
   "25603": [
@@ -12035,6 +12041,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-02 06:20:17"
+    },
+    {
+      "name": "Zombie Lord Crowl",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-02 08:40:17"
     }
   ],
   "25149": [
