@@ -7919,6 +7919,12 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-11-02 12:20:31"
+    },
+    {
+      "name": "Leto Chief Talkin",
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-11-02 22:00:58"
     }
   ],
   "25415": [
@@ -8181,6 +8187,12 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-11-02 05:00:19"
+    },
+    {
+      "name": "Wizard of Storm Teruk",
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-11-02 22:00:58"
     }
   ],
   "25082": [
