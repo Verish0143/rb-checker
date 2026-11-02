@@ -4945,6 +4945,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-01 16:40:17"
+    },
+    {
+      "name": "Fafurion's Herald Lokness",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-02 23:00:17"
     }
   ],
   "25325": [
@@ -10105,6 +10111,12 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-11-02 10:40:30"
+    },
+    {
+      "name": "Giant Wasteland Basilisk",
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-11-02 23:00:17"
     }
   ],
   "25169": [
@@ -11977,6 +11989,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-02 09:00:27"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-02 23:00:17"
     }
   ],
   "25794": [
@@ -12405,6 +12423,12 @@
       "level": "45",
       "state": "no",
       "timestamp": "2026-11-01 12:00:16"
+    },
+    {
+      "name": "Beacon of Blue Sky",
+      "level": "45",
+      "state": "yes",
+      "timestamp": "2026-11-02 23:00:17"
     }
   ],
   "25773": [
@@ -12689,6 +12713,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-02 22:40:17"
+    },
+    {
+      "name": "Betrayer of Urutu Freki",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-02 23:00:17"
     }
   ],
   "25426": [
@@ -12905,6 +12935,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-02 21:40:28"
+    },
+    {
+      "name": "Zombie Lord Crowl",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-02 23:00:17"
     }
   ],
   "25149": [
