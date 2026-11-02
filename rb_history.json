@@ -2793,6 +2793,12 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-11-02 16:20:19"
+    },
+    {
+      "name": "Hestia, Guardian Deity of the Hot Springs",
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-02 16:40:15"
     }
   ],
   "25245": [
@@ -8693,6 +8699,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-02 10:00:17"
+    },
+    {
+      "name": "Gargoyle Lord Sirocco",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-02 16:40:15"
     }
   ],
   "25753": [
@@ -8887,6 +8899,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-02 11:40:27"
+    },
+    {
+      "name": "Remmel",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-02 16:40:15"
     }
   ],
   "25098": [
@@ -9163,6 +9181,12 @@
       "level": "34",
       "state": "yes",
       "timestamp": "2026-11-01 21:20:17"
+    },
+    {
+      "name": "Stakato Queen Zyrnna",
+      "level": "34",
+      "state": "no",
+      "timestamp": "2026-11-02 16:40:15"
     }
   ],
   "25404": [
@@ -10839,6 +10863,12 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-11-01 16:40:17"
+    },
+    {
+      "name": "Kuroboros' Priest",
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-11-02 16:40:15"
     }
   ],
   "25738": [
