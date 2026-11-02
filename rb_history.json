@@ -529,6 +529,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-01 23:20:17"
+    },
+    {
+      "name": "Gwindorr",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-02 13:20:16"
     }
   ],
   "25687": [
@@ -2671,6 +2677,12 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-11-01 10:00:27"
+    },
+    {
+      "name": "Fire of Wrath Shuriel",
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-11-02 13:20:16"
     }
   ],
   "25293": [
@@ -5067,6 +5079,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-02 13:01:01"
+    },
+    {
+      "name": "Roaring Skylancer",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-02 13:20:16"
     }
   ],
   "25035": [
@@ -12175,6 +12193,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-02 02:00:15"
+    },
+    {
+      "name": "Betrayer of Urutu Freki",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-02 13:20:16"
     }
   ],
   "25166": [
