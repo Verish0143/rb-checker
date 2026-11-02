@@ -2405,6 +2405,12 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-11-01 04:20:18"
+    },
+    {
+      "name": "Longhorn Golkonda",
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-11-02 00:00:16"
     }
   ],
   "25143": [
@@ -4193,6 +4199,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-01 21:00:27"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-02 00:00:16"
     }
   ],
   "25447": [
@@ -5915,6 +5927,12 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-01 06:20:16"
+    },
+    {
+      "name": "Ghost of the Well Lidia",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-02 00:00:16"
     }
   ],
   "25179": [
@@ -6743,6 +6761,12 @@
       "level": "55",
       "state": "no",
       "timestamp": "2026-10-31 21:20:58"
+    },
+    {
+      "name": "Sorcerer Isirr",
+      "level": "55",
+      "state": "yes",
+      "timestamp": "2026-11-02 00:00:16"
     }
   ],
   "25259": [
@@ -9965,6 +9989,12 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-11-01 10:40:27"
+    },
+    {
+      "name": "Langk Matriarch Rashkos",
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-11-02 00:00:16"
     }
   ],
   "25060": [
