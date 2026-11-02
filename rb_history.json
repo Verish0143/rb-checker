@@ -6375,6 +6375,12 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-02 06:20:17"
+    },
+    {
+      "name": "Ancient Drake",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-02 19:40:16"
     }
   ],
   "25106": [
@@ -12347,6 +12353,12 @@
       "level": "39",
       "state": "no",
       "timestamp": "2026-11-01 22:40:16"
+    },
+    {
+      "name": "Nellis' Vengeful Spirit",
+      "level": "39",
+      "state": "yes",
+      "timestamp": "2026-11-02 19:40:16"
     }
   ],
   "25782": [
@@ -12457,6 +12469,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-01 22:20:16"
+    },
+    {
+      "name": "Soul Collector Acheron",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-02 19:40:16"
     }
   ],
   "25223": [
