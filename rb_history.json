@@ -1835,6 +1835,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-02 11:00:20"
+    },
+    {
+      "name": "Gordon",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-02 12:40:17"
     }
   ],
   "25305": [
@@ -4053,6 +4059,12 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-01 16:40:17"
+    },
+    {
+      "name": "Water Dragon Seer Sheshark",
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-02 12:40:17"
     }
   ],
   "25328": [
@@ -12267,6 +12279,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-01 23:40:17"
+    },
+    {
+      "name": "Mammon Collector Talos",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-02 12:40:17"
     }
   ],
   "25747": [
