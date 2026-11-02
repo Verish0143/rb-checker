@@ -4211,6 +4211,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-02 00:00:16"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-02 01:00:15"
     }
   ],
   "25447": [
@@ -7201,6 +7207,12 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-11-01 11:40:26"
+    },
+    {
+      "name": "Fafurion's Page Sika",
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-11-02 01:00:15"
     }
   ],
   "25115": [
@@ -11827,6 +11839,12 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-11-01 12:40:16"
+    },
+    {
+      "name": "Zombie Lord Ferkel",
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-11-02 01:00:15"
     }
   ]
 }
