@@ -2129,6 +2129,12 @@
       "state": "no",
       "timestamp": "2026-10-26 14:08:20",
       "name": "Lilith"
+    },
+    {
+      "name": "Lilith",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-02 17:20:22"
     }
   ],
   "29065": [
@@ -3007,6 +3013,12 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-11-02 17:00:18"
+    },
+    {
+      "name": "Flamestone Giant",
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-11-02 17:20:22"
     }
   ],
   "25703": [
@@ -7855,6 +7867,12 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-11-01 12:20:18"
+    },
+    {
+      "name": "Nakondas",
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-11-02 17:20:22"
     }
   ],
   "25410": [
@@ -8563,6 +8581,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-02 01:20:17"
+    },
+    {
+      "name": "Fire Lord Shadar",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-02 17:20:22"
     }
   ],
   "25152": [
@@ -8797,6 +8821,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-02 02:20:19"
+    },
+    {
+      "name": "Guillotine Warden",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-02 17:20:22"
     }
   ],
   "25118": [
@@ -10819,6 +10849,12 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-11-01 10:40:27"
+    },
+    {
+      "name": "Unrequited Kael",
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-11-02 17:20:22"
     }
   ],
   "25366": [
@@ -12005,6 +12041,12 @@
       "level": "59",
       "state": "no",
       "timestamp": "2026-11-01 22:40:16"
+    },
+    {
+      "name": "Demon Kuri",
+      "level": "59",
+      "state": "yes",
+      "timestamp": "2026-11-02 17:20:22"
     }
   ],
   "25767": [
