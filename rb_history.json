@@ -2909,6 +2909,12 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-11-02 18:20:30"
+    },
+    {
+      "name": "Last Lesser Giant Glaki",
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-02 18:40:30"
     }
   ],
   "25524": [
@@ -5155,6 +5161,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-02 18:20:30"
+    },
+    {
+      "name": "Palibati Queen Themis",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-02 18:40:30"
     }
   ],
   "25163": [
@@ -7199,6 +7211,12 @@
       "level": "55",
       "state": "yes",
       "timestamp": "2026-11-01 14:40:27"
+    },
+    {
+      "name": "Ghost Knight Kabed",
+      "level": "55",
+      "state": "no",
+      "timestamp": "2026-11-02 18:40:30"
     }
   ],
   "25241": [
@@ -12133,6 +12151,12 @@
       "level": "50",
       "state": "yes",
       "timestamp": "2026-11-01 12:40:16"
+    },
+    {
+      "name": "Carnage Lord Gato",
+      "level": "50",
+      "state": "no",
+      "timestamp": "2026-11-02 18:40:30"
     }
   ],
   "25131": [
@@ -12179,6 +12203,12 @@
       "level": "49",
       "state": "yes",
       "timestamp": "2026-11-01 23:40:17"
+    },
+    {
+      "name": "Ketra Commander Atis",
+      "level": "49",
+      "state": "no",
+      "timestamp": "2026-11-02 18:40:30"
     }
   ],
   "25026": [
