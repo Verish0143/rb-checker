@@ -3887,6 +3887,12 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-11-02 05:20:28"
+    },
+    {
+      "name": "Plague Golem",
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-11-02 12:00:18"
     }
   ],
   "25235": [
@@ -4451,6 +4457,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-02 09:00:27"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-02 12:00:18"
     }
   ],
   "25447": [
@@ -4661,6 +4673,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-02 06:40:15"
+    },
+    {
+      "name": "Beast Lord Behemoth",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-02 12:00:18"
     }
   ],
   "25198": [
@@ -5129,6 +5147,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-02 09:40:17"
+    },
+    {
+      "name": "Shilen's Messenger Cabrio",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-02 12:00:18"
     }
   ],
   "25233": [
@@ -9409,6 +9433,12 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-11-01 21:20:17"
+    },
+    {
+      "name": "Beleth's Agent, Meana",
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-11-02 12:00:18"
     }
   ],
   "25501": [
@@ -11653,6 +11683,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-02 06:20:17"
+    },
+    {
+      "name": "Meanas Anor",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-02 12:00:18"
     }
   ],
   "25763": [
@@ -12111,6 +12147,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-02 05:00:19"
+    },
+    {
+      "name": "Ikuntai",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-02 12:00:18"
     }
   ],
   "25744": [
