@@ -3315,6 +3315,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-01 22:40:16"
+    },
+    {
+      "name": "Death Lord Ipos",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-02 15:40:18"
     }
   ],
   "25282": [
@@ -10589,6 +10595,12 @@
       "level": "24",
       "state": "yes",
       "timestamp": "2026-11-02 00:00:16"
+    },
+    {
+      "name": "Langk Matriarch Rashkos",
+      "level": "24",
+      "state": "no",
+      "timestamp": "2026-11-02 15:40:18"
     }
   ],
   "25060": [
