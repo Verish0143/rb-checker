@@ -1725,6 +1725,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-01 21:20:17"
+    },
+    {
+      "name": "Ember",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-02 10:40:30"
     }
   ],
   "29095": [
@@ -2163,6 +2169,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-02 08:20:17"
+    },
+    {
+      "name": "Uruka",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-02 10:40:30"
     }
   ],
   "25315": [
@@ -2985,6 +2997,12 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-11-02 06:20:17"
+    },
+    {
+      "name": "Gigantic Golem",
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-11-02 10:40:30"
     }
   ],
   "25205": [
@@ -9547,6 +9565,12 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-11-01 22:20:16"
+    },
+    {
+      "name": "Giant Wasteland Basilisk",
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-11-02 10:40:30"
     }
   ],
   "25169": [
@@ -12061,6 +12085,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-02 06:20:17"
+    },
+    {
+      "name": "Mammon Collector Talos",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-02 10:40:30"
     }
   ],
   "25429": [
