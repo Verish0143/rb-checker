@@ -2787,6 +2787,12 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-11-01 20:00:15"
+    },
+    {
+      "name": "Hestia, Guardian Deity of the Hot Springs",
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-11-02 16:20:19"
     }
   ],
   "25245": [
@@ -3727,6 +3733,12 @@
       "level": "74",
       "state": "yes",
       "timestamp": "2026-11-02 16:00:25"
+    },
+    {
+      "name": "Krokian Padisha Sobekk",
+      "level": "74",
+      "state": "no",
+      "timestamp": "2026-11-02 16:20:19"
     }
   ],
   "25220": [
@@ -4565,6 +4577,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-02 16:00:25"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-02 16:20:19"
     }
   ],
   "25447": [
@@ -8137,6 +8155,12 @@
       "level": "38",
       "state": "yes",
       "timestamp": "2026-11-02 08:00:22"
+    },
+    {
+      "name": "Lizardmen Leader Hellion",
+      "level": "38",
+      "state": "no",
+      "timestamp": "2026-11-02 16:20:19"
     }
   ],
   "25394": [
@@ -8589,6 +8613,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-01 10:00:27"
+    },
+    {
+      "name": "Flame Lord Shadar",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-02 16:20:19"
     }
   ],
   "25354": [
@@ -9281,6 +9311,12 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-11-01 15:40:26"
+    },
+    {
+      "name": "Nurka's Messenger",
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-11-02 16:20:19"
     }
   ],
   "25128": [
@@ -9459,6 +9495,12 @@
       "level": "32",
       "state": "yes",
       "timestamp": "2026-11-02 06:20:17"
+    },
+    {
+      "name": "Captain of Queen's Royal Guards",
+      "level": "32",
+      "state": "no",
+      "timestamp": "2026-11-02 16:20:19"
     }
   ],
   "25188": [
