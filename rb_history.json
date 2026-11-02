@@ -2357,6 +2357,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-01 11:20:19"
+    },
+    {
+      "name": "Varka's Chief Horus",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-02 22:40:17"
     }
   ],
   "25312": [
@@ -6967,6 +6973,12 @@
       "level": "58",
       "state": "no",
       "timestamp": "2026-11-01 22:40:16"
+    },
+    {
+      "name": "Eva's Guardian Millenu",
+      "level": "58",
+      "state": "yes",
+      "timestamp": "2026-11-02 22:40:17"
     }
   ],
   "25230": [
@@ -11453,6 +11465,12 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-02 06:20:17"
+    },
+    {
+      "name": "Malex Herald of Dagoniel",
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-02 22:40:17"
     }
   ],
   "25146": [
@@ -11741,6 +11759,12 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-02 13:01:01"
+    },
+    {
+      "name": "Madness Beast",
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-02 22:40:17"
     }
   ],
   "25787": [
@@ -11847,6 +11871,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-02 21:00:19"
+    },
+    {
+      "name": "Ketra's Hero Hekaton",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-02 22:40:17"
     }
   ],
   "25790": [
@@ -12653,6 +12683,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-02 08:00:22"
+    },
+    {
+      "name": "Betrayer of Urutu Freki",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-02 22:40:17"
     }
   ],
   "25426": [
@@ -13099,6 +13135,12 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-02 01:00:15"
+    },
+    {
+      "name": "Zombie Lord Ferkel",
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-02 22:40:17"
     }
   ]
 }
