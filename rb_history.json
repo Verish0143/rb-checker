@@ -4673,6 +4673,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-02 20:00:19"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-02 21:00:19"
     }
   ],
   "25447": [
@@ -11787,6 +11793,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-02 07:40:16"
+    },
+    {
+      "name": "Ketra's Hero Hekaton",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-02 21:00:19"
     }
   ],
   "25790": [
