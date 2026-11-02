@@ -345,6 +345,12 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-11-01 20:40:17"
+    },
+    {
+      "name": "Queen Shyeed",
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-11-02 20:40:27"
     }
   ],
   "25677": [
@@ -12869,6 +12875,12 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-11-01 09:40:18"
+    },
+    {
+      "name": "Greyclaw Kutus",
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-11-02 20:40:27"
     }
   ],
   "25357": [
