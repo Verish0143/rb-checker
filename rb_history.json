@@ -101,6 +101,12 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-11-01 23:40:17"
+    },
+    {
+      "name": "Anais",
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-11-02 06:20:17"
     }
   ],
   "25603": [
@@ -1849,6 +1855,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-01 04:00:18"
+    },
+    {
+      "name": "Ketra's Chief Brakki",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-02 06:20:17"
     }
   ],
   "25302": [
@@ -2233,6 +2245,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-01 11:20:19"
+    },
+    {
+      "name": "Varka's Commander Mos",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-02 06:20:17"
     }
   ],
   "25450": [
@@ -2331,6 +2349,12 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-11-01 13:00:15"
+    },
+    {
+      "name": "Cherub Galaxia",
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-11-02 06:20:17"
     }
   ],
   "25126": [
@@ -2883,6 +2907,12 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-11-01 10:00:27"
+    },
+    {
+      "name": "Gigantic Golem",
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-11-02 06:20:17"
     }
   ],
   "25205": [
@@ -3389,6 +3419,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-01 04:40:15"
+    },
+    {
+      "name": "Storm Winged Naga",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-02 06:20:17"
     }
   ],
   "25202": [
@@ -4363,6 +4399,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-01 08:20:27"
+    },
+    {
+      "name": "Immortal Savior Mardil",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-02 06:20:17"
     }
   ],
   "25281": [
@@ -5595,6 +5637,12 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-11-01 06:00:27"
+    },
+    {
+      "name": "Shilen's Priest Hisilrome",
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-11-02 06:20:17"
     }
   ],
   "25226": [
@@ -5907,6 +5955,12 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-01 06:00:27"
+    },
+    {
+      "name": "Ancient Drake",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-02 06:20:17"
     }
   ],
   "25106": [
@@ -7579,6 +7633,12 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-11-01 12:00:16"
+    },
+    {
+      "name": "Water Couatle Ateka",
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-11-02 06:20:17"
     }
   ],
   "25064": [
@@ -7837,6 +7897,12 @@
       "level": "36",
       "state": "no",
       "timestamp": "2026-11-01 11:20:19"
+    },
+    {
+      "name": "Sebek",
+      "level": "36",
+      "state": "yes",
+      "timestamp": "2026-11-02 06:20:17"
     }
   ],
   "25398": [
@@ -8021,6 +8087,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-01 10:20:27"
+    },
+    {
+      "name": "Chertuba of Great Soul",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-02 06:20:17"
     }
   ],
   "25754": [
@@ -8997,6 +9069,12 @@
       "level": "32",
       "state": "no",
       "timestamp": "2026-11-01 09:40:18"
+    },
+    {
+      "name": "Captain of Queen's Royal Guards",
+      "level": "32",
+      "state": "yes",
+      "timestamp": "2026-11-02 06:20:17"
     }
   ],
   "25188": [
@@ -9177,6 +9255,12 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-11-01 10:20:27"
+    },
+    {
+      "name": "Boss Akata",
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-11-02 06:20:17"
     }
   ],
   "25079": [
@@ -10367,6 +10451,12 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-11-01 09:20:16"
+    },
+    {
+      "name": "Lead Tracker Sharuk",
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-11-02 06:20:17"
     }
   ],
   "25362": [
@@ -10601,6 +10691,12 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-01 12:40:16"
+    },
+    {
+      "name": "Malex Herald of Dagoniel",
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-02 06:20:17"
     }
   ],
   "25146": [
@@ -10921,6 +11017,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-01 04:40:15"
+    },
+    {
+      "name": "Ketra's Hero Hekaton",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-02 06:20:17"
     }
   ],
   "25299": [
@@ -11105,6 +11207,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-01 13:00:15"
+    },
+    {
+      "name": "Kernon",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-02 06:20:17"
     }
   ],
   "25793": [
@@ -11137,6 +11245,12 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-01 15:40:26"
+    },
+    {
+      "name": "Doom Blade Tanatos",
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-02 06:20:17"
     }
   ],
   "25248": [
@@ -11233,6 +11347,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-01 16:00:28"
+    },
+    {
+      "name": "Meanas Anor",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-02 06:20:17"
     }
   ],
   "25763": [
@@ -11743,6 +11863,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-01 10:00:27"
+    },
+    {
+      "name": "Mammon Collector Talos",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-02 06:20:17"
     }
   ],
   "25429": [
@@ -11789,6 +11915,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-01 10:00:27"
+    },
+    {
+      "name": "Zombie Lord Crowl",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-02 06:20:17"
     }
   ],
   "25149": [
@@ -11931,6 +12063,12 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-01 09:40:18"
+    },
+    {
+      "name": "Sukar Wererat Chief",
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-02 06:20:17"
     }
   ],
   "25750": [
