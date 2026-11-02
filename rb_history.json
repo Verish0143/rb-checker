@@ -903,6 +903,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-02 19:20:19"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-02 20:20:17"
     }
   ],
   "25684": [
@@ -1711,6 +1717,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-01 08:20:27"
+    },
+    {
+      "name": "Andreas Van Halter",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-02 20:20:17"
     }
   ],
   "25319": [
@@ -3487,6 +3499,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-01 23:00:19"
+    },
+    {
+      "name": "Last Lesser Giant Olkuth",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-02 20:20:17"
     }
   ],
   "25249": [
