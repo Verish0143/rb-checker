@@ -4235,6 +4235,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-02 01:00:15"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-02 04:00:16"
     }
   ],
   "25447": [
@@ -11543,6 +11549,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-01 09:40:18"
+    },
+    {
+      "name": "Betrayer of Urutu Freki",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-02 04:00:16"
     }
   ],
   "25426": [
@@ -11627,6 +11639,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-01 10:00:27"
+    },
+    {
+      "name": "Ikuntai",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-02 04:00:16"
     }
   ],
   "25800": [
