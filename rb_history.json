@@ -1353,6 +1353,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-11-02 07:20:17"
+    },
+    {
+      "name": "Giant Marpanak",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-02 19:00:18"
     }
   ],
   "25681": [
@@ -6621,6 +6627,12 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-02 11:40:27"
+    },
+    {
+      "name": "Lord Ishka",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-02 19:00:18"
     }
   ],
   "25256": [
@@ -8895,6 +8907,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-01 21:40:27"
+    },
+    {
+      "name": "Guilotine, Warden of the Execution Grounds",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-02 19:00:18"
     }
   ],
   "25388": [
@@ -10069,6 +10087,12 @@
       "level": "29",
       "state": "no",
       "timestamp": "2026-11-01 23:40:17"
+    },
+    {
+      "name": "Elf Renoa",
+      "level": "29",
+      "state": "yes",
+      "timestamp": "2026-11-02 19:00:18"
     }
   ],
   "25272": [
@@ -11179,6 +11203,12 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-11-01 21:00:27"
+    },
+    {
+      "name": "Tracker Leader Sharuk",
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-11-02 19:00:18"
     }
   ],
   "25380": [
