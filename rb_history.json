@@ -1383,6 +1383,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-11-02 19:20:19"
+    },
+    {
+      "name": "Giant Marpanak",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-02 22:20:16"
     }
   ],
   "25681": [
@@ -8143,6 +8149,12 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-11-02 06:20:17"
+    },
+    {
+      "name": "Water Couatle Ateka",
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-11-02 22:20:16"
     }
   ],
   "25064": [
@@ -11613,6 +11625,12 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-02 04:40:29"
+    },
+    {
+      "name": "Discarded Guardian",
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-02 22:20:16"
     }
   ],
   "25378": [
