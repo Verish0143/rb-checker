@@ -1067,6 +1067,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-02 06:00:27"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-02 07:20:17"
     }
   ],
   "25544": [
@@ -1269,6 +1275,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-02 05:00:19"
+    },
+    {
+      "name": "Giant Marpanak",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-02 07:20:17"
     }
   ],
   "25681": [
@@ -1487,6 +1499,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-02 02:20:19"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-02 07:20:17"
     }
   ],
   "25536": [
@@ -1935,6 +1953,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-02 06:00:27"
+    },
+    {
+      "name": "Ketra's Commander Tayr",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-02 07:20:17"
     }
   ],
   "25283": [
@@ -11067,6 +11091,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-01 07:00:16"
+    },
+    {
+      "name": "Ketra's Hero Hekaton",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-02 07:20:17"
     }
   ],
   "25790": [
@@ -11333,6 +11363,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-01 15:40:26"
+    },
+    {
+      "name": "Meanas Anor",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-02 07:20:17"
     }
   ],
   "25453": [
