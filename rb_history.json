@@ -3721,6 +3721,12 @@
       "level": "74",
       "state": "no",
       "timestamp": "2026-11-01 13:20:15"
+    },
+    {
+      "name": "Krokian Padisha Sobekk",
+      "level": "74",
+      "state": "yes",
+      "timestamp": "2026-11-02 16:00:25"
     }
   ],
   "25220": [
@@ -4553,6 +4559,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-02 12:20:31"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-02 16:00:25"
     }
   ],
   "25447": [
@@ -8423,6 +8435,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-02 06:20:17"
+    },
+    {
+      "name": "Chertuba of Great Soul",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-02 16:00:25"
     }
   ],
   "25754": [
@@ -9565,6 +9583,12 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-11-02 12:00:18"
+    },
+    {
+      "name": "Beleth's Agent, Meana",
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-11-02 16:00:25"
     }
   ],
   "25501": [
@@ -9999,6 +10023,12 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-11-02 09:20:31"
+    },
+    {
+      "name": "Partisan Leader Talakin",
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-11-02 16:00:25"
     }
   ],
   "25038": [
