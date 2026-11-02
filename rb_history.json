@@ -5737,6 +5737,12 @@
       "level": "61",
       "state": "no",
       "timestamp": "2026-10-31 18:20:14"
+    },
+    {
+      "name": "Fairy Queen Timiniel",
+      "level": "61",
+      "state": "yes",
+      "timestamp": "2026-11-02 01:20:17"
     }
   ],
   "25766": [
@@ -8029,6 +8035,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-01 09:20:16"
+    },
+    {
+      "name": "Fire Lord Shadar",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-02 01:20:17"
     }
   ],
   "25152": [
