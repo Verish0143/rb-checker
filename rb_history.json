@@ -843,6 +843,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-02 00:40:18"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-02 09:00:27"
     }
   ],
   "25684": [
@@ -2293,6 +2299,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-02 06:20:17"
+    },
+    {
+      "name": "Varka's Commander Mos",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-02 09:00:27"
     }
   ],
   "25450": [
@@ -3717,6 +3729,12 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-11-01 13:20:15"
+    },
+    {
+      "name": "Death Lord Hallate",
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-11-02 09:00:27"
     }
   ],
   "25523": [
@@ -4361,6 +4379,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-02 08:00:22"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-02 09:00:27"
     }
   ],
   "25447": [
@@ -8619,6 +8643,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-01 12:20:18"
+    },
+    {
+      "name": "Sejarr's Servitor",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-02 09:00:27"
     }
   ],
   "25185": [
@@ -11239,6 +11269,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-02 04:20:17"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-02 09:00:27"
     }
   ],
   "25794": [
