@@ -467,6 +467,12 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-02 15:00:17"
+    },
+    {
+      "name": "Water Spirit Lian",
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-02 15:20:17"
     }
   ],
   "25674": [
@@ -8945,6 +8951,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-01 11:02:00"
+    },
+    {
+      "name": "Tasaba Patriarch Hellena",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-02 15:20:17"
     }
   ],
   "25020": [
