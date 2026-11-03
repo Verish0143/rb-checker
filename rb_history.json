@@ -2743,6 +2743,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-03 06:20:17"
+    },
+    {
+      "name": "Varka's Commander Mos",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-03 20:40:28"
     }
   ],
   "25450": [
@@ -9445,6 +9451,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-02 17:20:22"
+    },
+    {
+      "name": "Fire Lord Shadar",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-03 20:40:28"
     }
   ],
   "25152": [
@@ -10515,6 +10527,12 @@
       "level": "32",
       "state": "no",
       "timestamp": "2026-11-02 16:20:19"
+    },
+    {
+      "name": "Captain of Queen's Royal Guards",
+      "level": "32",
+      "state": "yes",
+      "timestamp": "2026-11-03 20:40:28"
     }
   ],
   "25188": [
@@ -11795,6 +11813,12 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-11-02 15:40:18"
+    },
+    {
+      "name": "Langk Matriarch Rashkos",
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-11-03 20:40:28"
     }
   ],
   "25060": [
