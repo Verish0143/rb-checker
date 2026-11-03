@@ -969,6 +969,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-03 10:40:19"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-03 11:00:17"
     }
   ],
   "25684": [
@@ -9771,6 +9777,12 @@
       "level": "34",
       "state": "no",
       "timestamp": "2026-11-02 17:00:18"
+    },
+    {
+      "name": "Cronos's Servitor Mumu",
+      "level": "34",
+      "state": "yes",
+      "timestamp": "2026-11-03 11:00:17"
     }
   ],
   "25383": [
@@ -12249,6 +12261,12 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-11-02 22:20:16"
+    },
+    {
+      "name": "Discarded Guardian",
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-11-03 11:00:17"
     }
   ],
   "25378": [
@@ -12365,6 +12383,12 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-11-02 22:40:17"
+    },
+    {
+      "name": "Madness Beast",
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-11-03 11:00:17"
     }
   ],
   "25787": [
