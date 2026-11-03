@@ -1455,6 +1455,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-11-02 23:40:17"
+    },
+    {
+      "name": "Giant Marpanak",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-03 10:20:17"
     }
   ],
   "25681": [
@@ -2223,6 +2229,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-02 07:20:17"
+    },
+    {
+      "name": "Ketra's Commander Tayr",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-03 10:20:17"
     }
   ],
   "25283": [
@@ -8973,6 +8985,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-01 23:40:17"
+    },
+    {
+      "name": "Beleth's Eye",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-03 10:20:17"
     }
   ],
   "25063": [
