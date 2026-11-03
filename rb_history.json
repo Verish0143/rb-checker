@@ -4053,6 +4053,12 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-11-02 11:40:27"
+    },
+    {
+      "name": "Death Lord Hallate",
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-11-03 04:40:15"
     }
   ],
   "25523": [
@@ -12233,6 +12239,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-02 11:20:17"
+    },
+    {
+      "name": "Kernon",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-03 04:40:15"
     }
   ],
   "25793": [
