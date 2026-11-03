@@ -1187,6 +1187,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-03 00:40:16"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-03 06:00:24"
     }
   ],
   "25544": [
@@ -1649,6 +1655,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-03 03:40:16"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-03 06:00:24"
     }
   ],
   "25536": [
@@ -3323,6 +3335,12 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-11-02 11:20:17"
+    },
+    {
+      "name": "Ocean Flame Ashakiel",
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-11-03 06:00:24"
     }
   ],
   "25266": [
@@ -10577,6 +10595,12 @@
       "level": "28",
       "state": "no",
       "timestamp": "2026-11-01 18:00:18"
+    },
+    {
+      "name": "Tirak",
+      "level": "28",
+      "state": "yes",
+      "timestamp": "2026-11-03 06:00:24"
     }
   ],
   "25365": [
@@ -12031,6 +12055,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-03 02:40:15"
+    },
+    {
+      "name": "Ketra's Hero Hekaton",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-03 06:00:24"
     }
   ],
   "25299": [
@@ -12745,6 +12775,12 @@
       "level": "39",
       "state": "no",
       "timestamp": "2026-11-01 22:40:16"
+    },
+    {
+      "name": "Nellis' Vengeful Spirit",
+      "level": "39",
+      "state": "yes",
+      "timestamp": "2026-11-03 06:00:24"
     }
   ],
   "25784": [
