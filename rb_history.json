@@ -1805,6 +1805,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-11-03 06:40:18"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-03 22:20:22"
     }
   ],
   "25536": [
@@ -3727,6 +3733,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-03 22:00:21"
+    },
+    {
+      "name": "Bloody Empress Decarbia",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-03 22:20:22"
     }
   ],
   "25276": [
