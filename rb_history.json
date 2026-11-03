@@ -1271,6 +1271,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-03 16:00:18"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-03 16:20:24"
     }
   ],
   "25544": [
@@ -5135,6 +5141,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-03 16:00:18"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-03 16:20:24"
     }
   ],
   "25447": [
@@ -9479,6 +9491,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-03 14:40:18"
+    },
+    {
+      "name": "Gargoyle Lord Sirocco",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-03 16:20:24"
     }
   ],
   "25753": [
