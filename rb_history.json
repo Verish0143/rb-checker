@@ -247,6 +247,12 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-03 15:00:16"
+    },
+    {
+      "name": "Darion",
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-03 16:00:18"
     }
   ],
   "25671": [
@@ -1259,6 +1265,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-03 14:20:16"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-03 16:00:18"
     }
   ],
   "25544": [
@@ -5117,6 +5129,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-03 09:00:16"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-03 16:00:18"
     }
   ],
   "25447": [
@@ -9997,6 +10015,12 @@
       "level": "34",
       "state": "yes",
       "timestamp": "2026-11-03 06:20:17"
+    },
+    {
+      "name": "Stakato Queen Zyrnna",
+      "level": "34",
+      "state": "no",
+      "timestamp": "2026-11-03 16:00:18"
     }
   ],
   "25404": [
@@ -13477,6 +13501,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-02 21:20:17"
+    },
+    {
+      "name": "Soul Collector Acheron",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-03 16:00:18"
     }
   ],
   "25223": [
