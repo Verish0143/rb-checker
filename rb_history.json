@@ -3531,6 +3531,12 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-11-02 10:40:30"
+    },
+    {
+      "name": "Gigantic Golem",
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-11-03 21:20:26"
     }
   ],
   "25205": [
@@ -13931,6 +13937,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-02 09:20:31"
+    },
+    {
+      "name": "Ikuntai",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-03 21:20:26"
     }
   ],
   "25800": [
@@ -13969,6 +13981,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-03 09:40:26"
+    },
+    {
+      "name": "Mammon Collector Talos",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-03 21:20:26"
     }
   ],
   "25429": [
@@ -14057,6 +14075,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-03 16:40:18"
+    },
+    {
+      "name": "Zombie Lord Crowl",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-03 21:20:26"
     }
   ],
   "25149": [
@@ -14177,6 +14201,12 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-03 17:00:20"
+    },
+    {
+      "name": "Greyclaw Kutus",
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-03 21:20:26"
     }
   ],
   "25357": [
@@ -14271,6 +14301,12 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-03 09:00:16"
+    },
+    {
+      "name": "Sukar Wererat Chief",
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-03 21:20:26"
     }
   ],
   "25750": [
