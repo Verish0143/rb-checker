@@ -375,6 +375,12 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-03 17:40:21"
+    },
+    {
+      "name": "Queen Shyeed",
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-03 18:00:25"
     }
   ],
   "25677": [
@@ -6257,6 +6263,12 @@
       "level": "66",
       "state": "yes",
       "timestamp": "2026-11-01 19:40:16"
+    },
+    {
+      "name": "Demon's Agent Falston",
+      "level": "66",
+      "state": "no",
+      "timestamp": "2026-11-03 18:00:25"
     }
   ],
   "25444": [
