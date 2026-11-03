@@ -3031,6 +3031,12 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-11-02 14:00:18"
+    },
+    {
+      "name": "Fire of Wrath Shuriel",
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-11-03 13:20:19"
     }
   ],
   "25293": [
@@ -3099,6 +3105,12 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-11-02 16:40:15"
+    },
+    {
+      "name": "Hestia, Guardian Deity of the Hot Springs",
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-11-03 13:20:19"
     }
   ],
   "25245": [
@@ -4587,6 +4599,12 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-02 13:01:01"
+    },
+    {
+      "name": "Water Dragon Seer Sheshark",
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-03 13:20:19"
     }
   ],
   "25328": [
@@ -5173,6 +5191,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-03 12:20:18"
+    },
+    {
+      "name": "Immortal Savior Mardil",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-03 13:20:19"
     }
   ],
   "25281": [
@@ -9045,6 +9069,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-03 10:20:17"
+    },
+    {
+      "name": "Beleth's Eye",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-03 13:20:19"
     }
   ],
   "25063": [
@@ -10405,6 +10435,12 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-11-02 16:00:25"
+    },
+    {
+      "name": "Beleth's Agent, Meana",
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-11-03 13:20:19"
     }
   ],
   "25501": [
@@ -11653,6 +11689,12 @@
       "level": "24",
       "state": "yes",
       "timestamp": "2026-11-03 09:40:26"
+    },
+    {
+      "name": "Unrequited Kael",
+      "level": "24",
+      "state": "no",
+      "timestamp": "2026-11-03 13:20:19"
     }
   ],
   "25366": [
@@ -12661,6 +12703,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-03 12:40:16"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-03 13:20:19"
     }
   ],
   "25794": [
@@ -13647,6 +13695,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-02 12:40:17"
+    },
+    {
+      "name": "Mammon Collector Talos",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-03 13:20:19"
     }
   ],
   "25747": [
