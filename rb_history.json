@@ -957,6 +957,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-03 09:20:19"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-03 09:40:26"
     }
   ],
   "25684": [
@@ -1917,6 +1923,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-02 11:20:17"
+    },
+    {
+      "name": "Ember",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-03 09:40:26"
     }
   ],
   "29095": [
@@ -2415,6 +2427,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-03 06:20:17"
+    },
+    {
+      "name": "Uruka",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-03 09:40:26"
     }
   ],
   "25315": [
@@ -5201,6 +5219,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-03 09:20:19"
+    },
+    {
+      "name": "Beast Lord Behemoth",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-03 09:40:26"
     }
   ],
   "25198": [
@@ -5747,6 +5771,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-03 08:00:19"
+    },
+    {
+      "name": "Shilen's Messenger Cabrio",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-03 09:40:26"
     }
   ],
   "25233": [
@@ -11185,6 +11215,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-02 18:00:18"
+    },
+    {
+      "name": "Princess Molrang",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-03 09:40:26"
     }
   ],
   "25369": [
@@ -11515,6 +11551,12 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-11-02 21:40:28"
+    },
+    {
+      "name": "Unrequited Kael",
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-11-03 09:40:26"
     }
   ],
   "25366": [
@@ -12805,6 +12847,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-03 05:20:19"
+    },
+    {
+      "name": "Meanas Anor",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-03 09:40:26"
     }
   ],
   "25763": [
@@ -13447,6 +13495,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-02 10:40:30"
+    },
+    {
+      "name": "Mammon Collector Talos",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-03 09:40:26"
     }
   ],
   "25429": [
