@@ -2705,6 +2705,12 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-11-02 08:00:22"
+    },
+    {
+      "name": "Longhorn Golkonda",
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-11-03 00:02:03"
     }
   ],
   "25143": [
@@ -3749,6 +3755,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-02 11:00:20"
+    },
+    {
+      "name": "Storm Winged Naga",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-03 00:02:03"
     }
   ],
   "25202": [
@@ -4721,6 +4733,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-02 21:00:19"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-03 00:02:03"
     }
   ],
   "25447": [
@@ -11605,6 +11623,12 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-01 16:00:28"
+    },
+    {
+      "name": "Serpent Demon Bifrons",
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-03 00:02:03"
     }
   ],
   "25372": [
