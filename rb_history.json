@@ -1011,6 +1011,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-03 17:20:21"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-03 18:20:20"
     }
   ],
   "25684": [
@@ -6165,6 +6171,12 @@
       "level": "67",
       "state": "yes",
       "timestamp": "2026-11-02 07:00:30"
+    },
+    {
+      "name": "Kernon's Faithful Servant Kelone",
+      "level": "67",
+      "state": "no",
+      "timestamp": "2026-11-03 18:20:20"
     }
   ],
   "25322": [
@@ -7109,6 +7121,12 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-02 00:00:16"
+    },
+    {
+      "name": "Ghost of the Well Lidia",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-03 18:20:20"
     }
   ],
   "25179": [
@@ -13567,6 +13585,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-03 16:00:18"
+    },
+    {
+      "name": "Soul Collector Acheron",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-03 18:20:20"
     }
   ],
   "25223": [
