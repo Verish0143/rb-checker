@@ -945,6 +945,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-03 07:20:17"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-03 08:20:16"
     }
   ],
   "25684": [
@@ -3407,6 +3413,12 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-11-03 06:00:24"
+    },
+    {
+      "name": "Ocean Flame Ashakiel",
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-11-03 08:20:16"
     }
   ],
   "25266": [
@@ -3567,6 +3579,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-02 15:40:18"
+    },
+    {
+      "name": "Death Lord Ipos",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-03 08:20:16"
     }
   ],
   "25282": [
@@ -3673,6 +3691,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-02 20:20:17"
+    },
+    {
+      "name": "Last Lesser Giant Olkuth",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-03 08:20:16"
     }
   ],
   "25249": [
@@ -8561,6 +8585,12 @@
       "level": "39",
       "state": "no",
       "timestamp": "2026-11-01 22:00:56"
+    },
+    {
+      "name": "Leader of Cat Gang",
+      "level": "39",
+      "state": "yes",
+      "timestamp": "2026-11-03 08:20:16"
     }
   ],
   "25170": [
@@ -10043,6 +10073,12 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-11-02 05:20:28"
+    },
+    {
+      "name": "Apepi",
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-11-03 08:20:16"
     }
   ],
   "25112": [
@@ -10427,6 +10463,12 @@
       "state": "yes",
       "timestamp": "2026-10-25 05:19:17",
       "name": "Turek Mercenary Captain"
+    },
+    {
+      "name": "Turek Mercenary Captain",
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-11-03 08:20:16"
     }
   ],
   "25095": [
@@ -13183,6 +13225,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-02 13:20:16"
+    },
+    {
+      "name": "Betrayer of Urutu Freki",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-03 08:20:16"
     }
   ],
   "25166": [
