@@ -3043,6 +3043,12 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-11-03 13:20:19"
+    },
+    {
+      "name": "Fire of Wrath Shuriel",
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-03 14:40:18"
     }
   ],
   "25293": [
@@ -9431,6 +9437,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-02 16:40:15"
+    },
+    {
+      "name": "Gargoyle Lord Sirocco",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-03 14:40:18"
     }
   ],
   "25753": [
