@@ -1673,6 +1673,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-03 06:20:17"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-03 06:40:18"
     }
   ],
   "25536": [
@@ -2777,6 +2783,12 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-11-03 00:02:03"
+    },
+    {
+      "name": "Longhorn Golkonda",
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-11-03 06:40:18"
     }
   ],
   "25143": [
@@ -9859,6 +9871,12 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-11-02 23:40:17"
+    },
+    {
+      "name": "Vuku Grand Seer Gharmash",
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-11-03 06:40:18"
     }
   ],
   "25392": [
@@ -10919,6 +10937,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-03 02:40:15"
+    },
+    {
+      "name": "Pan Dryad",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-03 06:40:18"
     }
   ],
   "25076": [
@@ -11061,6 +11085,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-03 00:20:16"
+    },
+    {
+      "name": "Soul Scavenger",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-03 06:40:18"
     }
   ],
   "25127": [
@@ -11465,6 +11495,12 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-11-02 07:40:16"
+    },
+    {
+      "name": "Lead Tracker Sharuk",
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-11-03 06:40:18"
     }
   ],
   "25362": [
