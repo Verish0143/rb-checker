@@ -369,6 +369,12 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-11-02 23:40:17"
+    },
+    {
+      "name": "Queen Shyeed",
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-11-03 17:40:21"
     }
   ],
   "25677": [
@@ -6651,6 +6657,12 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-11-03 05:00:15"
+    },
+    {
+      "name": "Shilen's Priest Hisilrome",
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-11-03 17:40:21"
     }
   ],
   "25226": [
