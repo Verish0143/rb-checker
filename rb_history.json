@@ -2069,6 +2069,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-02 12:40:17"
+    },
+    {
+      "name": "Gordon",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-03 12:40:16"
     }
   ],
   "25305": [
@@ -12637,6 +12643,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-02 23:21:17"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-03 12:40:16"
     }
   ],
   "25794": [
