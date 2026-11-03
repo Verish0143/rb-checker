@@ -589,6 +589,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-02 13:40:31"
+    },
+    {
+      "name": "Gwindorr",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-03 19:00:59"
     }
   ],
   "25687": [
@@ -6693,6 +6699,12 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-11-03 17:40:21"
+    },
+    {
+      "name": "Shilen's Priest Hisilrome",
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-11-03 19:00:59"
     }
   ],
   "25226": [
@@ -7701,6 +7713,12 @@
       "level": "57",
       "state": "yes",
       "timestamp": "2026-11-01 15:40:26"
+    },
+    {
+      "name": "Timak Seer Ragoth",
+      "level": "57",
+      "state": "no",
+      "timestamp": "2026-11-03 19:00:59"
     }
   ],
   "25463": [
@@ -10185,6 +10203,12 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-11-02 17:00:18"
+    },
+    {
+      "name": "Corsair Captain Kylon",
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-11-03 19:00:59"
     }
   ],
   "25391": [
