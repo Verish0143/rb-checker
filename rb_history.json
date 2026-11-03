@@ -7041,6 +7041,12 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-02 19:40:16"
+    },
+    {
+      "name": "Ancient Drake",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-03 19:40:30"
     }
   ],
   "25106": [
@@ -13163,6 +13169,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-02 11:40:27"
+    },
+    {
+      "name": "Meanas Anor",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-03 19:40:30"
     }
   ],
   "25453": [
