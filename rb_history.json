@@ -2435,6 +2435,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-03 08:00:19"
+    },
+    {
+      "name": "Lilith",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-03 20:00:19"
     }
   ],
   "29065": [
@@ -3293,6 +3299,12 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-11-02 18:40:30"
+    },
+    {
+      "name": "Last Lesser Giant Glaki",
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-11-03 20:00:19"
     }
   ],
   "25524": [
@@ -5177,6 +5189,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-03 16:20:24"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-03 20:00:19"
     }
   ],
   "25447": [
@@ -7955,6 +7973,12 @@
       "level": "55",
       "state": "no",
       "timestamp": "2026-11-02 18:40:30"
+    },
+    {
+      "name": "Ghost Knight Kabed",
+      "level": "55",
+      "state": "yes",
+      "timestamp": "2026-11-03 20:00:19"
     }
   ],
   "25241": [
