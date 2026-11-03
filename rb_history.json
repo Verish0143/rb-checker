@@ -8581,6 +8581,12 @@
       "level": "40",
       "state": "yes",
       "timestamp": "2026-11-02 17:20:22"
+    },
+    {
+      "name": "Nakondas",
+      "level": "40",
+      "state": "no",
+      "timestamp": "2026-11-03 16:40:18"
     }
   ],
   "25410": [
@@ -13331,6 +13337,12 @@
       "level": "45",
       "state": "no",
       "timestamp": "2026-11-02 18:20:30"
+    },
+    {
+      "name": "Beacon of Blue Sky",
+      "level": "45",
+      "state": "yes",
+      "timestamp": "2026-11-03 16:40:18"
     }
   ],
   "25776": [
@@ -13865,6 +13877,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-02 23:00:17"
+    },
+    {
+      "name": "Zombie Lord Crowl",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-03 16:40:18"
     }
   ],
   "25149": [
