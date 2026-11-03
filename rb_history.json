@@ -10775,6 +10775,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-01 22:00:56"
+    },
+    {
+      "name": "Pan Dryad",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-03 02:40:15"
     }
   ],
   "25076": [
@@ -11941,6 +11947,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-02 07:40:16"
+    },
+    {
+      "name": "Ketra's Hero Hekaton",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-03 02:40:15"
     }
   ],
   "25299": [
@@ -13277,6 +13289,12 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-11-01 18:00:18"
+    },
+    {
+      "name": "Zombie Lord Ferkel",
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-11-03 02:40:15"
     }
   ],
   "25375": [
