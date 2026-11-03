@@ -2441,6 +2441,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-03 20:00:19"
+    },
+    {
+      "name": "Lilith",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-03 21:00:22"
     }
   ],
   "29065": [
@@ -5201,6 +5207,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-03 20:00:19"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-03 21:00:22"
     }
   ],
   "25447": [
@@ -11819,6 +11831,12 @@
       "level": "24",
       "state": "yes",
       "timestamp": "2026-11-03 20:40:28"
+    },
+    {
+      "name": "Langk Matriarch Rashkos",
+      "level": "24",
+      "state": "no",
+      "timestamp": "2026-11-03 21:00:22"
     }
   ],
   "25060": [
