@@ -2761,6 +2761,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-03 20:40:28"
+    },
+    {
+      "name": "Varka's Commander Mos",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-03 22:00:21"
     }
   ],
   "25450": [
@@ -3549,6 +3555,12 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-11-03 21:20:26"
+    },
+    {
+      "name": "Gigantic Golem",
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-11-03 22:00:21"
     }
   ],
   "25205": [
@@ -3709,6 +3721,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-03 09:00:16"
+    },
+    {
+      "name": "Bloody Empress Decarbia",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-03 22:00:21"
     }
   ],
   "25276": [
@@ -9487,6 +9505,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-03 20:40:28"
+    },
+    {
+      "name": "Fire Lord Shadar",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-03 22:00:21"
     }
   ],
   "25152": [
@@ -9751,6 +9775,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-03 10:00:18"
+    },
+    {
+      "name": "Guillotine Warden",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-03 22:00:21"
     }
   ],
   "25118": [
@@ -13481,6 +13511,12 @@
       "level": "49",
       "state": "no",
       "timestamp": "2026-11-02 18:40:30"
+    },
+    {
+      "name": "Ketra Commander Atis",
+      "level": "49",
+      "state": "yes",
+      "timestamp": "2026-11-03 22:00:21"
     }
   ],
   "25026": [
