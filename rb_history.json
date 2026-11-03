@@ -5977,6 +5977,12 @@
       "level": "69",
       "state": "yes",
       "timestamp": "2026-11-02 07:40:16"
+    },
+    {
+      "name": "Spirit of Andras, the Betrayer",
+      "level": "69",
+      "state": "no",
+      "timestamp": "2026-11-03 13:40:18"
     }
   ],
   "25263": [
@@ -11169,6 +11175,12 @@
       "level": "26",
       "state": "no",
       "timestamp": "2026-11-02 18:00:18"
+    },
+    {
+      "name": "Tiger Hornet",
+      "level": "26",
+      "state": "yes",
+      "timestamp": "2026-11-03 13:40:18"
     }
   ],
   "25019": [
