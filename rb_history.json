@@ -595,6 +595,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-03 19:00:59"
+    },
+    {
+      "name": "Gwindorr",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-03 21:40:26"
     }
   ],
   "25687": [
@@ -3317,6 +3323,12 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-11-03 20:00:19"
+    },
+    {
+      "name": "Last Lesser Giant Glaki",
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-03 21:40:26"
     }
   ],
   "25524": [
@@ -13041,6 +13053,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-03 20:20:17"
+    },
+    {
+      "name": "Kernon",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-03 21:40:26"
     }
   ],
   "25054": [
@@ -13253,6 +13271,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-03 19:40:30"
+    },
+    {
+      "name": "Meanas Anor",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-03 21:40:26"
     }
   ],
   "25453": [
@@ -13565,6 +13589,12 @@
       "level": "39",
       "state": "yes",
       "timestamp": "2026-11-02 19:40:16"
+    },
+    {
+      "name": "Nellis' Vengeful Spirit",
+      "level": "39",
+      "state": "no",
+      "timestamp": "2026-11-03 21:40:26"
     }
   ],
   "25782": [
@@ -13597,6 +13627,12 @@
       "level": "39",
       "state": "yes",
       "timestamp": "2026-11-03 06:00:24"
+    },
+    {
+      "name": "Nellis' Vengeful Spirit",
+      "level": "39",
+      "state": "no",
+      "timestamp": "2026-11-03 21:40:26"
     }
   ],
   "25784": [
@@ -13629,6 +13665,12 @@
       "level": "37",
       "state": "yes",
       "timestamp": "2026-11-03 01:20:17"
+    },
+    {
+      "name": "Rayito the Looter",
+      "level": "37",
+      "state": "no",
+      "timestamp": "2026-11-03 21:40:26"
     }
   ],
   "25506": [
