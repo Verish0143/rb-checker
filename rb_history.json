@@ -3475,6 +3475,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-02 11:00:20"
+    },
+    {
+      "name": "Bloody Empress Decarbia",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-03 08:40:16"
     }
   ],
   "25276": [
@@ -3783,6 +3789,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-03 05:20:19"
+    },
+    {
+      "name": "Menacing Palatanos",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-03 08:40:16"
     }
   ],
   "25229": [
@@ -3905,6 +3917,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-03 00:02:03"
+    },
+    {
+      "name": "Storm Winged Naga",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-03 08:40:16"
     }
   ],
   "25202": [
@@ -4179,6 +4197,12 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-11-03 04:40:15"
+    },
+    {
+      "name": "Death Lord Hallate",
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-11-03 08:40:16"
     }
   ],
   "25523": [
@@ -12565,6 +12589,12 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-02 11:40:27"
+    },
+    {
+      "name": "Doom Blade Tanatos",
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-03 08:40:16"
     }
   ],
   "25248": [
