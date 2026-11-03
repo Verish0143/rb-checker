@@ -1929,6 +1929,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-03 09:40:26"
+    },
+    {
+      "name": "Ember",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-03 10:00:18"
     }
   ],
   "29095": [
@@ -7237,6 +7243,12 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-01 23:00:19"
+    },
+    {
+      "name": "The 3rd Underwater Guardian",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-03 10:00:18"
     }
   ],
   "25238": [
@@ -9385,6 +9397,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-02 17:20:22"
+    },
+    {
+      "name": "Guillotine Warden",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-03 10:00:18"
     }
   ],
   "25118": [
