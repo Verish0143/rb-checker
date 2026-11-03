@@ -241,6 +241,12 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-11-02 10:20:16"
+    },
+    {
+      "name": "Darion",
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-11-03 15:00:16"
     }
   ],
   "25671": [
@@ -2793,6 +2799,12 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-11-02 23:40:17"
+    },
+    {
+      "name": "Cherub Galaxia",
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-11-03 15:00:16"
     }
   ],
   "25126": [
@@ -9357,6 +9369,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-02 16:20:19"
+    },
+    {
+      "name": "Flame Lord Shadar",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-03 15:00:16"
     }
   ],
   "25354": [
