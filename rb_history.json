@@ -933,6 +933,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-03 00:40:16"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-03 06:20:17"
     }
   ],
   "25684": [
@@ -1661,6 +1667,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-11-03 06:00:24"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-03 06:20:17"
     }
   ],
   "25536": [
@@ -2349,6 +2361,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-02 10:40:30"
+    },
+    {
+      "name": "Uruka",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-03 06:20:17"
     }
   ],
   "25315": [
@@ -2521,6 +2539,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-03 05:00:15"
+    },
+    {
+      "name": "Varka's Commander Mos",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-03 06:20:17"
     }
   ],
   "25450": [
@@ -9571,6 +9595,12 @@
       "level": "34",
       "state": "no",
       "timestamp": "2026-11-02 16:40:15"
+    },
+    {
+      "name": "Stakato Queen Zyrnna",
+      "level": "34",
+      "state": "yes",
+      "timestamp": "2026-11-03 06:20:17"
     }
   ],
   "25404": [
@@ -10601,6 +10631,12 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-11-03 06:00:24"
+    },
+    {
+      "name": "Tirak",
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-11-03 06:20:17"
     }
   ],
   "25365": [
@@ -12405,6 +12441,12 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-01 23:00:19"
+    },
+    {
+      "name": "Doom Blade Tanatos",
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-03 06:20:17"
     }
   ],
   "25797": [
