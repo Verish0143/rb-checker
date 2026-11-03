@@ -1765,6 +1765,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-02 20:20:17"
+    },
+    {
+      "name": "Andreas Van Halter",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-03 01:20:17"
     }
   ],
   "25319": [
@@ -12651,6 +12657,12 @@
       "level": "37",
       "state": "no",
       "timestamp": "2026-11-01 15:40:26"
+    },
+    {
+      "name": "Rayito the Looter",
+      "level": "37",
+      "state": "yes",
+      "timestamp": "2026-11-03 01:20:17"
     }
   ],
   "25506": [
