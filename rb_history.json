@@ -2503,6 +2503,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-02 09:00:27"
+    },
+    {
+      "name": "Varka's Commander Mos",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-03 05:00:15"
     }
   ],
   "25450": [
@@ -4787,6 +4793,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-03 04:00:25"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-03 05:00:15"
     }
   ],
   "25447": [
@@ -6213,6 +6225,12 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-11-02 06:20:17"
+    },
+    {
+      "name": "Shilen's Priest Hisilrome",
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-11-03 05:00:15"
     }
   ],
   "25226": [
@@ -6715,6 +6733,12 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-02 14:00:18"
+    },
+    {
+      "name": "Guardian of the Statue of Giant Karum",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-03 05:00:15"
     }
   ],
   "25760": [
@@ -6893,6 +6917,12 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-01 16:00:28"
+    },
+    {
+      "name": "Taik High Prefect Arak",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-03 05:00:15"
     }
   ],
   "25016": [
@@ -13129,6 +13159,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-01 22:00:56"
+    },
+    {
+      "name": "Zombie Lord Crowl",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-03 05:00:15"
     }
   ],
   "25001": [
