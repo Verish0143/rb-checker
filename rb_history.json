@@ -1643,6 +1643,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-11-02 07:20:17"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-03 03:40:16"
     }
   ],
   "25536": [
@@ -10579,6 +10585,12 @@
       "level": "26",
       "state": "no",
       "timestamp": "2026-11-01 23:00:19"
+    },
+    {
+      "name": "Patriarch Kuroboros",
+      "level": "26",
+      "state": "yes",
+      "timestamp": "2026-11-03 03:40:16"
     }
   ],
   "25360": [
