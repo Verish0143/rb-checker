@@ -3669,6 +3669,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-01 22:40:16"
+    },
+    {
+      "name": "Menacing Palatanos",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-03 05:20:19"
     }
   ],
   "25229": [
@@ -6439,6 +6445,12 @@
       "level": "61",
       "state": "yes",
       "timestamp": "2026-11-02 01:20:17"
+    },
+    {
+      "name": "Fairy Queen Timiniel",
+      "level": "61",
+      "state": "no",
+      "timestamp": "2026-11-03 05:20:19"
     }
   ],
   "25766": [
@@ -7085,6 +7097,12 @@
       "level": "59",
       "state": "yes",
       "timestamp": "2026-11-01 20:00:15"
+    },
+    {
+      "name": "Soulless Wild Boar",
+      "level": "59",
+      "state": "no",
+      "timestamp": "2026-11-03 05:20:19"
     }
   ],
   "25032": [
@@ -12439,6 +12457,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-02 12:00:18"
+    },
+    {
+      "name": "Meanas Anor",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-03 05:20:19"
     }
   ],
   "25763": [
