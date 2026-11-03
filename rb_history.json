@@ -6565,6 +6565,12 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-11-01 12:40:16"
+    },
+    {
+      "name": "Rahha",
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-11-03 18:40:21"
     }
   ],
   "25478": [
@@ -6785,6 +6791,12 @@
       "level": "62",
       "state": "yes",
       "timestamp": "2026-11-02 05:40:59"
+    },
+    {
+      "name": "Roaring Lord Kastor",
+      "level": "62",
+      "state": "no",
+      "timestamp": "2026-11-03 18:40:21"
     }
   ],
   "25423": [
