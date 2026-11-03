@@ -1241,6 +1241,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-03 06:00:24"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-03 13:00:16"
     }
   ],
   "25544": [
@@ -2075,6 +2081,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-03 12:40:16"
+    },
+    {
+      "name": "Gordon",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-03 13:00:16"
     }
   ],
   "25305": [
@@ -13743,6 +13755,12 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-11-02 21:40:28"
+    },
+    {
+      "name": "Greyclaw Kutus",
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-11-03 13:00:16"
     }
   ],
   "25735": [
@@ -13951,6 +13969,12 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-11-02 22:40:17"
+    },
+    {
+      "name": "Zombie Lord Ferkel",
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-11-03 13:00:16"
     }
   ]
 }
