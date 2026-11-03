@@ -939,6 +939,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-03 06:20:17"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-03 07:20:17"
     }
   ],
   "25684": [
@@ -13315,6 +13321,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-03 05:00:15"
+    },
+    {
+      "name": "Zombie Lord Crowl",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-03 07:20:17"
     }
   ],
   "25001": [
