@@ -1247,6 +1247,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-03 13:00:16"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-03 14:20:16"
     }
   ],
   "25544": [
@@ -3111,6 +3117,12 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-11-03 13:20:19"
+    },
+    {
+      "name": "Hestia, Guardian Deity of the Hot Springs",
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-03 14:20:16"
     }
   ],
   "25245": [
@@ -4605,6 +4617,12 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-03 13:20:19"
+    },
+    {
+      "name": "Water Dragon Seer Sheshark",
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-03 14:20:16"
     }
   ],
   "25328": [
@@ -12659,6 +12677,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-03 14:00:19"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-03 14:20:16"
     }
   ],
   "25309": [
