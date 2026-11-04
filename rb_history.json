@@ -4571,6 +4571,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-04 20:00:18"
+    },
+    {
+      "name": "Storm Winged Naga",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-04 20:20:19"
     }
   ],
   "25202": [
@@ -5777,6 +5783,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-04 20:00:18"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-04 20:20:19"
     }
   ],
   "25447": [
