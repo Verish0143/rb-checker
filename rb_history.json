@@ -4521,6 +4521,12 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-11-03 08:40:16"
+    },
+    {
+      "name": "Death Lord Hallate",
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-11-04 04:20:17"
     }
   ],
   "25523": [
@@ -7619,6 +7625,12 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-03 05:00:15"
+    },
+    {
+      "name": "Taik High Prefect Arak",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-04 04:20:17"
     }
   ],
   "25016": [
@@ -13663,6 +13675,12 @@
       "level": "50",
       "state": "no",
       "timestamp": "2026-11-02 18:40:30"
+    },
+    {
+      "name": "Carnage Lord Gato",
+      "level": "50",
+      "state": "yes",
+      "timestamp": "2026-11-04 04:20:17"
     }
   ],
   "25131": [
