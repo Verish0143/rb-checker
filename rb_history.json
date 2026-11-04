@@ -1059,6 +1059,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-04 06:20:17"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-04 07:20:18"
     }
   ],
   "25684": [
@@ -4617,6 +4623,12 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-11-04 04:20:17"
+    },
+    {
+      "name": "Death Lord Hallate",
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-11-04 07:20:18"
     }
   ],
   "25523": [
@@ -4831,6 +4843,12 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-04 06:20:17"
+    },
+    {
+      "name": "Vanor Chief Kandra",
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-04 07:20:18"
     }
   ],
   "25199": [
@@ -9187,6 +9205,12 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-11-02 22:20:16"
+    },
+    {
+      "name": "Water Couatle Ateka",
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-11-04 07:20:18"
     }
   ],
   "25064": [
