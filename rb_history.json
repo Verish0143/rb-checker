@@ -1077,6 +1077,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-04 11:20:19"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-04 12:00:16"
     }
   ],
   "25684": [
@@ -2365,6 +2371,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-03 08:00:19"
+    },
+    {
+      "name": "Ketra's Chief Brakki",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-04 12:00:16"
     }
   ],
   "25302": [
@@ -2463,6 +2475,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-04 10:40:22"
+    },
+    {
+      "name": "Ketra's Commander Tayr",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-04 12:00:16"
     }
   ],
   "25283": [
@@ -5555,6 +5573,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-04 08:20:17"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-04 12:00:16"
     }
   ],
   "25447": [
@@ -7963,6 +7987,12 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-03 10:00:18"
+    },
+    {
+      "name": "The 3rd Underwater Guardian",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-04 12:00:16"
     }
   ],
   "25238": [
@@ -8617,6 +8647,12 @@
       "state": "yes",
       "timestamp": "2026-10-26 06:58:43",
       "name": "Zaken's Butcher Krantz"
+    },
+    {
+      "name": "Zaken's Butcher Krantz",
+      "level": "55",
+      "state": "no",
+      "timestamp": "2026-11-04 12:00:16"
     }
   ],
   "25159": [
