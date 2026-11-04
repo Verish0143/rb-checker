@@ -1325,6 +1325,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-04 01:40:18"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-04 04:40:17"
     }
   ],
   "25544": [
@@ -1841,6 +1847,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-04 03:20:17"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-04 04:40:17"
     }
   ],
   "25536": [
@@ -2699,6 +2711,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-04 03:40:17"
+    },
+    {
+      "name": "Varka's Chief Horus",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-04 04:40:17"
     }
   ],
   "25312": [
@@ -3065,6 +3083,12 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-11-04 02:20:18"
+    },
+    {
+      "name": "Longhorn Golkonda",
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-11-04 04:40:17"
     }
   ],
   "25143": [
@@ -6155,6 +6179,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-03 09:40:26"
+    },
+    {
+      "name": "Shilen's Messenger Cabrio",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-04 04:40:17"
     }
   ],
   "25233": [
