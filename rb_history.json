@@ -7791,6 +7791,12 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-04 03:20:17"
+    },
+    {
+      "name": "Lord Ishka",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-04 11:40:16"
     }
   ],
   "25256": [
@@ -8217,6 +8223,12 @@
       "level": "57",
       "state": "yes",
       "timestamp": "2026-11-04 08:40:18"
+    },
+    {
+      "name": "Timak Seer Ragoth",
+      "level": "57",
+      "state": "no",
+      "timestamp": "2026-11-04 11:40:16"
     }
   ],
   "25463": [
@@ -8261,6 +8273,12 @@
       "state": "yes",
       "timestamp": "2026-10-29 08:54:48",
       "name": "Harit Guardian Garangky"
+    },
+    {
+      "name": "Harit Guardian Garangky",
+      "level": "56",
+      "state": "no",
+      "timestamp": "2026-11-04 11:40:16"
     }
   ],
   "25122": [
@@ -8305,6 +8323,12 @@
       "state": "yes",
       "timestamp": "2026-10-29 16:20:17",
       "name": "Refugee Applicant Leo"
+    },
+    {
+      "name": "Refugee Applicant Leo",
+      "level": "56",
+      "state": "no",
+      "timestamp": "2026-11-04 11:40:16"
     }
   ],
   "25434": [
@@ -11813,6 +11837,12 @@
       "level": "28",
       "state": "no",
       "timestamp": "2026-11-03 06:20:17"
+    },
+    {
+      "name": "Tirak",
+      "level": "28",
+      "state": "yes",
+      "timestamp": "2026-11-04 11:40:16"
     }
   ],
   "25365": [
