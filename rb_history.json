@@ -3439,6 +3439,12 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-11-04 06:40:17"
+    },
+    {
+      "name": "Fire of Wrath Shuriel",
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-11-04 19:00:17"
     }
   ],
   "25293": [
@@ -6017,6 +6023,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-04 18:40:18"
+    },
+    {
+      "name": "Beast Lord Behemoth",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-04 19:00:17"
     }
   ],
   "25198": [
