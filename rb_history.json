@@ -5175,6 +5175,12 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-04 16:00:17"
+    },
+    {
+      "name": "Water Dragon Seer Sheshark",
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-04 16:40:26"
     }
   ],
   "25328": [
@@ -6159,6 +6165,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-04 13:20:17"
+    },
+    {
+      "name": "Flame of Splendor Barakiel",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-04 16:40:26"
     }
   ],
   "25092": [
@@ -13933,6 +13945,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-03 13:20:19"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-04 16:40:26"
     }
   ],
   "25794": [
