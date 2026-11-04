@@ -399,6 +399,12 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-04 15:20:28"
+    },
+    {
+      "name": "Queen Shyeed",
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-04 15:40:20"
     }
   ],
   "25677": [
@@ -2639,6 +2645,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-03 21:00:22"
+    },
+    {
+      "name": "Lilith",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-04 15:40:20"
     }
   ],
   "29065": [
@@ -7501,6 +7513,12 @@
       "level": "61",
       "state": "yes",
       "timestamp": "2026-11-04 14:20:22"
+    },
+    {
+      "name": "Fairy Queen Timiniel",
+      "level": "61",
+      "state": "no",
+      "timestamp": "2026-11-04 15:40:20"
     }
   ],
   "25766": [
@@ -12471,6 +12489,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-03 06:40:18"
+    },
+    {
+      "name": "Soul Scavenger",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-04 15:40:20"
     }
   ],
   "25127": [
@@ -15209,6 +15233,12 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-11-03 21:20:26"
+    },
+    {
+      "name": "Greyclaw Kutus",
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-11-04 15:40:20"
     }
   ],
   "25357": [
