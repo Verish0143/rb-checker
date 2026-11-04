@@ -2979,6 +2979,12 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-11-03 15:00:16"
+    },
+    {
+      "name": "Cherub Galaxia",
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-11-04 07:00:17"
     }
   ],
   "25126": [
@@ -3975,6 +3981,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-03 08:20:16"
+    },
+    {
+      "name": "Death Lord Ipos",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-04 07:00:17"
     }
   ],
   "25282": [
