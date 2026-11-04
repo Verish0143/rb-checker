@@ -1053,6 +1053,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-04 06:00:15"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-04 06:20:17"
     }
   ],
   "25684": [
@@ -3241,6 +3247,12 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-11-03 14:40:18"
+    },
+    {
+      "name": "Fire of Wrath Shuriel",
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-11-04 06:20:17"
     }
   ],
   "25293": [
@@ -4795,6 +4807,12 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-03 09:00:16"
+    },
+    {
+      "name": "Vanor Chief Kandra",
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-04 06:20:17"
     }
   ],
   "25199": [
@@ -6013,6 +6031,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-04 02:40:16"
+    },
+    {
+      "name": "Palibati Queen Themis",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-04 06:20:17"
     }
   ],
   "25163": [
@@ -6227,6 +6251,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-04 04:40:17"
+    },
+    {
+      "name": "Shilen's Messenger Cabrio",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-04 06:20:17"
     }
   ],
   "25233": [
@@ -11245,6 +11275,12 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-11-02 23:00:17"
+    },
+    {
+      "name": "Giant Wasteland Basilisk",
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-11-04 06:20:17"
     }
   ],
   "25169": [
