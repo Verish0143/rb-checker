@@ -3041,6 +3041,12 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-11-03 06:40:18"
+    },
+    {
+      "name": "Longhorn Golkonda",
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-11-04 02:20:18"
     }
   ],
   "25143": [
@@ -13491,6 +13497,12 @@
       "level": "59",
       "state": "no",
       "timestamp": "2026-11-02 19:20:19"
+    },
+    {
+      "name": "Demon Kuri",
+      "level": "59",
+      "state": "yes",
+      "timestamp": "2026-11-04 02:20:18"
     }
   ],
   "25182": [
