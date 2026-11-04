@@ -625,6 +625,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-04 13:20:17"
+    },
+    {
+      "name": "Gwindorr",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-04 15:00:18"
     }
   ],
   "25687": [
@@ -2407,6 +2413,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-04 12:00:16"
+    },
+    {
+      "name": "Ketra's Chief Brakki",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-04 15:00:18"
     }
   ],
   "25302": [
@@ -7697,6 +7709,12 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-03 18:20:20"
+    },
+    {
+      "name": "Ghost of the Well Lidia",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-04 15:00:18"
     }
   ],
   "25179": [
@@ -9927,6 +9945,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-03 13:20:19"
+    },
+    {
+      "name": "Beleth's Eye",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-04 15:00:18"
     }
   ],
   "25063": [
@@ -12973,6 +12997,12 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-04 02:40:16"
+    },
+    {
+      "name": "Tracker Leader Sharuk",
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-04 15:00:18"
     }
   ],
   "25380": [
@@ -13071,6 +13101,12 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-03 22:40:17"
+    },
+    {
+      "name": "Kaysha Herald of Icarus",
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-04 15:00:18"
     }
   ],
   "25373": [
