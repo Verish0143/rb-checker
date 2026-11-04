@@ -2113,6 +2113,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-03 01:20:17"
+    },
+    {
+      "name": "Andreas Van Halter",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-04 18:40:18"
     }
   ],
   "25319": [
@@ -2687,6 +2693,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-04 15:40:20"
+    },
+    {
+      "name": "Lilith",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-04 18:40:18"
     }
   ],
   "29065": [
@@ -5999,6 +6011,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-03 09:40:26"
+    },
+    {
+      "name": "Beast Lord Behemoth",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-04 18:40:18"
     }
   ],
   "25198": [
@@ -6483,6 +6501,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-04 18:00:19"
+    },
+    {
+      "name": "Roaring Skylancer",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-04 18:40:18"
     }
   ],
   "25035": [
@@ -7773,6 +7797,12 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-03 19:40:30"
+    },
+    {
+      "name": "Ancient Drake",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-04 18:40:18"
     }
   ],
   "25106": [
