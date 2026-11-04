@@ -1835,6 +1835,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-11-03 22:40:17"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-04 03:20:17"
     }
   ],
   "25536": [
@@ -6553,6 +6559,12 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-11-03 05:40:19"
+    },
+    {
+      "name": "Enmity Ghost Ramdal",
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-11-04 03:20:17"
     }
   ],
   "25125": [
@@ -7497,6 +7509,12 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-02 19:00:18"
+    },
+    {
+      "name": "Lord Ishka",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-04 03:20:17"
     }
   ],
   "25256": [
