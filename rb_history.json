@@ -1919,6 +1919,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-04 12:40:16"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-04 14:40:21"
     }
   ],
   "25536": [
@@ -2157,6 +2163,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-04 12:20:17"
+    },
+    {
+      "name": "Ember",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-04 14:40:21"
     }
   ],
   "29095": [
