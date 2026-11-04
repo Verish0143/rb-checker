@@ -8767,6 +8767,12 @@
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33",
       "name": "Fafurion's Henchman Istary"
+    },
+    {
+      "name": "Fafurion's Henchman Istary",
+      "level": "45",
+      "state": "no",
+      "timestamp": "2026-11-04 09:40:22"
     }
   ],
   "25260": [
@@ -9493,6 +9499,12 @@
       "level": "38",
       "state": "yes",
       "timestamp": "2026-11-04 03:00:17"
+    },
+    {
+      "name": "Lizardmen Leader Hellion",
+      "level": "38",
+      "state": "no",
+      "timestamp": "2026-11-04 09:40:22"
     }
   ],
   "25394": [
@@ -12047,6 +12059,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-04 09:20:16"
+    },
+    {
+      "name": "Pan Dryad",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-04 09:40:22"
     }
   ],
   "25076": [
@@ -13247,6 +13265,12 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-03 11:00:17"
+    },
+    {
+      "name": "Madness Beast",
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-04 09:40:22"
     }
   ],
   "25787": [
@@ -13723,6 +13747,12 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-04 09:20:16"
+    },
+    {
+      "name": "Doom Blade Tanatos",
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-04 09:40:22"
     }
   ],
   "25248": [
@@ -14993,6 +15023,12 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-03 02:40:15"
+    },
+    {
+      "name": "Zombie Lord Ferkel",
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-04 09:40:22"
     }
   ],
   "25375": [
