@@ -3549,6 +3549,12 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-11-03 14:20:16"
+    },
+    {
+      "name": "Hestia, Guardian Deity of the Hot Springs",
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-11-04 22:00:17"
     }
   ],
   "25245": [
@@ -13015,6 +13021,12 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-11-03 13:20:19"
+    },
+    {
+      "name": "Unrequited Kael",
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-11-04 22:00:17"
     }
   ],
   "25366": [
@@ -15395,6 +15407,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-03 21:20:26"
+    },
+    {
+      "name": "Zombie Lord Crowl",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-04 22:00:17"
     }
   ],
   "25149": [
