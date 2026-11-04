@@ -4227,6 +4227,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-03 08:40:16"
+    },
+    {
+      "name": "Menacing Palatanos",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-04 09:20:16"
     }
   ],
   "25229": [
@@ -4769,6 +4775,12 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-11-04 09:00:19"
+    },
+    {
+      "name": "Plague Golem",
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-11-04 09:20:16"
     }
   ],
   "25235": [
@@ -12029,6 +12041,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-03 06:40:18"
+    },
+    {
+      "name": "Pan Dryad",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-04 09:20:16"
     }
   ],
   "25076": [
@@ -13699,6 +13717,12 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-03 09:20:19"
+    },
+    {
+      "name": "Doom Blade Tanatos",
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-04 09:20:16"
     }
   ],
   "25248": [
