@@ -3555,6 +3555,12 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-11-04 22:00:17"
+    },
+    {
+      "name": "Hestia, Guardian Deity of the Hot Springs",
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-04 22:20:16"
     }
   ],
   "25245": [
@@ -9337,6 +9343,12 @@
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33",
       "name": "Flamestone Golem"
+    },
+    {
+      "name": "Flamestone Golem",
+      "level": "44",
+      "state": "no",
+      "timestamp": "2026-11-04 22:20:16"
     }
   ],
   "25099": [
@@ -14063,6 +14075,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-03 14:20:16"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-04 22:20:16"
     }
   ],
   "25309": [
@@ -14797,6 +14815,12 @@
       "level": "43",
       "state": "yes",
       "timestamp": "2026-11-01 20:40:17"
+    },
+    {
+      "name": "Earth Protector Panathen",
+      "level": "43",
+      "state": "no",
+      "timestamp": "2026-11-04 22:20:16"
     }
   ],
   "25192": [
