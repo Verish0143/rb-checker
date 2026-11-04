@@ -509,6 +509,12 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-11-02 15:20:17"
+    },
+    {
+      "name": "Water Spirit Lian",
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-11-04 03:00:17"
     }
   ],
   "25674": [
@@ -9187,6 +9193,12 @@
       "level": "38",
       "state": "no",
       "timestamp": "2026-11-02 16:20:19"
+    },
+    {
+      "name": "Lizardmen Leader Hellion",
+      "level": "38",
+      "state": "yes",
+      "timestamp": "2026-11-04 03:00:17"
     }
   ],
   "25394": [
@@ -9503,6 +9515,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-02 16:00:25"
+    },
+    {
+      "name": "Chertuba of Great Soul",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-04 03:00:17"
     }
   ],
   "25754": [
@@ -11003,6 +11021,12 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-11-02 21:20:17"
+    },
+    {
+      "name": "Cat's Eye Bandit",
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-11-04 03:00:17"
     }
   ],
   "25352": [
@@ -13265,6 +13289,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-03 08:00:19"
+    },
+    {
+      "name": "Kernon",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-04 03:00:17"
     }
   ],
   "25793": [
