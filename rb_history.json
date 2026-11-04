@@ -1991,6 +1991,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-04 20:40:17"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-04 21:00:18"
     }
   ],
   "25536": [
@@ -3305,6 +3311,12 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-11-04 04:40:17"
+    },
+    {
+      "name": "Longhorn Golkonda",
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-11-04 21:00:18"
     }
   ],
   "25143": [
@@ -6109,6 +6121,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-04 08:00:15"
+    },
+    {
+      "name": "Fafurion's Herald Lokness",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-04 21:00:18"
     }
   ],
   "25325": [
@@ -7031,6 +7049,12 @@
       "level": "66",
       "state": "no",
       "timestamp": "2026-11-03 18:00:25"
+    },
+    {
+      "name": "Demon's Agent Falston",
+      "level": "66",
+      "state": "yes",
+      "timestamp": "2026-11-04 21:00:18"
     }
   ],
   "25444": [
