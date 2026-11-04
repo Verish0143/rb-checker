@@ -6733,6 +6733,12 @@
       "level": "69",
       "state": "yes",
       "timestamp": "2026-11-04 12:20:17"
+    },
+    {
+      "name": "Spirit of Andras, the Betrayer",
+      "level": "69",
+      "state": "no",
+      "timestamp": "2026-11-04 17:40:17"
     }
   ],
   "25263": [
@@ -7853,6 +7859,12 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-04 15:00:18"
+    },
+    {
+      "name": "Ghost of the Well Lidia",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-04 17:40:17"
     }
   ],
   "25179": [
