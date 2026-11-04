@@ -1035,6 +1035,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-03 18:20:20"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-04 05:00:18"
     }
   ],
   "25684": [
@@ -1581,6 +1587,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-03 23:40:17"
+    },
+    {
+      "name": "Giant Marpanak",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-04 05:00:18"
     }
   ],
   "25681": [
@@ -3541,6 +3553,12 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-11-04 02:00:18"
+    },
+    {
+      "name": "Flamestone Giant",
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-11-04 05:00:18"
     }
   ],
   "25703": [
@@ -4381,6 +4399,12 @@
       "level": "74",
       "state": "yes",
       "timestamp": "2026-11-04 00:40:17"
+    },
+    {
+      "name": "Krokian Padisha Sobekk",
+      "level": "74",
+      "state": "no",
+      "timestamp": "2026-11-04 05:00:18"
     }
   ],
   "25220": [
@@ -5369,6 +5393,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-04 04:00:14"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-04 05:00:18"
     }
   ],
   "25447": [
