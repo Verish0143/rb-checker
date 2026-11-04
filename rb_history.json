@@ -2243,6 +2243,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-04 09:00:19"
+    },
+    {
+      "name": "Gordon",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-04 10:40:22"
     }
   ],
   "25305": [
@@ -2439,6 +2445,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-03 10:40:19"
+    },
+    {
+      "name": "Ketra's Commander Tayr",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-04 10:40:22"
     }
   ],
   "25283": [
@@ -4233,6 +4245,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-04 09:20:16"
+    },
+    {
+      "name": "Menacing Palatanos",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-04 10:40:22"
     }
   ],
   "25229": [
@@ -7953,6 +7971,12 @@
       "state": "yes",
       "timestamp": "2026-10-26 06:58:43",
       "name": "Abyss Brukunt"
+    },
+    {
+      "name": "Abyss Brukunt",
+      "level": "59",
+      "state": "no",
+      "timestamp": "2026-11-04 10:40:22"
     }
   ],
   "25089": [
@@ -8283,6 +8307,12 @@
       "state": "yes",
       "timestamp": "2026-10-26 20:01:18",
       "name": "Bandit Leader Barda"
+    },
+    {
+      "name": "Bandit Leader Barda",
+      "level": "55",
+      "state": "no",
+      "timestamp": "2026-11-04 10:40:22"
     }
   ],
   "25070": [
@@ -8507,6 +8537,12 @@
       "level": "55",
       "state": "yes",
       "timestamp": "2026-11-02 00:00:16"
+    },
+    {
+      "name": "Sorcerer Isirr",
+      "level": "55",
+      "state": "no",
+      "timestamp": "2026-11-04 10:40:22"
     }
   ],
   "25259": [
@@ -12947,6 +12983,12 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-04 07:40:17"
+    },
+    {
+      "name": "Malex Herald of Dagoniel",
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-04 10:40:22"
     }
   ],
   "25146": [
@@ -13143,6 +13185,12 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-03 11:00:17"
+    },
+    {
+      "name": "Discarded Guardian",
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-04 10:40:22"
     }
   ],
   "25378": [
@@ -14929,6 +14977,12 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-04 04:00:14"
+    },
+    {
+      "name": "Sukar Wererat Chief",
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-04 10:40:22"
     }
   ],
   "25741": [
@@ -15067,6 +15121,12 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-03 13:00:16"
+    },
+    {
+      "name": "Zombie Lord Ferkel",
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-04 10:40:22"
     }
   ]
 }
