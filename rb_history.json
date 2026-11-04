@@ -2237,6 +2237,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-03 13:00:16"
+    },
+    {
+      "name": "Gordon",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-04 09:00:19"
     }
   ],
   "25305": [
@@ -4757,6 +4763,12 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-11-03 09:00:16"
+    },
+    {
+      "name": "Plague Golem",
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-11-04 09:00:19"
     }
   ],
   "25235": [
@@ -6561,6 +6573,12 @@
       "level": "67",
       "state": "no",
       "timestamp": "2026-11-03 18:20:20"
+    },
+    {
+      "name": "Kernon's Faithful Servant Kelone",
+      "level": "67",
+      "state": "yes",
+      "timestamp": "2026-11-04 09:00:19"
     }
   ],
   "25322": [
