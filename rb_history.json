@@ -2131,6 +2131,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-04 18:40:18"
+    },
+    {
+      "name": "Andreas Van Halter",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-04 23:40:16"
     }
   ],
   "25319": [
@@ -7515,6 +7521,12 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-11-03 19:00:59"
+    },
+    {
+      "name": "Shilen's Priest Hisilrome",
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-11-04 23:40:16"
     }
   ],
   "25226": [
