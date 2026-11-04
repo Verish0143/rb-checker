@@ -6005,6 +6005,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-04 08:20:17"
+    },
+    {
+      "name": "Korim",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-04 08:40:18"
     }
   ],
   "25252": [
@@ -8133,6 +8139,12 @@
       "level": "57",
       "state": "no",
       "timestamp": "2026-11-03 19:00:59"
+    },
+    {
+      "name": "Timak Seer Ragoth",
+      "level": "57",
+      "state": "yes",
+      "timestamp": "2026-11-04 08:40:18"
     }
   ],
   "25463": [
@@ -13341,6 +13353,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-04 08:20:17"
+    },
+    {
+      "name": "Ketra's Hero Hekaton",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-04 08:40:18"
     }
   ],
   "25790": [
@@ -13713,6 +13731,12 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-04 01:20:31"
+    },
+    {
+      "name": "Doom Blade Tanatos",
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-04 08:40:18"
     }
   ],
   "25797": [
