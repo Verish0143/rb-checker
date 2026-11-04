@@ -119,6 +119,12 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-04 11:20:19"
+    },
+    {
+      "name": "Anais",
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-04 15:20:28"
     }
   ],
   "25603": [
@@ -387,6 +393,12 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-11-03 18:00:25"
+    },
+    {
+      "name": "Queen Shyeed",
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-11-04 15:20:28"
     }
   ],
   "25677": [
@@ -3569,6 +3581,12 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-11-04 14:00:20"
+    },
+    {
+      "name": "Last Lesser Giant Glaki",
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-04 15:20:28"
     }
   ],
   "25524": [
@@ -3807,6 +3825,12 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-11-03 22:00:21"
+    },
+    {
+      "name": "Gigantic Golem",
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-11-04 15:20:28"
     }
   ],
   "25205": [
@@ -15079,6 +15103,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-03 07:20:17"
+    },
+    {
+      "name": "Zombie Lord Crowl",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-04 15:20:28"
     }
   ],
   "25001": [
