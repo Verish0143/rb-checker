@@ -2403,6 +2403,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-04 14:40:21"
+    },
+    {
+      "name": "Ember",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-05 16:20:26"
     }
   ],
   "29095": [
@@ -3557,6 +3563,12 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-11-04 21:40:19"
+    },
+    {
+      "name": "Longhorn Golkonda",
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-11-05 16:20:26"
     }
   ],
   "25143": [
@@ -3929,6 +3941,12 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-11-04 15:20:28"
+    },
+    {
+      "name": "Last Lesser Giant Glaki",
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-11-05 16:20:26"
     }
   ],
   "25524": [
@@ -4539,6 +4557,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-05 08:00:17"
+    },
+    {
+      "name": "Death Lord Ipos",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-05 16:20:26"
     }
   ],
   "25282": [
@@ -8471,6 +8495,12 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-04 17:40:17"
+    },
+    {
+      "name": "Ghost of the Well Lidia",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-05 16:20:26"
     }
   ],
   "25179": [
@@ -9601,6 +9631,12 @@
       "level": "55",
       "state": "no",
       "timestamp": "2026-11-04 12:00:16"
+    },
+    {
+      "name": "Zaken's Butcher Krantz",
+      "level": "55",
+      "state": "yes",
+      "timestamp": "2026-11-05 16:20:26"
     }
   ],
   "25159": [
