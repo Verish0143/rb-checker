@@ -1839,6 +1839,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-11-05 05:20:19"
+    },
+    {
+      "name": "Giant Marpanak",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-05 19:40:21"
     }
   ],
   "25681": [
@@ -11295,6 +11301,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-03 15:00:16"
+    },
+    {
+      "name": "Flame Lord Shadar",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-05 19:40:21"
     }
   ],
   "25354": [
@@ -11859,6 +11871,12 @@
       "level": "34",
       "state": "yes",
       "timestamp": "2026-11-03 11:00:17"
+    },
+    {
+      "name": "Cronos's Servitor Mumu",
+      "level": "34",
+      "state": "no",
+      "timestamp": "2026-11-05 19:40:21"
     }
   ],
   "25383": [
@@ -16671,6 +16689,12 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-11-04 11:20:19"
+    },
+    {
+      "name": "Greyclaw Kutus",
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-11-05 19:40:21"
     }
   ],
   "25735": [
