@@ -5891,6 +5891,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-05 01:00:17"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-05 04:00:18"
     }
   ],
   "25447": [
@@ -14559,6 +14565,12 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-04 08:40:18"
+    },
+    {
+      "name": "Doom Blade Tanatos",
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-05 04:00:18"
     }
   ],
   "25797": [
@@ -14733,6 +14745,12 @@
       "level": "59",
       "state": "no",
       "timestamp": "2026-11-04 13:40:17"
+    },
+    {
+      "name": "Demon Kuri",
+      "level": "59",
+      "state": "yes",
+      "timestamp": "2026-11-05 04:00:18"
     }
   ],
   "25182": [
@@ -15175,6 +15193,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-03 18:20:20"
+    },
+    {
+      "name": "Soul Collector Acheron",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-05 04:00:18"
     }
   ],
   "25223": [
