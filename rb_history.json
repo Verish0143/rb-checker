@@ -1167,6 +1167,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-05 07:40:27"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-05 12:40:18"
     }
   ],
   "25684": [
@@ -2483,6 +2489,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-04 10:40:22"
+    },
+    {
+      "name": "Gordon",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-05 12:40:18"
     }
   ],
   "25305": [
@@ -14633,6 +14645,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-05 12:20:24"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-05 12:40:18"
     }
   ],
   "25309": [
