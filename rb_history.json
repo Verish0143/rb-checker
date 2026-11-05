@@ -4827,6 +4827,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-04 10:40:22"
+    },
+    {
+      "name": "Menacing Palatanos",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-05 17:20:18"
     }
   ],
   "25229": [
@@ -7583,6 +7589,12 @@
       "level": "66",
       "state": "yes",
       "timestamp": "2026-11-04 21:00:18"
+    },
+    {
+      "name": "Demon's Agent Falston",
+      "level": "66",
+      "state": "no",
+      "timestamp": "2026-11-05 17:20:18"
     }
   ],
   "25444": [
@@ -8031,6 +8043,12 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-11-04 23:40:16"
+    },
+    {
+      "name": "Shilen's Priest Hisilrome",
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-11-05 17:20:18"
     }
   ],
   "25226": [
