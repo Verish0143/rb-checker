@@ -5291,6 +5291,12 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-11-05 12:00:26"
+    },
+    {
+      "name": "Plague Golem",
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-11-05 12:20:24"
     }
   ],
   "25235": [
@@ -14621,6 +14627,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-04 22:40:15"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-05 12:20:24"
     }
   ],
   "25309": [
