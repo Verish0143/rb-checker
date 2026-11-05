@@ -1203,6 +1203,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-05 16:00:18"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-05 17:00:19"
     }
   ],
   "25684": [
@@ -2409,6 +2415,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-05 16:20:26"
+    },
+    {
+      "name": "Ember",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-05 17:00:19"
     }
   ],
   "29095": [
@@ -3569,6 +3581,12 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-11-05 16:20:26"
+    },
+    {
+      "name": "Longhorn Golkonda",
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-11-05 17:00:19"
     }
   ],
   "25143": [
@@ -6263,6 +6281,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-05 16:00:18"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-05 17:00:19"
     }
   ],
   "25447": [
