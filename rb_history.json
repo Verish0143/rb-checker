@@ -8891,6 +8891,12 @@
       "level": "59",
       "state": "yes",
       "timestamp": "2026-11-05 08:00:17"
+    },
+    {
+      "name": "Soulless Wild Boar",
+      "level": "59",
+      "state": "no",
+      "timestamp": "2026-11-05 11:00:21"
     }
   ],
   "25032": [
@@ -9039,6 +9045,12 @@
       "level": "57",
       "state": "yes",
       "timestamp": "2026-11-05 01:20:15"
+    },
+    {
+      "name": "Timak Seer Ragoth",
+      "level": "57",
+      "state": "no",
+      "timestamp": "2026-11-05 11:00:21"
     }
   ],
   "25463": [
@@ -16199,6 +16211,12 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-04 15:40:20"
+    },
+    {
+      "name": "Greyclaw Kutus",
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-05 11:00:21"
     }
   ],
   "25357": [
@@ -16317,6 +16335,12 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-05 08:40:16"
+    },
+    {
+      "name": "Sukar Wererat Chief",
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-05 11:00:21"
     }
   ],
   "25750": [
@@ -16411,6 +16435,12 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-05 03:40:16"
+    },
+    {
+      "name": "Zombie Lord Ferkel",
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-05 11:00:21"
     }
   ]
 }
