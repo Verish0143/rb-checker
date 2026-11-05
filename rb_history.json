@@ -1149,6 +1149,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-05 06:40:16"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-05 07:40:27"
     }
   ],
   "25684": [
@@ -3919,6 +3925,12 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-11-04 05:00:18"
+    },
+    {
+      "name": "Flamestone Giant",
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-11-05 07:40:27"
     }
   ],
   "25703": [
@@ -4861,6 +4873,12 @@
       "level": "74",
       "state": "no",
       "timestamp": "2026-11-04 05:00:18"
+    },
+    {
+      "name": "Krokian Padisha Sobekk",
+      "level": "74",
+      "state": "yes",
+      "timestamp": "2026-11-05 07:40:27"
     }
   ],
   "25220": [
@@ -12113,6 +12131,12 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-11-04 03:00:17"
+    },
+    {
+      "name": "Cat's Eye Bandit",
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-11-05 07:40:27"
     }
   ],
   "25352": [
@@ -12527,6 +12551,12 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-11-04 11:40:16"
+    },
+    {
+      "name": "Tirak",
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-11-05 07:40:27"
     }
   ],
   "25365": [
@@ -13267,6 +13297,12 @@
       "level": "24",
       "state": "yes",
       "timestamp": "2026-11-04 22:00:17"
+    },
+    {
+      "name": "Unrequited Kael",
+      "level": "24",
+      "state": "no",
+      "timestamp": "2026-11-05 07:40:27"
     }
   ],
   "25366": [
@@ -14395,6 +14431,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-04 17:00:18"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-05 07:40:27"
     }
   ],
   "25794": [
@@ -15557,6 +15599,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-03 21:20:26"
+    },
+    {
+      "name": "Ikuntai",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-05 07:40:27"
     }
   ],
   "25800": [
@@ -15707,6 +15755,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-04 22:00:17"
+    },
+    {
+      "name": "Zombie Lord Crowl",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-05 07:40:27"
     }
   ],
   "25149": [
