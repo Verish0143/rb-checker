@@ -3177,6 +3177,12 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-11-04 07:00:17"
+    },
+    {
+      "name": "Cherub Galaxia",
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-11-05 01:00:17"
     }
   ],
   "25126": [
@@ -4049,6 +4055,12 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-11-04 08:20:17"
+    },
+    {
+      "name": "Ocean Flame Ashakiel",
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-11-05 01:00:17"
     }
   ],
   "25266": [
@@ -5837,6 +5849,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-05 00:00:19"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-05 01:00:17"
     }
   ],
   "25447": [
@@ -11215,6 +11233,12 @@
       "level": "34",
       "state": "no",
       "timestamp": "2026-11-03 16:00:18"
+    },
+    {
+      "name": "Stakato Queen Zyrnna",
+      "level": "34",
+      "state": "yes",
+      "timestamp": "2026-11-05 01:00:17"
     }
   ],
   "25404": [
@@ -14345,6 +14369,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-04 07:40:17"
+    },
+    {
+      "name": "Kernon",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-05 01:00:17"
     }
   ],
   "25793": [
