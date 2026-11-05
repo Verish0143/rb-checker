@@ -1221,6 +1221,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-05 17:00:19"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-05 19:00:18"
     }
   ],
   "25684": [
@@ -14533,6 +14539,12 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-04 11:20:19"
+    },
+    {
+      "name": "Serpent Demon Bifrons",
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-05 19:00:18"
     }
   ],
   "25372": [
@@ -14771,6 +14783,12 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-05 09:40:16"
+    },
+    {
+      "name": "Madness Beast",
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-05 19:00:18"
     }
   ],
   "25787": [
