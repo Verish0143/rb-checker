@@ -1713,6 +1713,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-11-04 16:20:17"
+    },
+    {
+      "name": "Giant Marpanak",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-05 03:40:16"
     }
   ],
   "25681": [
@@ -3067,6 +3073,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-03 22:00:21"
+    },
+    {
+      "name": "Varka's Commander Mos",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-05 03:40:16"
     }
   ],
   "25450": [
@@ -14485,6 +14497,12 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-04 09:40:22"
+    },
+    {
+      "name": "Doom Blade Tanatos",
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-05 03:40:16"
     }
   ],
   "25248": [
@@ -15901,6 +15919,12 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-11-04 10:40:22"
+    },
+    {
+      "name": "Zombie Lord Ferkel",
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-11-05 03:40:16"
     }
   ]
 }
