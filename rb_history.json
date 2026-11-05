@@ -1143,6 +1143,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-05 06:20:19"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-05 06:40:16"
     }
   ],
   "25684": [
@@ -1469,6 +1475,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-05 06:20:19"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-05 06:40:16"
     }
   ],
   "25544": [
