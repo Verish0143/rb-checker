@@ -5103,6 +5103,12 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-11-05 03:00:18"
+    },
+    {
+      "name": "Death Lord Hallate",
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-11-05 09:20:16"
     }
   ],
   "25523": [
@@ -6983,6 +6989,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-05 00:40:17"
+    },
+    {
+      "name": "Shilen's Messenger Cabrio",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-05 09:20:16"
     }
   ],
   "25233": [
@@ -14827,6 +14839,12 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-05 03:40:16"
+    },
+    {
+      "name": "Doom Blade Tanatos",
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-05 09:20:16"
     }
   ],
   "25248": [
@@ -14951,6 +14969,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-05 00:00:19"
+    },
+    {
+      "name": "Meanas Anor",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-05 09:20:16"
     }
   ],
   "25453": [
