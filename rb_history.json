@@ -131,6 +131,12 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-05 18:00:20"
+    },
+    {
+      "name": "Anais",
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-05 18:40:17"
     }
   ],
   "25603": [
@@ -2299,6 +2305,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-04 23:40:16"
+    },
+    {
+      "name": "Andreas Van Halter",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-05 18:40:17"
     }
   ],
   "25319": [
@@ -11081,6 +11093,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-04 03:00:17"
+    },
+    {
+      "name": "Chertuba of Great Soul",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-05 18:40:17"
     }
   ],
   "25754": [
@@ -14313,6 +14331,12 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-05 08:20:16"
+    },
+    {
+      "name": "Kaysha Herald of Icarus",
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-05 18:40:17"
     }
   ],
   "25373": [
@@ -16107,6 +16131,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-03 02:20:16"
+    },
+    {
+      "name": "Soul Collector Acheron",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-05 18:40:17"
     }
   ],
   "25779": [
@@ -16729,6 +16759,12 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-05 15:00:21"
+    },
+    {
+      "name": "Sukar Wererat Chief",
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-05 18:40:17"
     }
   ],
   "25741": [
@@ -16847,6 +16883,12 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-05 16:00:18"
+    },
+    {
+      "name": "Zombie Lord Ferkel",
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-05 18:40:17"
     }
   ],
   "25375": [
