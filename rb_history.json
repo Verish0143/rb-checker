@@ -2795,6 +2795,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-04 18:40:18"
+    },
+    {
+      "name": "Lilith",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-05 09:40:16"
     }
   ],
   "29065": [
@@ -4083,6 +4089,12 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-11-04 16:20:17"
+    },
+    {
+      "name": "Gigantic Golem",
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-11-05 09:40:16"
     }
   ],
   "25205": [
@@ -4921,6 +4933,12 @@
       "level": "74",
       "state": "yes",
       "timestamp": "2026-11-05 07:40:27"
+    },
+    {
+      "name": "Krokian Padisha Sobekk",
+      "level": "74",
+      "state": "no",
+      "timestamp": "2026-11-05 09:40:16"
     }
   ],
   "25220": [
@@ -14279,6 +14297,12 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-11-04 09:40:22"
+    },
+    {
+      "name": "Madness Beast",
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-11-05 09:40:16"
     }
   ],
   "25787": [
@@ -14907,6 +14931,12 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-05 04:00:18"
+    },
+    {
+      "name": "Doom Blade Tanatos",
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-05 09:40:16"
     }
   ],
   "25797": [
