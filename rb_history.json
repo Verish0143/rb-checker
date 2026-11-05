@@ -11541,6 +11541,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-02 19:00:18"
+    },
+    {
+      "name": "Guilotine, Warden of the Execution Grounds",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-05 19:20:16"
     }
   ],
   "25388": [
@@ -11903,6 +11909,12 @@
       "level": "34",
       "state": "yes",
       "timestamp": "2026-11-02 11:20:17"
+    },
+    {
+      "name": "Revenant of Sir Calibus",
+      "level": "34",
+      "state": "no",
+      "timestamp": "2026-11-05 19:20:16"
     }
   ],
   "25023": [
@@ -12149,6 +12161,12 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-11-04 04:00:14"
+    },
+    {
+      "name": "Nurka's Messenger",
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-11-05 19:20:16"
     }
   ],
   "25128": [
@@ -14435,6 +14453,12 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-05 13:00:16"
+    },
+    {
+      "name": "Malex Herald of Dagoniel",
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-05 19:20:16"
     }
   ],
   "25146": [
