@@ -10127,6 +10127,12 @@
       "state": "yes",
       "timestamp": "2026-10-20 22:26:33",
       "name": "Thief Kelbar"
+    },
+    {
+      "name": "Thief Kelbar",
+      "level": "44",
+      "state": "no",
+      "timestamp": "2026-11-05 22:40:16"
     }
   ],
   "25085": [
@@ -16011,6 +16017,12 @@
       "level": "43",
       "state": "yes",
       "timestamp": "2026-10-30 09:31:45"
+    },
+    {
+      "name": "Earth Protector Panathen",
+      "level": "43",
+      "state": "no",
+      "timestamp": "2026-11-05 22:40:16"
     }
   ],
   "25504": [
