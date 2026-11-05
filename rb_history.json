@@ -8021,6 +8021,12 @@
       "level": "62",
       "state": "no",
       "timestamp": "2026-11-04 18:20:18"
+    },
+    {
+      "name": "Roaring Lord Kastor",
+      "level": "62",
+      "state": "yes",
+      "timestamp": "2026-11-05 13:20:20"
     }
   ],
   "25423": [
@@ -8491,6 +8497,12 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-04 11:20:19"
+    },
+    {
+      "name": "Guardian of the Statue of Giant Karum",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-05 13:20:20"
     }
   ],
   "25760": [
@@ -9143,6 +9155,12 @@
       "level": "56",
       "state": "no",
       "timestamp": "2026-11-04 11:40:16"
+    },
+    {
+      "name": "Harit Guardian Garangky",
+      "level": "56",
+      "state": "yes",
+      "timestamp": "2026-11-05 13:20:20"
     }
   ],
   "25122": [
@@ -15839,6 +15857,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-04 11:20:19"
+    },
+    {
+      "name": "Betrayer of Urutu Freki",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-05 13:20:20"
     }
   ],
   "25426": [
