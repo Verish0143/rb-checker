@@ -557,6 +557,12 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-05 14:20:15"
+    },
+    {
+      "name": "Water Spirit Lian",
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-05 15:00:21"
     }
   ],
   "25674": [
@@ -2117,6 +2123,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-11-05 10:40:17"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-05 15:00:21"
     }
   ],
   "25536": [
@@ -9179,6 +9191,12 @@
       "level": "56",
       "state": "yes",
       "timestamp": "2026-11-05 13:20:20"
+    },
+    {
+      "name": "Harit Guardian Garangky",
+      "level": "56",
+      "state": "no",
+      "timestamp": "2026-11-05 15:00:21"
     }
   ],
   "25122": [
@@ -10987,6 +11005,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-05 04:20:16"
+    },
+    {
+      "name": "Fire Lord Shadar",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-05 15:00:21"
     }
   ],
   "25152": [
@@ -11269,6 +11293,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-05 07:20:25"
+    },
+    {
+      "name": "Guillotine Warden",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-05 15:00:21"
     }
   ],
   "25118": [
@@ -13823,6 +13853,12 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-05 14:20:15"
+    },
+    {
+      "name": "Lead Tracker Sharuk",
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-05 15:00:21"
     }
   ],
   "25362": [
@@ -15781,6 +15817,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-05 04:00:18"
+    },
+    {
+      "name": "Soul Collector Acheron",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-05 15:00:21"
     }
   ],
   "25223": [
@@ -15899,6 +15941,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-05 13:20:20"
+    },
+    {
+      "name": "Betrayer of Urutu Freki",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-05 15:00:21"
     }
   ],
   "25426": [
@@ -16423,6 +16471,12 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-04 10:40:22"
+    },
+    {
+      "name": "Sukar Wererat Chief",
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-05 15:00:21"
     }
   ],
   "25741": [
