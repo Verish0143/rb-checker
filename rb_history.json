@@ -265,6 +265,12 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-11-03 16:00:18"
+    },
+    {
+      "name": "Darion",
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-11-05 03:00:18"
     }
   ],
   "25671": [
@@ -4941,6 +4947,12 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-11-04 07:20:18"
+    },
+    {
+      "name": "Death Lord Hallate",
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-11-05 03:00:18"
     }
   ],
   "25523": [
