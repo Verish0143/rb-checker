@@ -5679,6 +5679,12 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-04 16:40:26"
+    },
+    {
+      "name": "Water Dragon Seer Sheshark",
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-05 18:20:17"
     }
   ],
   "25328": [
@@ -11363,6 +11369,12 @@
       "level": "35",
       "state": "yes",
       "timestamp": "2026-11-04 20:40:17"
+    },
+    {
+      "name": "Gargoyle Lord Sirocco",
+      "level": "35",
+      "state": "no",
+      "timestamp": "2026-11-05 18:20:17"
     }
   ],
   "25753": [
@@ -12021,6 +12033,12 @@
       "level": "33",
       "state": "yes",
       "timestamp": "2026-11-03 19:00:59"
+    },
+    {
+      "name": "Corsair Captain Kylon",
+      "level": "33",
+      "state": "no",
+      "timestamp": "2026-11-05 18:20:17"
     }
   ],
   "25391": [
@@ -13409,6 +13427,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-05 16:40:19"
+    },
+    {
+      "name": "Pan Dryad",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-05 18:20:17"
     }
   ],
   "25076": [
@@ -15579,6 +15603,12 @@
       "level": "59",
       "state": "yes",
       "timestamp": "2026-11-05 04:00:18"
+    },
+    {
+      "name": "Demon Kuri",
+      "level": "59",
+      "state": "no",
+      "timestamp": "2026-11-05 18:20:17"
     }
   ],
   "25182": [
