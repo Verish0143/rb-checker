@@ -655,6 +655,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-04 15:00:18"
+    },
+    {
+      "name": "Gwindorr",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-05 10:00:19"
     }
   ],
   "25687": [
@@ -4095,6 +4101,12 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-11-05 09:40:16"
+    },
+    {
+      "name": "Gigantic Golem",
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-11-05 10:00:19"
     }
   ],
   "25205": [
@@ -5365,6 +5377,12 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-05 05:00:20"
+    },
+    {
+      "name": "Vanor Chief Kandra",
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-05 10:00:19"
     }
   ],
   "25199": [
