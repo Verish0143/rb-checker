@@ -2093,6 +2093,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-05 10:20:17"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-05 10:40:17"
     }
   ],
   "25536": [
@@ -4585,6 +4591,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-05 10:20:17"
+    },
+    {
+      "name": "Last Lesser Giant Olkuth",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-05 10:40:17"
     }
   ],
   "25249": [
@@ -8547,6 +8559,12 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-05 04:20:16"
+    },
+    {
+      "name": "Lord Ishka",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-05 10:40:17"
     }
   ],
   "25256": [
@@ -8731,6 +8749,12 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-05 08:40:16"
+    },
+    {
+      "name": "The 3rd Underwater Guardian",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-05 10:40:17"
     }
   ],
   "25238": [
