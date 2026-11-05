@@ -551,6 +551,12 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-11-04 06:00:15"
+    },
+    {
+      "name": "Water Spirit Lian",
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-11-05 14:20:15"
     }
   ],
   "25674": [
@@ -13805,6 +13811,12 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-11-03 08:00:19"
+    },
+    {
+      "name": "Lead Tracker Sharuk",
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-11-05 14:20:15"
     }
   ],
   "25362": [
