@@ -271,6 +271,12 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-05 03:00:18"
+    },
+    {
+      "name": "Darion",
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-05 15:20:20"
     }
   ],
   "25671": [
@@ -2129,6 +2135,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-05 15:00:21"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-05 15:20:20"
     }
   ],
   "25536": [
@@ -2647,6 +2659,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-05 13:00:16"
+    },
+    {
+      "name": "Ketra's Chief Brakki",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-05 15:20:20"
     }
   ],
   "25302": [
@@ -8533,6 +8551,12 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-05 13:20:20"
+    },
+    {
+      "name": "Guardian of the Statue of Giant Karum",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-05 15:20:20"
     }
   ],
   "25760": [
@@ -14673,6 +14697,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-05 14:40:17"
+    },
+    {
+      "name": "Ketra's Hero Hekaton",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-05 15:20:20"
     }
   ],
   "25790": [
