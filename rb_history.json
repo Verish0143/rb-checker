@@ -3589,6 +3589,12 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-11-04 19:00:17"
+    },
+    {
+      "name": "Fire of Wrath Shuriel",
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-05 08:40:16"
     }
   ],
   "25293": [
@@ -3949,6 +3955,12 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-11-05 07:40:27"
+    },
+    {
+      "name": "Flamestone Giant",
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-11-05 08:40:16"
     }
   ],
   "25703": [
@@ -8623,6 +8635,12 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-04 12:00:16"
+    },
+    {
+      "name": "The 3rd Underwater Guardian",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-05 08:40:16"
     }
   ],
   "25238": [
@@ -9999,6 +10017,12 @@
       "level": "40",
       "state": "no",
       "timestamp": "2026-11-04 13:00:57"
+    },
+    {
+      "name": "Road Scavenger Leader",
+      "level": "40",
+      "state": "yes",
+      "timestamp": "2026-11-05 08:40:16"
     }
   ],
   "25155": [
@@ -12283,6 +12307,12 @@
       "level": "30",
       "state": "yes",
       "timestamp": "2026-11-04 06:20:17"
+    },
+    {
+      "name": "Giant Wasteland Basilisk",
+      "level": "30",
+      "state": "no",
+      "timestamp": "2026-11-05 08:40:16"
     }
   ],
   "25169": [
@@ -14601,6 +14631,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-05 08:20:16"
+    },
+    {
+      "name": "Kernon",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-05 08:40:16"
     }
   ],
   "25054": [
@@ -15751,6 +15787,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-04 21:40:19"
+    },
+    {
+      "name": "Mammon Collector Talos",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-05 08:40:16"
     }
   ],
   "25429": [
@@ -15789,6 +15831,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-03 13:20:19"
+    },
+    {
+      "name": "Mammon Collector Talos",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-05 08:40:16"
     }
   ],
   "25747": [
@@ -16113,6 +16161,12 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-03 21:20:26"
+    },
+    {
+      "name": "Sukar Wererat Chief",
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-05 08:40:16"
     }
   ],
   "25750": [
