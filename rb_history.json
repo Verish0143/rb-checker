@@ -3079,6 +3079,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-05 03:40:16"
+    },
+    {
+      "name": "Varka's Commander Mos",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-05 05:00:20"
     }
   ],
   "25450": [
@@ -4085,6 +4091,12 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-11-05 01:00:17"
+    },
+    {
+      "name": "Ocean Flame Ashakiel",
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-11-05 05:00:20"
     }
   ],
   "25266": [
@@ -5209,6 +5221,12 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-04 07:20:18"
+    },
+    {
+      "name": "Vanor Chief Kandra",
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-05 05:00:20"
     }
   ],
   "25199": [
@@ -5903,6 +5921,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-05 04:00:18"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-05 05:00:20"
     }
   ],
   "25447": [
