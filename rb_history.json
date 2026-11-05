@@ -3947,6 +3947,12 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-11-05 16:20:26"
+    },
+    {
+      "name": "Last Lesser Giant Glaki",
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-05 16:40:19"
     }
   ],
   "25524": [
@@ -4949,6 +4955,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-05 16:00:18"
+    },
+    {
+      "name": "Storm Winged Naga",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-05 16:40:19"
     }
   ],
   "25202": [
@@ -9485,6 +9497,12 @@
       "level": "55",
       "state": "no",
       "timestamp": "2026-11-04 13:40:17"
+    },
+    {
+      "name": "Ghost Knight Kabed",
+      "level": "55",
+      "state": "yes",
+      "timestamp": "2026-11-05 16:40:19"
     }
   ],
   "25241": [
@@ -13283,6 +13301,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-04 09:40:22"
+    },
+    {
+      "name": "Pan Dryad",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-05 16:40:19"
     }
   ],
   "25076": [
