@@ -1565,6 +1565,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-05 06:40:16"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-05 21:20:21"
     }
   ],
   "25544": [
@@ -16057,6 +16063,12 @@
       "level": "39",
       "state": "yes",
       "timestamp": "2026-11-04 21:40:19"
+    },
+    {
+      "name": "Nellis' Vengeful Spirit",
+      "level": "39",
+      "state": "no",
+      "timestamp": "2026-11-05 21:20:21"
     }
   ],
   "25784": [
