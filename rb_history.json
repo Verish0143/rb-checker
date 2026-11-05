@@ -2495,6 +2495,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-05 12:40:18"
+    },
+    {
+      "name": "Gordon",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-05 13:00:16"
     }
   ],
   "25305": [
@@ -2611,6 +2617,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-04 15:00:18"
+    },
+    {
+      "name": "Ketra's Chief Brakki",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-05 13:00:16"
     }
   ],
   "25302": [
@@ -2837,6 +2849,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-05 09:40:16"
+    },
+    {
+      "name": "Lilith",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-05 13:00:16"
     }
   ],
   "29065": [
@@ -14069,6 +14087,12 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-04 10:40:22"
+    },
+    {
+      "name": "Malex Herald of Dagoniel",
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-05 13:00:16"
     }
   ],
   "25146": [
