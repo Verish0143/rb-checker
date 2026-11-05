@@ -5285,6 +5285,12 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-11-04 09:20:16"
+    },
+    {
+      "name": "Plague Golem",
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-11-05 12:00:26"
     }
   ],
   "25235": [
@@ -15163,6 +15169,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-05 11:40:21"
+    },
+    {
+      "name": "Meanas Anor",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-05 12:00:26"
     }
   ],
   "25763": [
@@ -16123,6 +16135,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-04 15:20:28"
+    },
+    {
+      "name": "Zombie Lord Crowl",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-05 12:00:26"
     }
   ],
   "25001": [
