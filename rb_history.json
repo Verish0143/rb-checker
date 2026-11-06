@@ -429,6 +429,12 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-11-04 15:40:20"
+    },
+    {
+      "name": "Queen Shyeed",
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-11-06 01:20:18"
     }
   ],
   "25677": [
@@ -15461,6 +15467,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-05 09:00:17"
+    },
+    {
+      "name": "Kernon",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-06 01:20:18"
     }
   ],
   "25793": [
@@ -16633,6 +16645,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-05 08:40:16"
+    },
+    {
+      "name": "Mammon Collector Talos",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-06 01:20:18"
     }
   ],
   "25429": [
