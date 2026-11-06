@@ -7391,6 +7391,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-05 09:20:16"
+    },
+    {
+      "name": "Shilen's Messenger Cabrio",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-06 05:20:17"
     }
   ],
   "25233": [
@@ -11175,6 +11181,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-05 08:00:17"
+    },
+    {
+      "name": "Beleth's Eye",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-06 05:20:17"
     }
   ],
   "25063": [
