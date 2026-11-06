@@ -1251,6 +1251,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-05 20:00:19"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-06 14:40:18"
     }
   ],
   "25684": [
@@ -1607,6 +1613,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-06 14:20:16"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-06 14:40:18"
     }
   ],
   "25544": [
@@ -1905,6 +1917,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-06 13:40:18"
+    },
+    {
+      "name": "Giant Marpanak",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-06 14:40:18"
     }
   ],
   "25681": [
