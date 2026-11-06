@@ -2189,6 +2189,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-11-05 15:20:20"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-06 00:00:19"
     }
   ],
   "25536": [
@@ -6371,6 +6377,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-05 21:00:18"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-06 00:00:19"
     }
   ],
   "25447": [
@@ -7807,6 +7819,12 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-11-04 17:20:17"
+    },
+    {
+      "name": "Enmity Ghost Ramdal",
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-11-06 00:00:19"
     }
   ],
   "25125": [
