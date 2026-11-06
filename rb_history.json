@@ -715,6 +715,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-05 10:20:17"
+    },
+    {
+      "name": "Gwindorr",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-06 15:20:17"
     }
   ],
   "25687": [
@@ -2285,6 +2291,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-11-06 14:20:16"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-06 15:20:17"
     }
   ],
   "25536": [
@@ -3261,6 +3273,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-05 09:00:17"
+    },
+    {
+      "name": "Uruka",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-06 15:20:17"
     }
   ],
   "25315": [
@@ -4229,6 +4247,12 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-11-05 16:40:19"
+    },
+    {
+      "name": "Last Lesser Giant Glaki",
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-11-06 15:20:17"
     }
   ],
   "25524": [
