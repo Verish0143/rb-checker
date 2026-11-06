@@ -4861,6 +4861,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-05 10:40:17"
+    },
+    {
+      "name": "Last Lesser Giant Olkuth",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-06 07:40:16"
     }
   ],
   "25249": [
@@ -5123,6 +5129,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-05 16:40:19"
+    },
+    {
+      "name": "Storm Winged Naga",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-06 07:40:16"
     }
   ],
   "25202": [
@@ -13335,6 +13347,12 @@
       "level": "28",
       "state": "no",
       "timestamp": "2026-11-05 08:00:17"
+    },
+    {
+      "name": "Partisan Leader Talakin",
+      "level": "28",
+      "state": "yes",
+      "timestamp": "2026-11-06 07:40:16"
     }
   ],
   "25038": [
