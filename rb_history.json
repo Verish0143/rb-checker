@@ -3755,6 +3755,12 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-11-05 17:00:19"
+    },
+    {
+      "name": "Longhorn Golkonda",
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-11-06 11:20:18"
     }
   ],
   "25143": [
@@ -14901,6 +14907,12 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-05 18:40:17"
+    },
+    {
+      "name": "Kaysha Herald of Icarus",
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-06 11:20:18"
     }
   ],
   "25373": [
@@ -14999,6 +15011,12 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-05 19:20:16"
+    },
+    {
+      "name": "Malex Herald of Dagoniel",
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-06 11:20:18"
     }
   ],
   "25146": [
@@ -17497,6 +17515,12 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-05 18:40:17"
+    },
+    {
+      "name": "Sukar Wererat Chief",
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-06 11:20:18"
     }
   ],
   "25741": [
