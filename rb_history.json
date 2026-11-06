@@ -611,6 +611,12 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-06 21:40:16"
+    },
+    {
+      "name": "Water Spirit Lian",
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-06 22:00:19"
     }
   ],
   "25674": [
@@ -7511,6 +7517,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-06 13:00:18"
+    },
+    {
+      "name": "Korim",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-06 22:00:19"
     }
   ],
   "25252": [
@@ -9769,6 +9781,12 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-05 10:40:17"
+    },
+    {
+      "name": "The 3rd Underwater Guardian",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-06 22:00:19"
     }
   ],
   "25238": [
@@ -12129,6 +12147,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-05 19:40:21"
+    },
+    {
+      "name": "Flame Lord Shadar",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-06 22:00:19"
     }
   ],
   "25354": [
@@ -12773,6 +12797,12 @@
       "level": "34",
       "state": "no",
       "timestamp": "2026-11-05 19:20:16"
+    },
+    {
+      "name": "Revenant of Sir Calibus",
+      "level": "34",
+      "state": "yes",
+      "timestamp": "2026-11-06 22:00:19"
     }
   ],
   "25023": [
@@ -15047,6 +15077,12 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-11-05 15:00:21"
+    },
+    {
+      "name": "Lead Tracker Sharuk",
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-11-06 22:00:19"
     }
   ],
   "25362": [
@@ -16257,6 +16293,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-06 20:40:17"
+    },
+    {
+      "name": "Kernon",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-06 22:00:19"
     }
   ],
   "25054": [
@@ -16595,6 +16637,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-06 16:00:17"
+    },
+    {
+      "name": "Meanas Anor",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-06 22:00:19"
     }
   ],
   "25453": [
