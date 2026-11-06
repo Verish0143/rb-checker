@@ -1299,6 +1299,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-06 18:40:15"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-06 19:40:14"
     }
   ],
   "25684": [
@@ -16455,6 +16461,12 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-05 09:40:16"
+    },
+    {
+      "name": "Doom Blade Tanatos",
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-06 19:40:14"
     }
   ],
   "25797": [
