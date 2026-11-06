@@ -6025,6 +6025,12 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-05 10:00:19"
+    },
+    {
+      "name": "Vanor Chief Kandra",
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-06 18:20:16"
     }
   ],
   "25199": [
@@ -16075,6 +16081,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-05 08:20:16"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-06 18:20:16"
     }
   ],
   "25794": [
