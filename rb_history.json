@@ -721,6 +721,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-06 15:20:17"
+    },
+    {
+      "name": "Gwindorr",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-06 17:00:18"
     }
   ],
   "25687": [
@@ -1269,6 +1275,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-06 15:40:16"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-06 17:00:18"
     }
   ],
   "25684": [
@@ -6797,6 +6809,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-06 16:00:17"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-06 17:00:18"
     }
   ],
   "25447": [
@@ -7957,6 +7975,12 @@
       "level": "69",
       "state": "yes",
       "timestamp": "2026-11-06 16:40:18"
+    },
+    {
+      "name": "Spirit of Andras, the Betrayer",
+      "level": "69",
+      "state": "no",
+      "timestamp": "2026-11-06 17:00:18"
     }
   ],
   "25263": [
@@ -10751,6 +10775,12 @@
       "level": "44",
       "state": "no",
       "timestamp": "2026-11-05 22:40:16"
+    },
+    {
+      "name": "Thief Kelbar",
+      "level": "44",
+      "state": "yes",
+      "timestamp": "2026-11-06 17:00:18"
     }
   ],
   "25085": [
@@ -16563,6 +16593,12 @@
       "level": "59",
       "state": "no",
       "timestamp": "2026-11-05 18:20:17"
+    },
+    {
+      "name": "Demon Kuri",
+      "level": "59",
+      "state": "yes",
+      "timestamp": "2026-11-06 17:00:18"
     }
   ],
   "25182": [
