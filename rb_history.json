@@ -2303,6 +2303,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-06 15:20:17"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-06 16:40:18"
     }
   ],
   "25536": [
@@ -4417,6 +4423,12 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-11-06 14:20:16"
+    },
+    {
+      "name": "Flamestone Giant",
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-11-06 16:40:18"
     }
   ],
   "25703": [
@@ -4783,6 +4795,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-06 13:40:18"
+    },
+    {
+      "name": "Bloody Empress Decarbia",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-06 16:40:18"
     }
   ],
   "25276": [
@@ -7933,6 +7951,12 @@
       "level": "69",
       "state": "no",
       "timestamp": "2026-11-05 17:40:02"
+    },
+    {
+      "name": "Spirit of Andras, the Betrayer",
+      "level": "69",
+      "state": "yes",
+      "timestamp": "2026-11-06 16:40:18"
     }
   ],
   "25263": [
@@ -12985,6 +13009,12 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-11-05 08:00:17"
+    },
+    {
+      "name": "Vuku Grand Seer Gharmash",
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-11-06 16:40:18"
     }
   ],
   "25392": [
