@@ -6571,6 +6571,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-04 16:20:17"
+    },
+    {
+      "name": "Immortal Savior Mardil",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-06 06:00:18"
     }
   ],
   "25281": [
@@ -6707,6 +6713,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-04 19:00:17"
+    },
+    {
+      "name": "Beast Lord Behemoth",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-06 06:00:18"
     }
   ],
   "25198": [
@@ -15139,6 +15151,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-05 20:00:19"
+    },
+    {
+      "name": "Ketra's Hero Hekaton",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-06 06:00:18"
     }
   ],
   "25299": [
@@ -15317,6 +15335,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-06 03:00:16"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-06 06:00:18"
     }
   ],
   "25309": [
