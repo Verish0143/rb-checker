@@ -2237,6 +2237,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-11-06 06:20:17"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-06 13:20:17"
     }
   ],
   "25536": [
@@ -12529,6 +12535,12 @@
       "level": "34",
       "state": "no",
       "timestamp": "2026-11-05 18:00:20"
+    },
+    {
+      "name": "Stakato Queen Zyrnna",
+      "level": "34",
+      "state": "yes",
+      "timestamp": "2026-11-06 13:20:17"
     }
   ],
   "25404": [
