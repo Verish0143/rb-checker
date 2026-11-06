@@ -1893,6 +1893,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-11-06 06:20:17"
+    },
+    {
+      "name": "Giant Marpanak",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-06 13:40:18"
     }
   ],
   "25681": [
@@ -4681,6 +4687,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-05 04:40:16"
+    },
+    {
+      "name": "Bloody Empress Decarbia",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-06 13:40:18"
     }
   ],
   "25276": [
@@ -9635,6 +9647,12 @@
       "level": "59",
       "state": "no",
       "timestamp": "2026-11-05 11:00:21"
+    },
+    {
+      "name": "Soulless Wild Boar",
+      "level": "59",
+      "state": "yes",
+      "timestamp": "2026-11-06 13:40:18"
     }
   ],
   "25032": [
@@ -15285,6 +15303,12 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-05 20:00:19"
+    },
+    {
+      "name": "Discarded Guardian",
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-06 13:40:18"
     }
   ],
   "25378": [
