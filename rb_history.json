@@ -295,6 +295,12 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-06 11:00:20"
+    },
+    {
+      "name": "Darion",
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-06 18:00:16"
     }
   ],
   "25671": [
@@ -1281,6 +1287,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-06 17:00:18"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-06 18:00:16"
     }
   ],
   "25684": [
@@ -15415,6 +15427,12 @@
       "level": "21",
       "state": "no",
       "timestamp": "2026-11-05 19:00:18"
+    },
+    {
+      "name": "Serpent Demon Bifrons",
+      "level": "21",
+      "state": "yes",
+      "timestamp": "2026-11-06 18:00:16"
     }
   ],
   "25372": [
@@ -17019,6 +17037,12 @@
       "level": "37",
       "state": "no",
       "timestamp": "2026-11-05 20:20:19"
+    },
+    {
+      "name": "Rayito the Looter",
+      "level": "37",
+      "state": "yes",
+      "timestamp": "2026-11-06 18:00:16"
     }
   ],
   "25506": [
@@ -17641,6 +17665,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-05 12:00:26"
+    },
+    {
+      "name": "Zombie Lord Crowl",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-06 18:00:16"
     }
   ],
   "25001": [
