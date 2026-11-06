@@ -14389,6 +14389,12 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-11-04 15:00:18"
+    },
+    {
+      "name": "Tracker Leader Sharuk",
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-11-06 02:40:19"
     }
   ],
   "25380": [
@@ -16601,6 +16607,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-05 07:40:27"
+    },
+    {
+      "name": "Ikuntai",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-06 02:40:19"
     }
   ],
   "25800": [
