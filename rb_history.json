@@ -2895,6 +2895,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-05 21:40:16"
+    },
+    {
+      "name": "Ketra's Commander Tayr",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-06 08:20:18"
     }
   ],
   "25283": [
@@ -8581,6 +8587,12 @@
       "level": "61",
       "state": "yes",
       "timestamp": "2026-11-05 23:20:20"
+    },
+    {
+      "name": "Fairy Queen Timiniel",
+      "level": "61",
+      "state": "no",
+      "timestamp": "2026-11-06 08:20:18"
     }
   ],
   "25766": [
@@ -9075,6 +9087,12 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-06 05:40:15"
+    },
+    {
+      "name": "Lord Ishka",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-06 08:20:18"
     }
   ],
   "25256": [
@@ -13031,6 +13049,12 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-11-05 07:40:27"
+    },
+    {
+      "name": "Cat's Eye Bandit",
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-11-06 08:20:18"
     }
   ],
   "25352": [
@@ -15315,6 +15339,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-05 15:20:20"
+    },
+    {
+      "name": "Ketra's Hero Hekaton",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-06 08:20:18"
     }
   ],
   "25790": [
@@ -16661,6 +16691,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-05 15:00:21"
+    },
+    {
+      "name": "Betrayer of Urutu Freki",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-06 08:20:18"
     }
   ],
   "25426": [
