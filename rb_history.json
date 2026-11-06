@@ -6761,6 +6761,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-06 13:00:18"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-06 16:00:17"
     }
   ],
   "25447": [
@@ -8281,6 +8287,12 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-11-06 00:00:19"
+    },
+    {
+      "name": "Enmity Ghost Ramdal",
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-11-06 16:00:17"
     }
   ],
   "25125": [
@@ -9749,6 +9761,12 @@
       "level": "59",
       "state": "yes",
       "timestamp": "2026-11-06 13:40:18"
+    },
+    {
+      "name": "Soulless Wild Boar",
+      "level": "59",
+      "state": "no",
+      "timestamp": "2026-11-06 16:00:17"
     }
   ],
   "25032": [
@@ -16343,6 +16361,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-05 09:20:16"
+    },
+    {
+      "name": "Meanas Anor",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-06 16:00:17"
     }
   ],
   "25453": [
