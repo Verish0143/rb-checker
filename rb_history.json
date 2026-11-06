@@ -2511,6 +2511,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-06 07:00:19"
+    },
+    {
+      "name": "Ember",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-06 08:40:18"
     }
   ],
   "29095": [
@@ -3281,6 +3287,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-06 04:40:17"
+    },
+    {
+      "name": "Varka's Chief Horus",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-06 08:40:18"
     }
   ],
   "25312": [
@@ -3415,6 +3427,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-06 07:00:19"
+    },
+    {
+      "name": "Varka's Commander Mos",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-06 08:40:18"
     }
   ],
   "25450": [
@@ -10027,6 +10045,12 @@
       "level": "55",
       "state": "yes",
       "timestamp": "2026-11-05 16:20:26"
+    },
+    {
+      "name": "Zaken's Butcher Krantz",
+      "level": "55",
+      "state": "no",
+      "timestamp": "2026-11-06 08:40:18"
     }
   ],
   "25159": [
@@ -15345,6 +15369,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-06 08:20:18"
+    },
+    {
+      "name": "Ketra's Hero Hekaton",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-06 08:40:18"
     }
   ],
   "25790": [
