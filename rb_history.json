@@ -2505,6 +2505,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-05 17:00:19"
+    },
+    {
+      "name": "Ember",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-06 07:00:19"
     }
   ],
   "29095": [
@@ -3397,6 +3403,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-05 05:00:20"
+    },
+    {
+      "name": "Varka's Commander Mos",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-06 07:00:19"
     }
   ],
   "25450": [
@@ -11467,6 +11479,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-05 15:00:21"
+    },
+    {
+      "name": "Fire Lord Shadar",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-06 07:00:19"
     }
   ],
   "25152": [
