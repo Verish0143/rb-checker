@@ -12215,6 +12215,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-05 18:20:17"
+    },
+    {
+      "name": "Gargoyle Lord Sirocco",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-06 20:40:17"
     }
   ],
   "25753": [
@@ -16221,6 +16227,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-05 08:40:16"
+    },
+    {
+      "name": "Kernon",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-06 20:40:17"
     }
   ],
   "25054": [
