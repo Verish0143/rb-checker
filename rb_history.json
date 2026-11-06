@@ -6383,6 +6383,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-06 00:00:19"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-06 01:00:19"
     }
   ],
   "25447": [
@@ -7173,6 +7179,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-04 18:40:18"
+    },
+    {
+      "name": "Roaring Skylancer",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-06 01:00:19"
     }
   ],
   "25035": [
