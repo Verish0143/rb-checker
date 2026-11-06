@@ -3041,6 +3041,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-05 13:00:16"
+    },
+    {
+      "name": "Lilith",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-06 10:00:18"
     }
   ],
   "29065": [
@@ -5687,6 +5693,12 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-11-06 03:20:16"
+    },
+    {
+      "name": "Plague Golem",
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-11-06 10:00:18"
     }
   ],
   "25235": [
@@ -7321,6 +7333,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-05 14:40:17"
+    },
+    {
+      "name": "Palibati Queen Themis",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-06 10:00:18"
     }
   ],
   "25163": [
@@ -7577,6 +7595,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-06 05:20:17"
+    },
+    {
+      "name": "Shilen's Messenger Cabrio",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-06 10:00:18"
     }
   ],
   "25233": [
@@ -15919,6 +15943,12 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-06 04:40:17"
+    },
+    {
+      "name": "Doom Blade Tanatos",
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-06 10:00:18"
     }
   ],
   "25248": [
