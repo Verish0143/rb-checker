@@ -2627,6 +2627,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-05 13:00:16"
+    },
+    {
+      "name": "Gordon",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-06 05:40:15"
     }
   ],
   "25305": [
@@ -8625,6 +8631,12 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-04 18:40:18"
+    },
+    {
+      "name": "Ancient Drake",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-06 05:40:15"
     }
   ],
   "25106": [
@@ -8979,6 +8991,12 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-05 10:40:17"
+    },
+    {
+      "name": "Lord Ishka",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-06 05:40:15"
     }
   ],
   "25256": [
