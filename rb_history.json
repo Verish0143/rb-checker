@@ -4259,6 +4259,12 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-11-06 15:20:17"
+    },
+    {
+      "name": "Last Lesser Giant Glaki",
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-06 16:20:17"
     }
   ],
   "25524": [
@@ -4673,6 +4679,12 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-11-06 14:20:16"
+    },
+    {
+      "name": "Ocean Flame Ashakiel",
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-11-06 16:20:17"
     }
   ],
   "25266": [
@@ -13513,6 +13525,12 @@
       "level": "30",
       "state": "no",
       "timestamp": "2026-11-05 08:40:16"
+    },
+    {
+      "name": "Giant Wasteland Basilisk",
+      "level": "30",
+      "state": "yes",
+      "timestamp": "2026-11-06 16:20:17"
     }
   ],
   "25169": [
