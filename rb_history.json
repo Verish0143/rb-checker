@@ -2663,6 +2663,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-06 05:40:15"
+    },
+    {
+      "name": "Gordon",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-06 09:00:16"
     }
   ],
   "25305": [
@@ -3981,6 +3987,12 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-11-06 06:40:18"
+    },
+    {
+      "name": "Hestia, Guardian Deity of the Hot Springs",
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-06 09:00:16"
     }
   ],
   "25245": [
@@ -4401,6 +4413,12 @@
       "level": "76",
       "state": "yes",
       "timestamp": "2026-11-06 04:20:17"
+    },
+    {
+      "name": "Gigantic Golem",
+      "level": "76",
+      "state": "no",
+      "timestamp": "2026-11-06 09:00:16"
     }
   ],
   "25205": [
@@ -5001,6 +5019,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-05 17:20:18"
+    },
+    {
+      "name": "Menacing Palatanos",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-06 09:00:16"
     }
   ],
   "25229": [
@@ -6533,6 +6557,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-06 08:00:18"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-06 09:00:16"
     }
   ],
   "25447": [
@@ -9721,6 +9751,12 @@
       "level": "56",
       "state": "yes",
       "timestamp": "2026-11-05 17:40:02"
+    },
+    {
+      "name": "Refugee Applicant Leo",
+      "level": "56",
+      "state": "no",
+      "timestamp": "2026-11-06 09:00:16"
     }
   ],
   "25434": [
@@ -16345,6 +16381,12 @@
       "level": "43",
       "state": "no",
       "timestamp": "2026-11-04 22:20:16"
+    },
+    {
+      "name": "Earth Protector Panathen",
+      "level": "43",
+      "state": "yes",
+      "timestamp": "2026-11-06 09:00:16"
     }
   ],
   "25192": [
