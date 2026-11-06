@@ -14545,6 +14545,12 @@
       "level": "24",
       "state": "no",
       "timestamp": "2026-11-05 07:40:27"
+    },
+    {
+      "name": "Unrequited Kael",
+      "level": "24",
+      "state": "yes",
+      "timestamp": "2026-11-06 14:00:19"
     }
   ],
   "25366": [
@@ -15449,6 +15455,12 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-11-05 19:00:18"
+    },
+    {
+      "name": "Madness Beast",
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-11-06 14:00:19"
     }
   ],
   "25787": [
