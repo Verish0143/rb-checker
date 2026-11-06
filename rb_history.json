@@ -8327,6 +8327,12 @@
       "level": "66",
       "state": "no",
       "timestamp": "2026-11-05 17:20:18"
+    },
+    {
+      "name": "Demon's Agent Falston",
+      "level": "66",
+      "state": "yes",
+      "timestamp": "2026-11-06 22:40:16"
     }
   ],
   "25444": [
@@ -12435,6 +12441,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-05 19:20:16"
+    },
+    {
+      "name": "Guilotine, Warden of the Execution Grounds",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-06 22:40:16"
     }
   ],
   "25388": [
@@ -14619,6 +14631,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-05 11:40:21"
+    },
+    {
+      "name": "Soul Scavenger",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-06 22:40:16"
     }
   ],
   "25127": [
@@ -17347,6 +17365,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-05 15:00:21"
+    },
+    {
+      "name": "Soul Collector Acheron",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-06 22:40:16"
     }
   ],
   "25223": [
