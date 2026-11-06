@@ -3303,6 +3303,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-06 15:20:17"
+    },
+    {
+      "name": "Uruka",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-06 17:20:15"
     }
   ],
   "25315": [
@@ -8709,6 +8715,12 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-11-06 15:40:16"
+    },
+    {
+      "name": "Shilen's Priest Hisilrome",
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-11-06 17:20:15"
     }
   ],
   "25226": [
@@ -9111,6 +9123,12 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-06 05:40:15"
+    },
+    {
+      "name": "Ancient Drake",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-06 17:20:15"
     }
   ],
   "25106": [
@@ -9587,6 +9605,12 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-06 01:40:16"
+    },
+    {
+      "name": "Taik High Prefect Arak",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-06 17:20:15"
     }
   ],
   "25016": [
@@ -16599,6 +16623,12 @@
       "level": "59",
       "state": "yes",
       "timestamp": "2026-11-06 17:00:18"
+    },
+    {
+      "name": "Demon Kuri",
+      "level": "59",
+      "state": "no",
+      "timestamp": "2026-11-06 17:20:15"
     }
   ],
   "25182": [
