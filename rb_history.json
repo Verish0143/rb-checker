@@ -2709,6 +2709,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-06 08:40:18"
+    },
+    {
+      "name": "Ember",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-07 04:40:15"
     }
   ],
   "29095": [
@@ -5707,6 +5713,12 @@
       "level": "74",
       "state": "yes",
       "timestamp": "2026-11-07 04:00:16"
+    },
+    {
+      "name": "Krokian Padisha Sobekk",
+      "level": "74",
+      "state": "no",
+      "timestamp": "2026-11-07 04:40:15"
     }
   ],
   "25220": [
