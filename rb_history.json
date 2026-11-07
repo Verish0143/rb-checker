@@ -16933,6 +16933,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-06 10:20:16"
+    },
+    {
+      "name": "Meanas Anor",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-07 03:20:15"
     }
   ],
   "25763": [
@@ -18383,6 +18389,12 @@
       "level": "20",
       "state": "no",
       "timestamp": "2026-11-05 18:40:17"
+    },
+    {
+      "name": "Zombie Lord Ferkel",
+      "level": "20",
+      "state": "yes",
+      "timestamp": "2026-11-07 03:20:15"
     }
   ],
   "25375": [
