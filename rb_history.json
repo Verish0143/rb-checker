@@ -1703,6 +1703,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-06 15:00:19"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-07 00:00:17"
     }
   ],
   "25544": [
@@ -2007,6 +2013,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-11-06 14:40:18"
+    },
+    {
+      "name": "Giant Marpanak",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-07 00:00:17"
     }
   ],
   "25681": [
@@ -6923,6 +6935,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-06 21:00:16"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-07 00:00:17"
     }
   ],
   "25447": [
@@ -12433,6 +12451,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-05 15:00:21"
+    },
+    {
+      "name": "Guillotine Warden",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-07 00:00:17"
     }
   ],
   "25118": [
