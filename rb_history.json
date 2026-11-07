@@ -4201,6 +4201,12 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-11-06 09:20:19"
+    },
+    {
+      "name": "Fire of Wrath Shuriel",
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-11-07 05:40:15"
     }
   ],
   "25293": [
@@ -8409,6 +8415,12 @@
       "level": "67",
       "state": "yes",
       "timestamp": "2026-11-06 20:20:18"
+    },
+    {
+      "name": "Kernon's Faithful Servant Kelone",
+      "level": "67",
+      "state": "no",
+      "timestamp": "2026-11-07 05:40:15"
     }
   ],
   "25322": [
@@ -8869,6 +8881,12 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-11-06 15:40:16"
+    },
+    {
+      "name": "Rahha",
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-11-07 05:40:15"
     }
   ],
   "25478": [
@@ -9295,6 +9313,12 @@
       "level": "61",
       "state": "yes",
       "timestamp": "2026-11-07 02:20:16"
+    },
+    {
+      "name": "Fairy Queen Timiniel",
+      "level": "61",
+      "state": "no",
+      "timestamp": "2026-11-07 05:40:15"
     }
   ],
   "25766": [
