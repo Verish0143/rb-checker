@@ -2127,6 +2127,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-07 13:20:19"
+    },
+    {
+      "name": "Giant Marpanak",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-07 15:00:16"
     }
   ],
   "25681": [
@@ -3999,6 +4005,12 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-11-07 08:40:16"
+    },
+    {
+      "name": "Cherub Galaxia",
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-11-07 15:00:16"
     }
   ],
   "25126": [
@@ -6281,6 +6293,12 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-11-07 13:40:15"
+    },
+    {
+      "name": "Plague Golem",
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-11-07 15:00:16"
     }
   ],
   "25235": [
@@ -7669,6 +7687,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-07 08:00:18"
+    },
+    {
+      "name": "Fafurion's Herald Lokness",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-07 15:00:16"
     }
   ],
   "25325": [
