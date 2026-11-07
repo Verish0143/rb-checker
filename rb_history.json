@@ -6045,6 +6045,12 @@
       "level": "73",
       "state": "yes",
       "timestamp": "2026-11-07 04:20:18"
+    },
+    {
+      "name": "Death Lord Hallate",
+      "level": "73",
+      "state": "no",
+      "timestamp": "2026-11-07 08:20:17"
     }
   ],
   "25523": [
@@ -7181,6 +7187,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-07 08:00:18"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-07 08:20:17"
     }
   ],
   "25447": [
@@ -7327,6 +7339,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-07 07:00:15"
+    },
+    {
+      "name": "Immortal Savior Mardil",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-07 08:20:17"
     }
   ],
   "25281": [
@@ -16565,6 +16583,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-06 06:00:18"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-07 08:20:17"
     }
   ],
   "25309": [
@@ -16877,6 +16901,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-07 04:00:16"
+    },
+    {
+      "name": "Kernon",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-07 08:20:17"
     }
   ],
   "25793": [
