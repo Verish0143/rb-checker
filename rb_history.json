@@ -2495,6 +2495,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-07 11:40:14"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-07 12:00:16"
     }
   ],
   "25536": [
@@ -7247,6 +7253,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-07 08:20:17"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-07 12:00:16"
     }
   ],
   "25447": [
