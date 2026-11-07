@@ -9109,6 +9109,12 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-11-06 16:00:17"
+    },
+    {
+      "name": "Enmity Ghost Ramdal",
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:20:17"
     }
   ],
   "25125": [
@@ -15965,6 +15971,12 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-06 22:00:19"
+    },
+    {
+      "name": "Lead Tracker Sharuk",
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-07 18:20:17"
     }
   ],
   "25362": [
@@ -18995,6 +19007,12 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-06 01:40:16"
+    },
+    {
+      "name": "Greyclaw Kutus",
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-07 18:20:17"
     }
   ],
   "25357": [
@@ -19143,6 +19161,12 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-06 06:20:17"
+    },
+    {
+      "name": "Sukar Wererat Chief",
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-07 18:20:17"
     }
   ],
   "25750": [
