@@ -2715,6 +2715,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-07 04:40:15"
+    },
+    {
+      "name": "Ember",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-07 05:00:16"
     }
   ],
   "29095": [
@@ -5275,6 +5281,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-06 09:40:19"
+    },
+    {
+      "name": "Last Lesser Giant Olkuth",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-07 05:00:16"
     }
   ],
   "25249": [
@@ -7049,6 +7061,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-07 04:00:16"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-07 05:00:16"
     }
   ],
   "25447": [
