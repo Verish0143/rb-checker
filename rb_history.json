@@ -1769,6 +1769,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-07 10:20:19"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-07 10:40:16"
     }
   ],
   "25544": [
@@ -10261,6 +10267,12 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-06 22:00:19"
+    },
+    {
+      "name": "The 3rd Underwater Guardian",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-07 10:40:16"
     }
   ],
   "25238": [
@@ -10581,6 +10593,12 @@
       "level": "57",
       "state": "yes",
       "timestamp": "2026-11-06 22:20:15"
+    },
+    {
+      "name": "Timak Seer Ragoth",
+      "level": "57",
+      "state": "no",
+      "timestamp": "2026-11-07 10:40:16"
     }
   ],
   "25463": [
@@ -10649,6 +10667,12 @@
       "level": "56",
       "state": "yes",
       "timestamp": "2026-11-06 09:40:19"
+    },
+    {
+      "name": "Harit Guardian Garangky",
+      "level": "56",
+      "state": "no",
+      "timestamp": "2026-11-07 10:40:16"
     }
   ],
   "25122": [
@@ -10717,6 +10741,12 @@
       "level": "56",
       "state": "yes",
       "timestamp": "2026-11-07 08:00:18"
+    },
+    {
+      "name": "Refugee Applicant Leo",
+      "level": "56",
+      "state": "no",
+      "timestamp": "2026-11-07 10:40:16"
     }
   ],
   "25434": [
