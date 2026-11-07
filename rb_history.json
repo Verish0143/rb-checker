@@ -7443,6 +7443,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-06 09:40:19"
+    },
+    {
+      "name": "Flame of Splendor Barakiel",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-07 00:20:24"
     }
   ],
   "25092": [
@@ -11579,6 +11585,12 @@
       "level": "39",
       "state": "no",
       "timestamp": "2026-11-05 21:40:16"
+    },
+    {
+      "name": "Leader of Cat Gang",
+      "level": "39",
+      "state": "yes",
+      "timestamp": "2026-11-07 00:20:24"
     }
   ],
   "25170": [
