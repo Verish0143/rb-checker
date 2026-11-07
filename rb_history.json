@@ -4251,6 +4251,12 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-11-06 09:00:16"
+    },
+    {
+      "name": "Hestia, Guardian Deity of the Hot Springs",
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-11-07 03:00:18"
     }
   ],
   "25245": [
@@ -9559,6 +9565,12 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-05 15:20:20"
+    },
+    {
+      "name": "Guardian of the Statue of Giant Karum",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-07 03:00:18"
     }
   ],
   "25760": [
@@ -11833,6 +11845,12 @@
       "level": "36",
       "state": "no",
       "timestamp": "2026-11-05 20:00:19"
+    },
+    {
+      "name": "Sebek",
+      "level": "36",
+      "state": "yes",
+      "timestamp": "2026-11-07 03:00:18"
     }
   ],
   "25398": [
