@@ -3921,6 +3921,12 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-11-06 10:40:16"
+    },
+    {
+      "name": "Cherub Galaxia",
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-11-07 08:40:16"
     }
   ],
   "25126": [
@@ -7719,6 +7725,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-07 00:20:24"
+    },
+    {
+      "name": "Flame of Splendor Barakiel",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-07 08:40:16"
     }
   ],
   "25092": [
@@ -7981,6 +7993,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-07 02:40:16"
+    },
+    {
+      "name": "Palibati Queen Themis",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-07 08:40:16"
     }
   ],
   "25163": [
@@ -8255,6 +8273,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-07 03:40:15"
+    },
+    {
+      "name": "Shilen's Messenger Cabrio",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-07 08:40:16"
     }
   ],
   "25233": [
@@ -9171,6 +9195,12 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-11-07 07:00:15"
+    },
+    {
+      "name": "Shilen's Priest Hisilrome",
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-11-07 08:40:16"
     }
   ],
   "25226": [
@@ -9841,6 +9871,12 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-07 03:00:18"
+    },
+    {
+      "name": "Guardian of the Statue of Giant Karum",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-07 08:40:16"
     }
   ],
   "25760": [
@@ -16589,6 +16625,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-07 08:20:17"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-07 08:40:16"
     }
   ],
   "25309": [
