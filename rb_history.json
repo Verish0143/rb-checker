@@ -811,6 +811,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-07 21:20:15"
+    },
+    {
+      "name": "Gwindorr",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-07 22:00:16"
     }
   ],
   "25687": [
@@ -2591,6 +2597,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-07 21:40:17"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-07 22:00:16"
     }
   ],
   "25536": [
@@ -8329,6 +8341,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-07 08:40:16"
+    },
+    {
+      "name": "Palibati Queen Themis",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-07 22:00:16"
     }
   ],
   "25163": [
@@ -18769,6 +18787,12 @@
       "level": "25",
       "state": "yes",
       "timestamp": "2026-11-06 01:20:18"
+    },
+    {
+      "name": "Mammon Collector Talos",
+      "level": "25",
+      "state": "no",
+      "timestamp": "2026-11-07 22:00:16"
     }
   ],
   "25429": [
