@@ -3281,6 +3281,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-06 10:20:16"
+    },
+    {
+      "name": "Lilith",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-07 05:20:17"
     }
   ],
   "29065": [
@@ -3453,6 +3459,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-06 17:20:15"
+    },
+    {
+      "name": "Uruka",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-07 05:20:17"
     }
   ],
   "25315": [
@@ -5287,6 +5299,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-07 05:00:16"
+    },
+    {
+      "name": "Last Lesser Giant Olkuth",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-07 05:20:17"
     }
   ],
   "25249": [
