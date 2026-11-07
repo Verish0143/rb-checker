@@ -2983,6 +2983,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-05 15:20:20"
+    },
+    {
+      "name": "Ketra's Chief Brakki",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-07 02:40:16"
     }
   ],
   "25302": [
@@ -6249,6 +6255,12 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-06 10:20:16"
+    },
+    {
+      "name": "Water Dragon Seer Sheshark",
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-07 02:40:16"
     }
   ],
   "25328": [
@@ -7729,6 +7741,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-06 10:00:18"
+    },
+    {
+      "name": "Palibati Queen Themis",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-07 02:40:16"
     }
   ],
   "25163": [
