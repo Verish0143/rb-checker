@@ -149,6 +149,12 @@
       "level": "84",
       "state": "no",
       "timestamp": "2026-11-07 12:40:19"
+    },
+    {
+      "name": "Anais",
+      "level": "84",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:00:16"
     }
   ],
   "25603": [
@@ -2145,6 +2151,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-11-07 15:00:16"
+    },
+    {
+      "name": "Giant Marpanak",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:00:16"
     }
   ],
   "25681": [
@@ -2549,6 +2561,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-11-07 12:00:16"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:00:16"
     }
   ],
   "25536": [
@@ -2583,6 +2601,12 @@
       "level": "81",
       "state": "no",
       "timestamp": "2026-11-06 21:40:16"
+    },
+    {
+      "name": "Typhoon",
+      "level": "81",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:00:16"
     }
   ],
   "25286": [
@@ -2707,6 +2731,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-05 23:40:22"
+    },
+    {
+      "name": "Andreas Van Halter",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:00:16"
     }
   ],
   "25319": [
@@ -3011,6 +3041,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-06 09:00:16"
+    },
+    {
+      "name": "Gordon",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:00:16"
     }
   ],
   "25305": [
@@ -3731,6 +3767,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-07 17:20:16"
+    },
+    {
+      "name": "Varka's Chief Horus",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-07 18:00:16"
     }
   ],
   "25312": [
@@ -4831,6 +4873,12 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-11-06 16:40:18"
+    },
+    {
+      "name": "Flamestone Giant",
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:00:16"
     }
   ],
   "25703": [
@@ -5373,6 +5421,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-06 10:20:16"
+    },
+    {
+      "name": "Death Lord Ipos",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:00:16"
     }
   ],
   "25282": [
@@ -6505,6 +6559,12 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-06 22:20:15"
+    },
+    {
+      "name": "Vanor Chief Kandra",
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:00:16"
     }
   ],
   "25199": [
@@ -8069,6 +8129,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-06 22:00:19"
+    },
+    {
+      "name": "Korim",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:00:16"
     }
   ],
   "25252": [
@@ -8313,6 +8379,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-06 10:20:16"
+    },
+    {
+      "name": "Roaring Skylancer",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:00:16"
     }
   ],
   "25035": [
@@ -8635,6 +8707,12 @@
       "level": "69",
       "state": "no",
       "timestamp": "2026-11-06 17:00:18"
+    },
+    {
+      "name": "Spirit of Andras, the Betrayer",
+      "level": "69",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:00:16"
     }
   ],
   "25263": [
@@ -9697,6 +9775,12 @@
       "level": "61",
       "state": "no",
       "timestamp": "2026-11-07 05:40:15"
+    },
+    {
+      "name": "Fairy Queen Timiniel",
+      "level": "61",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:00:16"
     }
   ],
   "25766": [
@@ -9837,6 +9921,12 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-06 17:20:15"
+    },
+    {
+      "name": "Ancient Drake",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:00:16"
     }
   ],
   "25106": [
@@ -14861,6 +14951,12 @@
       "level": "28",
       "state": "yes",
       "timestamp": "2026-11-06 12:40:16"
+    },
+    {
+      "name": "Tirak",
+      "level": "28",
+      "state": "no",
+      "timestamp": "2026-11-07 18:00:16"
     }
   ],
   "25365": [
@@ -17451,6 +17547,12 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-06 22:20:15"
+    },
+    {
+      "name": "Doom Blade Tanatos",
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-07 18:00:16"
     }
   ],
   "25797": [
