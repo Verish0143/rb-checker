@@ -2995,6 +2995,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-07 02:40:16"
+    },
+    {
+      "name": "Ketra's Chief Brakki",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-07 04:00:16"
     }
   ],
   "25302": [
@@ -3111,6 +3117,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-06 08:20:18"
+    },
+    {
+      "name": "Ketra's Commander Tayr",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-07 04:00:16"
     }
   ],
   "25283": [
@@ -4263,6 +4275,12 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-11-07 03:00:18"
+    },
+    {
+      "name": "Hestia, Guardian Deity of the Hot Springs",
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-07 04:00:16"
     }
   ],
   "25245": [
@@ -5671,6 +5689,12 @@
       "level": "74",
       "state": "no",
       "timestamp": "2026-11-06 09:40:19"
+    },
+    {
+      "name": "Krokian Padisha Sobekk",
+      "level": "74",
+      "state": "yes",
+      "timestamp": "2026-11-07 04:00:16"
     }
   ],
   "25220": [
@@ -6989,6 +7013,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-07 01:00:16"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-07 04:00:16"
     }
   ],
   "25447": [
@@ -16601,6 +16631,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-06 09:20:19"
+    },
+    {
+      "name": "Kernon",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-07 04:00:16"
     }
   ],
   "25793": [
