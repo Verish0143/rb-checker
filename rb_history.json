@@ -2567,6 +2567,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-07 18:00:16"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-07 21:00:16"
     }
   ],
   "25536": [
@@ -16251,6 +16257,12 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-06 11:20:18"
+    },
+    {
+      "name": "Kaysha Herald of Icarus",
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-07 21:00:16"
     }
   ],
   "25373": [
@@ -19123,6 +19135,12 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-06 11:20:18"
+    },
+    {
+      "name": "Sukar Wererat Chief",
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-07 21:00:16"
     }
   ],
   "25741": [
