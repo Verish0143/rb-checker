@@ -4085,6 +4085,12 @@
       "level": "79",
       "state": "yes",
       "timestamp": "2026-11-07 06:20:17"
+    },
+    {
+      "name": "Longhorn Golkonda",
+      "level": "79",
+      "state": "no",
+      "timestamp": "2026-11-07 07:40:15"
     }
   ],
   "25143": [
@@ -16627,6 +16633,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-07 07:20:16"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-07 07:40:15"
     }
   ],
   "25794": [
