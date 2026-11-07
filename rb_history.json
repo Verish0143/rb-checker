@@ -4643,6 +4643,12 @@
       "level": "78",
       "state": "no",
       "timestamp": "2026-11-06 16:20:17"
+    },
+    {
+      "name": "Last Lesser Giant Glaki",
+      "level": "78",
+      "state": "yes",
+      "timestamp": "2026-11-07 15:40:16"
     }
   ],
   "25524": [
@@ -4941,6 +4947,12 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-11-06 09:00:16"
+    },
+    {
+      "name": "Gigantic Golem",
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-11-07 15:40:16"
     }
   ],
   "25205": [
