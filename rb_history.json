@@ -155,6 +155,12 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-07 18:00:16"
+    },
+    {
+      "name": "Anais",
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-07 21:40:17"
     }
   ],
   "25603": [
@@ -2579,6 +2585,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-11-07 21:00:16"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-07 21:40:17"
     }
   ],
   "25536": [
@@ -16141,6 +16153,12 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-06 02:40:19"
+    },
+    {
+      "name": "Tracker Leader Sharuk",
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-07 21:40:17"
     }
   ],
   "25380": [
@@ -18993,6 +19011,12 @@
       "level": "23",
       "state": "yes",
       "timestamp": "2026-11-07 04:20:18"
+    },
+    {
+      "name": "Greyclaw Kutus",
+      "level": "23",
+      "state": "no",
+      "timestamp": "2026-11-07 21:40:17"
     }
   ],
   "25735": [
