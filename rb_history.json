@@ -6459,6 +6459,12 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-07 02:40:16"
+    },
+    {
+      "name": "Water Dragon Seer Sheshark",
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-07 09:20:16"
     }
   ],
   "25328": [
@@ -9037,6 +9043,12 @@
       "level": "65",
       "state": "yes",
       "timestamp": "2026-11-07 05:40:15"
+    },
+    {
+      "name": "Rahha",
+      "level": "65",
+      "state": "no",
+      "timestamp": "2026-11-07 09:20:16"
     }
   ],
   "25478": [
