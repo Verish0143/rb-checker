@@ -751,6 +751,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-06 17:00:18"
+    },
+    {
+      "name": "Gwindorr",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-07 06:20:17"
     }
   ],
   "25687": [
@@ -1347,6 +1353,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-07 00:40:17"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-07 06:20:17"
     }
   ],
   "25684": [
@@ -2037,6 +2049,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-07 00:00:17"
+    },
+    {
+      "name": "Giant Marpanak",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-07 06:20:17"
     }
   ],
   "25681": [
@@ -4043,6 +4061,12 @@
       "level": "79",
       "state": "no",
       "timestamp": "2026-11-06 13:00:18"
+    },
+    {
+      "name": "Longhorn Golkonda",
+      "level": "79",
+      "state": "yes",
+      "timestamp": "2026-11-07 06:20:17"
     }
   ],
   "25143": [
@@ -9849,6 +9873,12 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-06 08:20:18"
+    },
+    {
+      "name": "Lord Ishka",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-07 06:20:17"
     }
   ],
   "25256": [
@@ -16843,6 +16873,12 @@
       "level": "72",
       "state": "no",
       "timestamp": "2026-11-06 10:00:18"
+    },
+    {
+      "name": "Doom Blade Tanatos",
+      "level": "72",
+      "state": "yes",
+      "timestamp": "2026-11-07 06:20:17"
     }
   ],
   "25248": [
