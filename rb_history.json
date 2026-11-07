@@ -5237,6 +5237,12 @@
       "level": "76",
       "state": "no",
       "timestamp": "2026-11-06 16:20:17"
+    },
+    {
+      "name": "Ocean Flame Ashakiel",
+      "level": "76",
+      "state": "yes",
+      "timestamp": "2026-11-07 23:40:15"
     }
   ],
   "25266": [
@@ -7547,6 +7553,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-07 20:40:18"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-07 23:40:15"
     }
   ],
   "25447": [
@@ -9731,6 +9743,12 @@
       "level": "62",
       "state": "no",
       "timestamp": "2026-11-06 15:40:16"
+    },
+    {
+      "name": "Roaring Lord Kastor",
+      "level": "62",
+      "state": "yes",
+      "timestamp": "2026-11-07 23:40:15"
     }
   ],
   "25423": [
@@ -15579,6 +15597,12 @@
       "level": "25",
       "state": "no",
       "timestamp": "2026-11-07 00:40:17"
+    },
+    {
+      "name": "Soul Scavenger",
+      "level": "25",
+      "state": "yes",
+      "timestamp": "2026-11-07 23:40:15"
     }
   ],
   "25127": [
