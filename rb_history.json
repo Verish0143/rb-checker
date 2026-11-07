@@ -5185,6 +5185,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-06 16:40:18"
+    },
+    {
+      "name": "Bloody Empress Decarbia",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-07 16:00:15"
     }
   ],
   "25276": [
@@ -7331,6 +7337,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-07 12:20:16"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-07 16:00:15"
     }
   ],
   "25447": [
@@ -16261,6 +16273,12 @@
       "level": "21",
       "state": "yes",
       "timestamp": "2026-11-06 18:00:16"
+    },
+    {
+      "name": "Serpent Demon Bifrons",
+      "level": "21",
+      "state": "no",
+      "timestamp": "2026-11-07 16:00:15"
     }
   ],
   "25372": [
