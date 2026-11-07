@@ -1811,6 +1811,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-07 17:00:18"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-07 17:20:16"
     }
   ],
   "25544": [
@@ -3719,6 +3725,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-06 08:40:18"
+    },
+    {
+      "name": "Varka's Chief Horus",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-07 17:20:16"
     }
   ],
   "25312": [
@@ -5643,6 +5655,12 @@
       "level": "75",
       "state": "yes",
       "timestamp": "2026-11-07 17:00:18"
+    },
+    {
+      "name": "Menacing Palatanos",
+      "level": "75",
+      "state": "no",
+      "timestamp": "2026-11-07 17:20:16"
     }
   ],
   "25229": [
