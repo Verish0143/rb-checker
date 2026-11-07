@@ -7481,6 +7481,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-07 19:40:16"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-07 20:40:18"
     }
   ],
   "25447": [
@@ -19259,6 +19265,12 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-07 03:20:15"
+    },
+    {
+      "name": "Zombie Lord Ferkel",
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-07 20:40:18"
     }
   ],
   "25375": [
@@ -19321,6 +19333,12 @@
       "level": "20",
       "state": "yes",
       "timestamp": "2026-11-06 18:40:15"
+    },
+    {
+      "name": "Zombie Lord Ferkel",
+      "level": "20",
+      "state": "no",
+      "timestamp": "2026-11-07 20:40:18"
     }
   ]
 }
