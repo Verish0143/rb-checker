@@ -5633,6 +5633,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-06 09:20:19"
+    },
+    {
+      "name": "Storm Winged Naga",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-07 07:00:15"
     }
   ],
   "25202": [
@@ -7273,6 +7279,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-06 09:20:19"
+    },
+    {
+      "name": "Immortal Savior Mardil",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-07 07:00:15"
     }
   ],
   "25281": [
@@ -9087,6 +9099,12 @@
       "level": "65",
       "state": "no",
       "timestamp": "2026-11-06 17:20:15"
+    },
+    {
+      "name": "Shilen's Priest Hisilrome",
+      "level": "65",
+      "state": "yes",
+      "timestamp": "2026-11-07 07:00:15"
     }
   ],
   "25226": [
