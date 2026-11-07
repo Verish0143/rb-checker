@@ -459,6 +459,12 @@
       "level": "84",
       "state": "yes",
       "timestamp": "2026-11-07 03:40:15"
+    },
+    {
+      "name": "Queen Shyeed",
+      "level": "84",
+      "state": "no",
+      "timestamp": "2026-11-07 06:40:17"
     }
   ],
   "25677": [
@@ -2435,6 +2441,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-11-06 19:20:17"
+    },
+    {
+      "name": "Gorgolos",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-07 06:40:17"
     }
   ],
   "25536": [
