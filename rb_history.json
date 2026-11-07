@@ -2121,6 +2121,12 @@
       "level": "82",
       "state": "no",
       "timestamp": "2026-11-07 06:20:17"
+    },
+    {
+      "name": "Giant Marpanak",
+      "level": "82",
+      "state": "yes",
+      "timestamp": "2026-11-07 13:20:19"
     }
   ],
   "25681": [
@@ -16671,6 +16677,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-06 08:40:18"
+    },
+    {
+      "name": "Ketra's Hero Hekaton",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-07 13:20:19"
     }
   ],
   "25790": [
