@@ -1437,6 +1437,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-07 12:20:16"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-07 22:20:18"
     }
   ],
   "25684": [
@@ -2175,6 +2181,12 @@
       "level": "82",
       "state": "yes",
       "timestamp": "2026-11-07 18:00:16"
+    },
+    {
+      "name": "Giant Marpanak",
+      "level": "82",
+      "state": "no",
+      "timestamp": "2026-11-07 22:20:18"
     }
   ],
   "25681": [
@@ -8925,6 +8937,12 @@
       "level": "67",
       "state": "no",
       "timestamp": "2026-11-07 05:40:15"
+    },
+    {
+      "name": "Kernon's Faithful Servant Kelone",
+      "level": "67",
+      "state": "yes",
+      "timestamp": "2026-11-07 22:20:18"
     }
   ],
   "25322": [
