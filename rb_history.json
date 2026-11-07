@@ -3047,6 +3047,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-07 18:00:16"
+    },
+    {
+      "name": "Gordon",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-07 19:40:16"
     }
   ],
   "25305": [
@@ -3925,6 +3931,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-07 04:20:18"
+    },
+    {
+      "name": "Varka's Commander Mos",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-07 19:40:16"
     }
   ],
   "25450": [
@@ -7457,6 +7469,12 @@
       "level": "71",
       "state": "no",
       "timestamp": "2026-11-07 16:40:16"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "yes",
+      "timestamp": "2026-11-07 19:40:16"
     }
   ],
   "25447": [
