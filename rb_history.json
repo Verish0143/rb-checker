@@ -1721,6 +1721,12 @@
       "level": "83",
       "state": "yes",
       "timestamp": "2026-11-07 00:00:17"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "no",
+      "timestamp": "2026-11-07 06:00:18"
     }
   ],
   "25544": [
@@ -8543,6 +8549,12 @@
       "level": "66",
       "state": "yes",
       "timestamp": "2026-11-06 22:40:16"
+    },
+    {
+      "name": "Demon's Agent Falston",
+      "level": "66",
+      "state": "no",
+      "timestamp": "2026-11-07 06:00:18"
     }
   ],
   "25444": [
