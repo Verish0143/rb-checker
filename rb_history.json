@@ -9761,6 +9761,12 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-07 04:20:18"
+    },
+    {
+      "name": "Ghost of the Well Lidia",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-07 09:00:15"
     }
   ],
   "25179": [
@@ -10011,6 +10017,12 @@
       "level": "60",
       "state": "yes",
       "timestamp": "2026-11-07 06:20:17"
+    },
+    {
+      "name": "Lord Ishka",
+      "level": "60",
+      "state": "no",
+      "timestamp": "2026-11-07 09:00:15"
     }
   ],
   "25256": [
@@ -17047,6 +17059,12 @@
       "level": "72",
       "state": "yes",
       "timestamp": "2026-11-07 06:20:17"
+    },
+    {
+      "name": "Doom Blade Tanatos",
+      "level": "72",
+      "state": "no",
+      "timestamp": "2026-11-07 09:00:15"
     }
   ],
   "25248": [
@@ -17305,6 +17323,12 @@
       "level": "70",
       "state": "yes",
       "timestamp": "2026-11-07 03:20:15"
+    },
+    {
+      "name": "Meanas Anor",
+      "level": "70",
+      "state": "no",
+      "timestamp": "2026-11-07 09:00:15"
     }
   ],
   "25763": [
