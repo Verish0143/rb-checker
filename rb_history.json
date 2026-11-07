@@ -3123,6 +3123,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-07 04:00:16"
+    },
+    {
+      "name": "Ketra's Commander Tayr",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-07 04:20:18"
     }
   ],
   "25283": [
@@ -3691,6 +3697,12 @@
       "level": "80",
       "state": "yes",
       "timestamp": "2026-11-07 00:40:17"
+    },
+    {
+      "name": "Varka's Commander Mos",
+      "level": "80",
+      "state": "no",
+      "timestamp": "2026-11-07 04:20:18"
     }
   ],
   "25450": [
@@ -5895,6 +5907,12 @@
       "level": "73",
       "state": "no",
       "timestamp": "2026-11-06 09:20:19"
+    },
+    {
+      "name": "Death Lord Hallate",
+      "level": "73",
+      "state": "yes",
+      "timestamp": "2026-11-07 04:20:18"
     }
   ],
   "25523": [
@@ -9503,6 +9521,12 @@
       "level": "60",
       "state": "no",
       "timestamp": "2026-11-05 17:40:02"
+    },
+    {
+      "name": "Ghost of the Well Lidia",
+      "level": "60",
+      "state": "yes",
+      "timestamp": "2026-11-07 04:20:18"
     }
   ],
   "25179": [
@@ -12857,6 +12881,12 @@
       "level": "35",
       "state": "no",
       "timestamp": "2026-11-05 20:00:19"
+    },
+    {
+      "name": "Tasaba Patriarch Hellena",
+      "level": "35",
+      "state": "yes",
+      "timestamp": "2026-11-07 04:20:18"
     }
   ],
   "25020": [
@@ -18159,6 +18189,12 @@
       "level": "23",
       "state": "no",
       "timestamp": "2026-11-05 20:20:19"
+    },
+    {
+      "name": "Greyclaw Kutus",
+      "level": "23",
+      "state": "yes",
+      "timestamp": "2026-11-07 04:20:18"
     }
   ],
   "25735": [
