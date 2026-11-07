@@ -6959,6 +6959,12 @@
       "level": "71",
       "state": "yes",
       "timestamp": "2026-11-07 00:00:17"
+    },
+    {
+      "name": "Eilhalder von Hellmann",
+      "level": "71",
+      "state": "no",
+      "timestamp": "2026-11-07 01:00:16"
     }
   ],
   "25447": [
@@ -13181,6 +13187,12 @@
       "level": "33",
       "state": "no",
       "timestamp": "2026-11-05 19:20:16"
+    },
+    {
+      "name": "Nurka's Messenger",
+      "level": "33",
+      "state": "yes",
+      "timestamp": "2026-11-07 01:00:16"
     }
   ],
   "25128": [
@@ -13407,6 +13419,12 @@
       "level": "32",
       "state": "no",
       "timestamp": "2026-11-05 18:00:20"
+    },
+    {
+      "name": "Captain of Queen's Royal Guards",
+      "level": "32",
+      "state": "yes",
+      "timestamp": "2026-11-07 01:00:16"
     }
   ],
   "25188": [
