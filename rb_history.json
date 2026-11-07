@@ -4309,6 +4309,12 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-11-07 05:40:15"
+    },
+    {
+      "name": "Fire of Wrath Shuriel",
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-07 11:00:16"
     }
   ],
   "25293": [
@@ -11083,6 +11089,12 @@
       "level": "55",
       "state": "yes",
       "timestamp": "2026-11-06 23:20:17"
+    },
+    {
+      "name": "Zaken's Butcher Krantz",
+      "level": "55",
+      "state": "no",
+      "timestamp": "2026-11-07 11:00:16"
     }
   ],
   "25159": [
