@@ -4649,6 +4649,12 @@
       "level": "78",
       "state": "yes",
       "timestamp": "2026-11-07 15:40:16"
+    },
+    {
+      "name": "Last Lesser Giant Glaki",
+      "level": "78",
+      "state": "no",
+      "timestamp": "2026-11-07 16:20:18"
     }
   ],
   "25524": [
@@ -17085,6 +17091,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-06 22:00:19"
+    },
+    {
+      "name": "Kernon",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-07 16:20:18"
     }
   ],
   "25054": [
