@@ -1805,6 +1805,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-07 10:40:16"
+    },
+    {
+      "name": "Last Titan Utenus",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-07 17:00:18"
     }
   ],
   "25544": [
@@ -5631,6 +5637,12 @@
       "level": "75",
       "state": "no",
       "timestamp": "2026-11-06 09:00:16"
+    },
+    {
+      "name": "Menacing Palatanos",
+      "level": "75",
+      "state": "yes",
+      "timestamp": "2026-11-07 17:00:18"
     }
   ],
   "25229": [
@@ -7667,6 +7679,12 @@
       "level": "70",
       "state": "no",
       "timestamp": "2026-11-06 10:20:16"
+    },
+    {
+      "name": "Beast Lord Behemoth",
+      "level": "70",
+      "state": "yes",
+      "timestamp": "2026-11-07 17:00:18"
     }
   ],
   "25198": [
