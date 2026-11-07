@@ -1365,6 +1365,12 @@
       "level": "83",
       "state": "no",
       "timestamp": "2026-11-07 06:20:17"
+    },
+    {
+      "name": "Hekaton Prime",
+      "level": "83",
+      "state": "yes",
+      "timestamp": "2026-11-07 07:20:16"
     }
   ],
   "25684": [
@@ -16615,6 +16621,12 @@
       "level": "80",
       "state": "no",
       "timestamp": "2026-11-06 18:40:15"
+    },
+    {
+      "name": "Varka's Hero Shadith",
+      "level": "80",
+      "state": "yes",
+      "timestamp": "2026-11-07 07:20:16"
     }
   ],
   "25794": [
